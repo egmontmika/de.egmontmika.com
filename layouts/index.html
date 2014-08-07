@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <title>Egmont Mika (de)</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <!--[if lt IE 9]>
+    <script src="js/html5shiv.min.js></script>
+  <![endif]-->
+  <link rel="stylesheet" href="/css/normalize.css">
+  <link rel="stylesheet" href="/css/general.css">
+  <link rel="stylesheet" href="/css/frontpage.css">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
+</head>
+<body>
+<main>
+  <nav>
+    {{ template "partials/mainMenu.html" .Site.Menus.main }}
+  </nav>
+  <header>
+    <h1>Egmont Mika</h1>
+    <p>Nachfolge<br>Gemeinschaft<br>Auftrag</p>
+  </header>
+  <nav>
+    <p><a href="/blog/">Blog</a></p>
+  </nav>
+  <section>
+    <article>
+      <header><h1>Über mich</h1></header>
+      <dl>
+        <dt>Wohnort</dt><dd>Uppsala, Schweden</dd>
+        <dt>Familie</dt><dd>Ehefrau Åsa Mika, fünf Kinder, sechs Enkelkinder</dd>
+        <dt>Beruf</dt><dd>Kunsterzieher und Deutschlehrer in Uppsala, Schweden</dd>
+        <dt>Nachfolge Jesu</dt><dd>Jünger, Mentor, Leiter einer Hausgemeinde</dd>
+      </dl>
+      <footer><p><a href="/ueber-mich/">Mehr</a></p></footer>
+    </article>
+    <article>
+      <header><h1>Thema</h1></header>
+      <p>Ich schreibe zum Thema Jesus-Nachfolge, Jünger-Gemeinschaft und Auftrag. Dabei leiten mich      folgende Fragen:</p>
+    <p>1) Wie waren Nachfolge Jesu, Gemeinschaft der Jünger und Jesu Auftrag ursprünglich gedacht?</p>
+    <p>2) Wie lässt sich dies alles heute, angesichts üblicher Denk- und Verhaltensmuster, kirchlicher Traditionen und aktueller gesellschaftlicher Trends, glaubwürdig und authentisch verwirklichen?</p>
+      <footer><p><a href="/blog/">zum Blog</a></p></footer>
+    </article>
+    <article>
+      <header><h1>Kontakt</h1></header>
+      <p>Hast du Gedanken oder Fragen über mich oder zu meinem Thema? Oder möchtest du dich mit jemandem austauschen?</p>
+      <p>Dann fühle dich frei, mir eine Mail zu schicken.</p>
+    <p>Ich antworte in der Regel noch am gleichen Tag, auf alle Fälle aber innerhalb von drei Tagen.</p>
+      <footer><p><a href="/kontakt/">Mehr</a></p></footer>
+    </article>
+  </section>
+  <section>
+    {{ range first 2 .Site.Sections.blog.Pages.ByDate.Reverse }}
+      <article>
+        <header>
+          <h1><a href='{{ .Permalink }}'>{{ .Title }}</a></h1>
+          <p><time>{{ .Date.Format "2006/01/02" }}</time>&nbsp;&nbsp;{{ .FuzzyWordCount }} Wörter</p>
+        </header>
+        <p>{{ .Content }}</p>
+        <footer><p><a href='{{ .Permalink }}'>Mehr</a><p></footer>
+      </article>
+    {{ end }}
+  </section>
+  <footer>
+    <p>&copy; 2014 Egmont Mika</p>
+  </footer>
+</main>
+</body>
+</html>

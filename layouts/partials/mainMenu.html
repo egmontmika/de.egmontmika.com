@@ -1,0 +1,16 @@
+<ul>
+	<li>
+		<a href="/">Start</a>
+	</li>
+	<li>
+		<a href="/blog">Blog</a>
+	</li>
+	<li>
+		<a href="http://egmontmika.com/">English</a>
+	</li>
+	{{ range . }}
+	<li>
+		<a href="{{.Url}}">{{ .Name }}</a>
+	</li>
+	{{end}}
+</ul>
