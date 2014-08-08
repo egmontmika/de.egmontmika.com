@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600,300italic);
 body {
   font-family: 'Open Sans', sans-serif;
-  font-size: 1.2em;
+  font-size: 1.0em;
   line-height: 1.4;
   font-weight: 400;
   letter-spacing: 0.3px;
@@ -34,36 +34,38 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.6em;
+  font-size: 2.0em;
   line-height: 1.3;
-  font-weight: 400
-  text-decoration-color: #3c3c3c;
+  font-weight: 600;
+  color: #74C825;
+
 }
 h2 {
   font-size: 1.6em;
-  line-height: 3;
-  font-weight: 400
-  text-decoration-color: #8c8c8c;
+  line-height: 2.10em;
+  font-weight: 400;
+  color: #9c9c9c;
+
 }
 h3 {
-  font-size: 1.6em;
-  line-height: 3;
+  font-size: 1.4em;
+  line-height: 2;
   font-weight: 400
-  text-decoration-color: #9c9c9c;
 
 }
 h4 {
-  font-size: 1.4em;
-  line-height: 3;
+  font-size: 1.2em;
+  line-height: 1.8;
   font-weight: 400
 }
 h5 {
   font-size: 1.1em;
-  line-height: 3;
+  line-height: 1.6;
   font-weight: 400
 }
 h6 {
-  font-size: 1,1em;
+  font-size: 1em;
+  line-height: 1.4;
   font-weight: 400;
 }
 article img {
@@ -71,34 +73,48 @@ article img {
   height: auto;
 }
 body > main > aside {
-  font-size: 1.2em;
-}
-body > main > footer {
-  background: #e9e9e9;
-  text-align: center;
-  color: #ffffff;
-  padding: 0.2em;
-  margin-top: 2em;
-  margin-bottom: 3em;
+  font-size: 1.0em;
 
 }
+/* Footer 2014 Egmont Mika grey box */
+body > main > footer {
+  padding-top: 2em;
+  padding-bottom: 2em;
+
+}
+body > main > footer > p {
+  text-align: center;
+  color: #ffffff;
+  padding: 2em;
+  width: 100%;
+  text-align: center;
+  background-color: rgba(209, 206, 206, 1);
+}
+/* */
 body > main {
   max-width: 60em;
   margin: auto;
   padding-left: 1em;
   padding-right: 1em;
+
+
 }
+/* Footer after articles, links: zum Blogg mehr*/
 body > main article > footer > p {
   text-align: right;
   margin-top: -1em;
   margin-right: 1em;
+  margin-bottom:1em;
 }
 nav ul {
   list-style-type: none;
   padding-left: 0;
+
 }
+/*Main menu*/
 body > main > nav li a {
   color: #9c9c9c;
+  font-size: 0.8em;
 }
 @media only screen and (min-width: 40em) {
   body > main > nav ul {

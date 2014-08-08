@@ -37,8 +37,8 @@ body > main > header {
   margin-bottom: 3em;
   position: relative;
 }
+/*headline: EGMONT MIKA*/
 body > main > header > h1 {
-  font-size: 1.4em;
   font-weight: 600;
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -49,8 +49,10 @@ body > main > header > h1 {
   width: 100%;
   text-align: center;
 }
+/*Subheadline: Nachfolge, Gemeinschaft, Auftrag*/
 body > main > header > p {
   color: #ffffff;
+  font-size: 1.2em;
   font-weight: 400;
   text-align: right;
   position: absolute;
@@ -88,9 +90,9 @@ body > main > header > p {
   body > main > section:last-of-type > article:last-of-type > * {
     margin-left: 1.6em;
   }
-  body > main > footer {
-    margin-top: 1em;
-    clear: both;
+/*footer (grey box)*/
+body > main > footer {
+  clear: both;
   }
   body > main > header {
     background-size: auto auto;
@@ -107,11 +109,13 @@ body > main > header > p {
   }
   body > main > header > p {
     color: #ffffff;
+    font-size: 1.4;
     font-weight: 400;
     text-align: right;
     position: absolute;
     top: 0.7em;
-    right: 5em;
+    right: 4em;
+
 
   }
   body > main > nav:nth-of-type(2) > p {

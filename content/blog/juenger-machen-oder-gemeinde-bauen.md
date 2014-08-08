@@ -10,7 +10,7 @@ Nicht unbedingt. Nicht in der Praxis.
 
 Bringen wir's auf den Punkt. Hier der Vergleich:
 
-# Jünger machen
+## Jünger machen
 
 Fangen wir mit den Jüngern an: Wir erzählen Menschen vom auferstandenen Herrn und zeigen ihnen in Wort und Tat das Reich Gottes. Wir lehren sie und lassen sie an unserem Leben teilhaben. Und wir leiten sie an, ihrerseits Jünger zu machen.
 
@@ -22,7 +22,7 @@ Sie treffen sich in Heimen, auf Marktplätzen, in Fußgängerzonen, in Parks, am
 
 Gemeinde in diesem Sinn, das ist ganz einfach die Gemeinschaft der Jünger Jesu.
 
-# Gemeinde bauen
+## Gemeinde bauen
 
 Wählen wir jetzt die zweite Alternative. Fangen wir mit der Gemeinde an. Wir starten eine Organisaton mit Namen und Statuten, mit Vorstand und Ämtern und mit einer Webseite. Wir mieten Räumlichkeiten und veranstalten wöchentliche Gottesdienste. Wir laden dazu  ein und arbeiten darauf hin, Besucher zu bekommen und Besucher zu Mitgliedern zu machen.
 
@@ -30,7 +30,7 @@ Wir bauen weiter aus mit Sonntagsschule, Jugendgottesdiensten, Lobpreisgottesdie
 
 Durch diese Gemeinde wollen wir dann auch Jünger machen. Die Frage ist nur: Was kommt dabei heraus?
 
-# Ergebnis
+## Ergebnis
 
 Fassen wir zusammen:
 
@@ -42,4 +42,4 @@ Jesus sagte nicht: „Macht Gottesdienste!"
 
 Damit ist klar, worauf es ankommt. Womit wir anfangen und worauf wir setzen, entscheidet schließlich über das Ergebnis.
 
-Worauf möchtest du setzen?
+Jesus sagte: „Macht Jünger!"

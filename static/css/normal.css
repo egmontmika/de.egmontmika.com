@@ -9,20 +9,35 @@ body > main > header {
   padding-top: 1.8em;
   margin-bottom: 3em;
 }
+/*EGMONT MIKA*/
 body > main > header > h1 {
-  font-size: 1.6em;
-  line-height: 1.2;
+  font-size: 1.4em;
+  line-height: 2em;
   padding-top: 1em;
   padding-left: 3em;
-  color: #9c9c9c;
+  color: #fff;
   font-weight: 400;
   letter-spacing: 10px;
   text-transform: uppercase;
 }
+/*Blog article headlines*/
+body > main > section > article > header > h1 {
+  font-size: 1.6em;
+  margin-top: 2em;
+}
+/*Subheadlines inside articles*/
+body > main > section > article > h2 {
+font-size: 1.6em;
+font-weight: 400;
+margin-bottom: -0.5em;
+
+}
 body > main > aside h1 {
-  font-size: 1.4em;
-  line-height: 3;
-  font-weight: 400;
+  font-size: 1.2em;
+  line-height: 1.6;
+  font-weight: 600;
+  color: #9c9c9c;
+
 }
 body > main > aside > ul {
   padding-left: 0;
