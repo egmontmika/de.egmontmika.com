@@ -20,35 +20,36 @@ body > main > header > h1 {
   letter-spacing: 10px;
   text-transform: uppercase;
 }
-/*Blog article headlines*/
+/*Blog headlines*/
 body > main > section > article > header > h1 {
   font-size: 1.6em;
   margin-top: 2em;
+  color: green;
 }
 /*Subheadlines inside articles*/
-body > main > section > article > h2 {
+body > main > section > article > header > h2 {
 font-size: 1.6em;
 font-weight: 400;
 margin-bottom: -0.5em;
-
+color: green;
+background-color: red;
 }
-body > main > aside h1 {
+/*Right column: Weitere Artikel etc*/
+body > main > aside > h1 {
   font-size: 1.2em;
   line-height: 1.6;
   font-weight: 600;
-  color: #9c9c9c;
-
+  letter-spacing: 0.1em;
+  color: rgba(10, 24, 177, 1);
 }
 body > main > aside > ul {
   padding-left: 0;
 }
 body > main > aside > ul > li{
   list-style-type: none;
-  background-color: white;
   padding-bottom: 0.2em;
   text-align: left;
   font-size: 0.9em;
-
 }
 @media only screen and (max-width: 39.9em) {
   body > div > header > h1 {
@@ -64,7 +65,6 @@ body > main > aside > ul > li{
   body > main > aside {
     float: right;
     width: 25%;
-
   }
   body > main > footer {
     clear: both;
