@@ -19,17 +19,17 @@ body > main article > header > h1 {
 /*Grey background*/
 body > main > section > article  {
   background-width: 100%;
-background-color: rgba(39, 40, 41, 0.02);
   padding-bottom: 2em;
   padding-left: 2em;
   padding-right:2em;
   margin-bottom: 2em;
 }
-body > main > p {
-  font-size: 1.2em;
+body > main > h3 {
+  font-size: 1.4em;
   letter-spacing: 0.1em;
-  font-weight: 600;
+  font-weight: 200;
   color: rgba(191, 188, 188, 1);
+  margin-left: 1.6em;
 }
 body > main > section:first-of-type > article > dl > dd {
   margin-left: 0;
@@ -95,6 +95,8 @@ body > main > header > p {
     float: left;
     font-size: 0.9em;
     height: 25em;
+    background-color: rgba(39, 40, 41, 0.02);
+
   }
   body > main > section:first-of-type > article:first-of-type,
   body > main > section:first-of-type > article:last-of-type {
@@ -138,6 +140,7 @@ body > main > section:last-of-type > article:last-of-type > header >  h1 {
 body > main > footer {
   clear: both;
   width: 56em;
+
 }
 body > main > header {
   background-size: auto auto;
