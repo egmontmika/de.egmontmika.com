@@ -16,11 +16,20 @@ body > main article > header > h1 {
   font-weight: 600;
   letter-spacing: 3px;
 }
+/*Grey background*/
+body > main > section > article  {
+  background-width: 100%;
+  background-color: rgba(242, 243, 241, 1);
+  margin-top: 2em;
+  padding-bottom: 2em;
+  padding-left: 2em;
+  padding-right:2em;
+}
 body > main > section:first-of-type > article > dl > dd {
   margin-left: 0;
 }
 body > main > section:first-of-type > article > header > h1 {
-  color: grey;
+  color: rgba(198, 22, 22, 1);
 }
 body > main > section:first-of-type > article > dl > dd:not(:last-of-type) {
   margin-bottom: 0.6em;
@@ -72,28 +81,33 @@ body > main > header > p {
 }
 @media only screen and (min-width: 40em) {
   body > main > section:first-of-type > article {
-    width: 40%;
+    width: 34%;
     float: left;
     font-size: 0.9em;
+    height: 25em;
   }
   body > main > section:first-of-type > article:first-of-type,
   body > main > section:first-of-type > article:last-of-type {
-    width: 30%;
+    width: 24%;
+
   }
   body > main > section:first-of-type > article:first-of-type > * {
     margin-right: 2.2em;
+
   }
   body > main > section:first-of-type > article:last-of-type > * {
     margin-left: 2.2em;
+
   }
   body > main > section {
     clear: both;
   }
   /*Two colums - Short form of articles*/
   body > main > section:last-of-type > article {
-    width: 50%;
+    width: 44%;
     float: left;
     font-size: 0.9em;
+    height: 22em;
   }
   body > main > section:last-of-type > article:first-of-type > * {
     margin-right: 1.6em;
@@ -105,14 +119,15 @@ body > main > header > p {
 }
 
 body > main > section:last-of-type > article:first-of-type > header > h1 {
-  color: green;
+  color: rgba(3, 168, 3, 1);
 }
-body > main > section:last-of-type > article:last-of-type > header >  {
-  color: green;
+body > main > section:last-of-type > article:last-of-type > header >  h1 {
+  color: rgba(3, 168, 3, 1);
 }
 /*footer (grey box)*/
 body > main > footer {
   clear: both;
+  width: 56em;
 }
 body > main > header {
   background-size: auto auto;
