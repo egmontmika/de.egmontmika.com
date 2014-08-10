@@ -19,23 +19,33 @@ body > main article > header > h1 {
 /*Grey background*/
 body > main > section > article  {
   background-width: 100%;
-  background-color: rgba(242, 243, 241, 1);
-  margin-top: 2em;
+background-color: rgba(39, 40, 41, 0.02);
   padding-bottom: 2em;
   padding-left: 2em;
   padding-right:2em;
+  margin-bottom: 2em;
+}
+body > main > p {
+  font-size: 1.2em;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  color: rgba(191, 188, 188, 1);
 }
 body > main > section:first-of-type > article > dl > dd {
   margin-left: 0;
 }
+body > main > section:first-of-type {
+  background-color: rgba(248, 246, 246, 1);
+}
 body > main > section:first-of-type > article > header > h1 {
-  color: rgba(198, 22, 22, 1);
+  color: rgba(9, 92, 185, 1);
 }
 body > main > section:first-of-type > article > dl > dd:not(:last-of-type) {
   margin-bottom: 0.6em;
 }
 body > main > section:first-of-type > article > dl > dt {
   font-weight: 600;
+
 }
 /* Background Picture*/
 body > main > header {
@@ -107,7 +117,7 @@ body > main > header > p {
     width: 44%;
     float: left;
     font-size: 0.9em;
-    height: 22em;
+    height: 21em;
   }
   body > main > section:last-of-type > article:first-of-type > * {
     margin-right: 1.6em;
@@ -147,6 +157,8 @@ body > main > header > h1 {
 body > main > nav:nth-of-type(2) > p {
   position: relative;
   left: 10%;
+  margin-top: 4em;
+  margin-bottom: 4em;
 }
 body > main > nav:nth-of-type(2) > p {
   text-align: center;
