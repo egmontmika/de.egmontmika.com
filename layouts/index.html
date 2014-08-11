@@ -25,6 +25,7 @@
     <p><a href="/blog/">Blog</a></p>
   </nav>
   <section>
+    <header></header>
     <article>
       <header><h1>Über mich</h1></header>
       <dl>
@@ -49,19 +50,22 @@
     <p>Ich antworte in der Regel noch am gleichen Tag, auf alle Fälle aber innerhalb von drei Tagen.</p>
       <footer><p><a href="/kontakt/">mehr</a></p></footer>
     </article>
+    <footer>
+    </footer>
   </section>
-  <h1>Letzte Artikel</h1>
   <section>
+    <header><h1>Letzte Artikel</h1></header>
     {{ range first 2 .Site.Sections.blog.Pages.ByDate.Reverse }}
       <article>
         <header>
           <h1><a href='{{ .Permalink }}'>{{ .Title }}</a></h1>
           <p><time>{{ .Date.Format "2006/01/02" }}</time>&nbsp;&nbsp;{{ .FuzzyWordCount }} Wörter</p>
         </header>
-        <p>{{ .Content }}</p>
+        {{ .Content }}
         <footer><p><a href='{{ .Permalink }}'>mehr</a><p></footer>
       </article>
     {{ end }}
+    </footer>
   </section>
   <footer>
     <p>&copy; 2014 Egmont Mika</p>

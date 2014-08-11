@@ -76,17 +76,16 @@ body > main > aside {
 }
 /* Footer 2014 Egmont Mika grey box */
 body > main > footer {
-  padding-top: 2em;
-  padding-bottom: 2em;
-
+  padding-top: 1em;
+  padding-bottom: 1em;
+  clear: both;
+  background-color: rgba(209, 206, 206, 1);
 }
 body > main > footer > p {
   text-align: center;
   color: #ffffff;
-  padding: 2em;
-  width: 100%;
   text-align: center;
-  background-color: rgba(209, 206, 206, 1);
+  width: 100%;
 }
 /* */
 body > main {
@@ -94,22 +93,22 @@ body > main {
   margin: auto;
   padding-left: 1em;
   padding-right: 1em;
-
-
 }
 /* Footer after articles, links: zum Blogg mehr*/
-body > main article > footer > p {
+body > main article > footer {
   text-align: right;
-  margin-top: -1em;
+  margin-top: 0;
   margin-right: 1em;
-  margin-bottom:1em;
+}
+body > main article > footer > p {
+  margin: 0;
 }
 nav ul {
   list-style-type: none;
   padding-left: 0;
 
 }
-/*Main menu*/
+/* Main menu */
 body > main > nav li a {
   color: #9c9c9c;
   font-size: 0.8em;
