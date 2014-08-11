@@ -22,20 +22,21 @@ body > main > section > article  {
   padding-bottom: 2em;
   padding-left: 2em;
   padding-right:2em;
-  margin-bottom: 2em;
+  margin-bottom: em;
 }
-body > main > h3 {
-  font-size: 1.4em;
+body > main > h1 {
+  font-size: 1em;
   letter-spacing: 0.1em;
-  font-weight: 200;
-  color: rgba(191, 188, 188, 1);
+  font-weight: 700;
+  color: rgba(133, 142, 150, 0.66);
   margin-left: 1.6em;
+  padding-top: 2em;/*Abstand funktioniert nicht*/
 }
 body > main > section:first-of-type > article > dl > dd {
   margin-left: 0;
 }
 body > main > section:first-of-type {
-  background-color: rgba(248, 246, 246, 1);
+
 }
 body > main > section:first-of-type > article > header > h1 {
   color: rgba(9, 92, 185, 1);
@@ -95,7 +96,7 @@ body > main > header > p {
     float: left;
     font-size: 0.9em;
     height: 25em;
-    background-color: rgba(39, 40, 41, 0.02);
+    background-color: rgba(133, 142, 150, 0.15);
 
   }
   body > main > section:first-of-type > article:first-of-type,
