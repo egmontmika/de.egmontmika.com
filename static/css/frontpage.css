@@ -10,8 +10,8 @@ body > main article > header > h1 {
 body > main > section > header > h1 { /* Überschrift für sektion (z.B. Letzte Artikel) */
   font-size: 1em;
   letter-spacing: 0.1em;
-  font-weight: 700;
-  color: rgba(133, 142, 150, 0.66);
+  font-weight: 400;
+  color: grey;
   margin-top: 2em;
 }
 body > main > section > footer {

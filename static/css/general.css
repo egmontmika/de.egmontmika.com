@@ -78,6 +78,8 @@ body > main > aside {
 body > main > footer {
   padding-top: 1em;
   padding-bottom: 1em;
+  padding-top: 1em;
+  marginal-bottom: 4em;
   clear: both;
   background-color: rgba(209, 206, 206, 1);
 }
@@ -94,11 +96,12 @@ body > main {
   padding-left: 1em;
   padding-right: 1em;
 }
-/* Footer after articles, links: zum Blogg mehr*/
+/* Footer after articles, links: zum Blog, mehr*/
 body > main article > footer {
   text-align: right;
-  margin-top: 0;
-  margin-right: 1em;
+  margin-right: 2em;
+  font-weight: 400;
+
 }
 body > main article > footer > p {
   margin: 0;

@@ -22,34 +22,38 @@ body > main > header > h1 {
 }
 /*Blog headlines*/
 body > main > section > article > header > h1 {
-  font-size: 1.6em;
-  margin-top: 2em;
+  font-size: 1.2;
+  margin-top: 1em;
   color: green;
 }
 /*Subheadlines inside articles*/
 body > main > section > article > header > h2 {
-font-size: 1.6em;
+font-size: 1;
 font-weight: 400;
 margin-bottom: -0.5em;
 color: green;
 background-color: red;
+
 }
 /*Right column: Weitere Artikel etc*/
 body > main > aside > h1 {
-  font-size: 1.2em;
+  font-size: 1.4em;
   line-height: 1.6;
   font-weight: 600;
   letter-spacing: 0.1em;
-  color: rgba(10, 24, 177, 1);
+  color: rgba(75, 95, 246, 1);
 }
 body > main > aside > ul {
   padding-left: 0;
+
 }
 body > main > aside > ul > li{
   list-style-type: none;
   padding-bottom: 0.2em;
   text-align: left;
   font-size: 0.9em;
+
+
 }
 @media only screen and (max-width: 39.9em) {
   body > div > header > h1 {
