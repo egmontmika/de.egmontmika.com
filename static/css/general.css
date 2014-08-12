@@ -33,10 +33,10 @@ h1, h2, h3, h4, h5, h6 {
   hyphens: none;
 }
 h1 {
-  font-size: 1.6em;
+  font-size: 2.2em;
   line-height: 1.8em;
   font-weight: 600;
-  color: green;
+  color: rgba(6, 177, 6, 1);
 
 }
 h2 {
@@ -68,6 +68,13 @@ h6 {
   font-size: 1em;
   line-height: 1.4;
   font-weight: 400;
+}
+a,
+a:link,
+a:visited,
+a:hover,
+a:active{
+  color:green;
 }
 article img {
   width: 100%;
@@ -116,6 +123,9 @@ nav ul {
 body > main > nav li a {
   color: rgba(31, 179, 85, 1);
   font-size: 0.8em;
+}
+  body > main > nav li a:active {
+    color: red;
 }
 @media only screen and (min-width: 40em) {
   body > main > nav ul {
