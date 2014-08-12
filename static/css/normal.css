@@ -22,9 +22,10 @@ body > main > header > h1 {
 }
 /*Blog headlines*/
 body > main > section > article > header > h1 {
-  font-size: 1.2;
   margin-top: 0.2em;
+  font-size: 2.2;
   color: green;
+
 }
 /*Subheadlines inside articles*/
 body > main > section > article > header > h2 {

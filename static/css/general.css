@@ -33,17 +33,17 @@ h1, h2, h3, h4, h5, h6 {
   hyphens: none;
 }
 h1 {
-  font-size: 1.8em;
-  line-height: 2.3;
+  font-size: 1.6em;
+  line-height: 1.8em;
   font-weight: 600;
   color: green;
 
 }
 h2 {
-  font-size: 1.4em;
-  line-height: 2.10em;
+  font-size: 1.2em;
+  line-height: 1.8em;
   font-weight: 400;
-  color: rgba(80, 161, 81, 1);
+  color: rgba(7, 194, 10, 1);
   margin-bottom: -0.6em;
 
 
@@ -103,21 +103,18 @@ body > main article > footer {
   text-align: right;
   margin-right: 2em;
   font-weight: 400;
-
-
-
 }
 body > main article > footer > p {
   margin: 0;
+
 }
 nav ul {
   list-style-type: none;
   padding-left: 0;
-
 }
 /* Main menu */
 body > main > nav li a {
-  color: #9c9c9c;
+  color: rgba(31, 179, 85, 1);
   font-size: 0.8em;
 }
 @media only screen and (min-width: 40em) {

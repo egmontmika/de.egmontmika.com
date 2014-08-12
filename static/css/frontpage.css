@@ -42,6 +42,7 @@ body > main > section:first-of-type > article > dl > dt {
 body > main > section:last-of-type > article > * {
   display: none;
 }
+
 body > main > section:last-of-type > article > header,
 body > main > section:last-of-type > article > footer,
 body > main > section:last-of-type > article > *:nth-child(2),
@@ -129,10 +130,12 @@ body > main > nav:nth-of-type(2) > p > a {
     font-size: 0.9em;
     height: 25em;
   }
+
   body > main > section:first-of-type > article:first-of-type,
   body > main > section:first-of-type > article:last-of-type {
     width: 30%;
   }
+
   body > main > section:first-of-type > article:nth-of-type(2) > * {
     margin-right: 0em;
     margin-left: 0em;
@@ -147,11 +150,12 @@ body > main > nav:nth-of-type(2) > p > a {
     font-size: 0.9em;
     height: 21em;
     margin-bottom: 2em;
-  }
+}
   body > main > section:last-of-type > article:first-of-type > * {
     margin-right: 1.6em;
   }
   body > main > section:last-of-type > article:last-of-type > * {
     margin-left: 1.6em;
+
   }
-}
+  }
