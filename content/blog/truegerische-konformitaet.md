@@ -22,7 +22,7 @@ Welch ein himmelweiter Unterschied! Innerer Friede und freudige Gewissheit statt
 
 ## Was tun?
 
-Die Frage, die mich bewegt: Wie kann man einem Menschen zu einer echten Bekehrung helfen?
+Die Frage, die mich bewegt: Wie kann man einen Menschen zu einer echten Bekehrung führen?
 
 Da hilft nur, den anderen kennenzulernen, sich kümmern, eine Vertrauensbasis aufbauen und sich leiten lassen. Behutsam, demütig und respektvoll. Warten können, dem anderen Zeit geben. Leiten, nicht manipulieren.
 
