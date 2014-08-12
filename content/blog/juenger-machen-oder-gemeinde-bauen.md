@@ -2,13 +2,11 @@
 title = "Jünger oder Gemeinde?"
 date = 2014-08-01T03:01:45Z
 +++
-Was ist vorrangig: „Jünger machen" oder „Gemeinde bauen"? Was kommt eigentlich zuerst?
+Was ist vorrangig: Jünger machen oder Gemeinde bauen? Was kommt eigentlich zuerst?
 
-Du denkst vielleicht: „Welch eine Frage! Beides gehört doch zusammen. Wo Jünger, da auch Gemeinde und wo Gemeinde, da auch Jünger." Oder?
+Wieso! Beides gehört doch zusammen. Wo Jünger, da auch Gemeinde und wo Gemeinde, da auch Jünger. Oder?
 
-Nicht unbedingt. Nicht in der Praxis.
-
-Bringen wir's auf den Punkt. Hier der Vergleich:
+Nicht unbedingt. Nicht immer in der Praxis. Bringen wir's auf den Punkt. Hier der Vergleich:
 
 ## Jünger machen
 
@@ -16,7 +14,7 @@ Fangen wir mit den Jüngern an: Wir erzählen Menschen vom auferstandenen Herrn 
 
 Damit ist ein Prozeß ständig wachsender Gemeinschaft ins Leben gerufen. Diese Gemeinschaft ist die Gemeinde.
 
-Gemeinde in diesem Sinn braucht nicht „gegründet” zu werden. Sie entsteht von sich aus überall da, wo Jünger gemacht werden, als Jüngerfamilien und Jüngerkreise, nach und nach, und immer wieder kommen neue hinzu.
+Gemeinde in diesem Sinn braucht nicht „gegründet” zu werden. Sie entsteht von selbst überall da, wo Jünger gemacht werden, als Jüngerfamilien und Jüngerkreise, nach und nach, und immer wieder entstehen neue.
 
 Sie treffen sich in Heimen, auf Marktplätzen, in Fußgängerzonen, in Parks, am Strand, im Wald, in kleineren und größeren Gruppen oder als Einzelne, wie und wo auch immer. Sie teilen ihr Leben, dienen einander, sind "Salz" und "Licht" und nehmen Jesu Auftrag wahr.
 
@@ -28,15 +26,15 @@ Wählen wir jetzt die zweite Alternative. Fangen wir mit der Gemeinde an. Wir st
 
 Wir bauen weiter aus mit Sonntagsschule, Jugendgottesdiensten, Lobpreisgottesdiensten, Bibelabenden, Gebetsversammlungen, Gruppenabenden... und füllen die Woche mit unseren Programmen. Wir nennen das alles "unsere Gemeinde".
 
-Durch diese Gemeinde wollen wir dann auch Jünger machen. Die Frage ist nur: Was kommt dabei heraus?
+Durch diese Gemeinde wollen wir dann auch Jünger machen. Die Frage ist nur: Was kommt dabei heraus? Hm...
 
 ## Ergebnis
 
 Fassen wir zusammen:
 
-1. Wenn wir Jünger machen, bekommen wir genau das, nämlich Jünger. Gleichzeitig mit den Jüngern bekommen wir automatisch auch die daraus entstehende Gemeinschaft, das heißt eine Gemeinde.
+1. Wenn wir Jünger machen, bekommen wir genau das, nämlich Jünger. Gleichzeitig mit den Jüngern bekommen wir ganz von selbst die daraus entstehende Gemeinschaft, das heißt eine Gemeinde.
 
-2. Wenn wir eine Organisation bauen und uns auf die Durchführung von Gottesdiensten und Programmen konzentrieren, dann bekommen wir auch hier genau das, nämlich Gottesdienste und Programme und gleichzeitig auch Teilnehmer. Aber nicht unbedingt Jünger.
+2. Wenn wir eine Organisation starten und uns auf die Durchführung von Gottesdiensten und Programmen konzentrieren, dann bekommen wir auch hier genau das, nämlich Gottesdienste und Programme und gleichzeitig auch Teilnehmer. Aber nicht unbedingt Jünger.
 
 Jesus sagte nicht: „Macht Gottesdienste!"
 

@@ -18,10 +18,10 @@ Zwei Jahre später, mit zwanzig, nahm mich dann der Herr aufs Korn und es folgte
 
 Welch ein himmelweiter Unterschied! Innerer Friede und freudige Gewissheit statt banges Hoffen. Liebe zum Herrn statt schlechtes Gewissen. Lebendiger Glaube statt Besserwisserei. Ganzherzige Hingabe statt Verpflichtung.
 
-Die Frage, die mich bewegt, ist: Wie könnte man einem Menschen helfen, über diese Schwelle zu kommen? Ich glaube, es gibt da kein Patentrezept.
+Die Frage, die mich bewegt, ist: Wie könnte man einem Menschen helfen, über diese Schwelle zu kommen?
 
-Da hilft nur, den anderen kennenzulernen. Sich kümmern, eine Vertrauensbasis aufbauen und sich leiten lassen, behutsam, demütig und respektvoll. Warten können, dem anderen Zeit geben. Leiten ohne zu manipulieren.
+Da hilft nur, den anderen kennenzulernen, sich kümmern, eine Vertrauensbasis aufbauen und sich leiten lassen. Behutsam, demütig und respektvoll. Warten können, dem anderen Zeit geben. Leiten, nicht manipulieren.
 
-Zugegeben, die Aufgabe ist nicht leicht. Auf die Schnelle geht da nichts. Echte Jüngerschaft ist nicht Duzendware. Mit Anpassung und Eingliederung ist nicht viel gewonnen. Zugehörigkeit macht noch keinen zum Jünger.
+Zugegeben, die Aufgabe ist nicht leicht. Auf die Schnelle geht da nichts. Auch wenn es am Anfang zwölf Jünger waren, so ist echte Jüngerschaft dennoch nicht Dutzendware. Mit äußerer Anpassung und sozialer Eingliederung ist noch nicht viel erreicht. Soziale oder formelle Zugehörigkeit macht noch keinen zum Jünger.
 
 Jedoch gibt es einen Weg, den zu gehen sich lohnt.

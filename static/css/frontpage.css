@@ -7,7 +7,7 @@ body > main article > header > h1 {
   font-weight: 600;
   letter-spacing: 3px;
 }
-body > main > section > header > h1 { /* Überschrift für sektion (z.B. Letzte Artikel) */
+body > main > section > header > h1 { /* Überschrift für sektion (z.B. Letzter Artikel) */
   font-size: 1em;
   letter-spacing: 0.1em;
   font-weight: 400;
@@ -146,6 +146,7 @@ body > main > nav:nth-of-type(2) > p > a {
     float: left;
     font-size: 0.9em;
     height: 21em;
+    margin-bottom: 2em;
   }
   body > main > section:last-of-type > article:first-of-type > * {
     margin-right: 1.6em;

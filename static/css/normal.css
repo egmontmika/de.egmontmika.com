@@ -23,7 +23,7 @@ body > main > header > h1 {
 /*Blog headlines*/
 body > main > section > article > header > h1 {
   font-size: 1.2;
-  margin-top: 1em;
+  margin-top: 0.2em;
   color: green;
 }
 /*Subheadlines inside articles*/
@@ -31,7 +31,7 @@ body > main > section > article > header > h2 {
 font-size: 1;
 font-weight: 400;
 margin-bottom: -0.5em;
-color: green;
+color: rgba(80, 161, 81, 1);
 background-color: red;
 
 }
