@@ -5,7 +5,7 @@ body > main article > header > h1 {
   padding-top: 0;
   margin-top: 0;
   font-weight: 600;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
 }
 body > main > section > header > h1 { /* Überschrift für sektion (z.B. Letzter Artikel) */
   font-size: 1em;
@@ -42,7 +42,6 @@ body > main > section:first-of-type > article > dl > dt {
 body > main > section:last-of-type > article > * {
   display: none;
 }
-
 body > main > section:last-of-type > article > header,
 body > main > section:last-of-type > article > footer,
 body > main > section:last-of-type > article > *:nth-child(2),

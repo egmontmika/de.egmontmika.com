@@ -23,5 +23,3 @@ Somit geht es mir grundlegend um _zwei Fragen_:
 Ich habe vor, einmal pro Woche einen neuen Artikel rauszulegen. Wenn du an meinem Thema interessiert bist, dann abonniere doch. Du bekommst dann jede Woche den neuesten Artikel per Email zugeschickt.
 Das wäre auch die einfachste Art, mir dein Interesse zu zeigen und mich zu ermutigen.
 Ich verspreche auch, deine Email-Adresse zu keinem anderen Zweck zu verwenden und auf Wunsch jederzeit wieder von meiner Liste zu streichen.
-(hier Formular einsetzen)
-Abonnieren
