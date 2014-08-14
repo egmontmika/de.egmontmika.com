@@ -18,15 +18,15 @@ Gemeinde in diesem Sinn braucht nicht „gegründet” zu werden. Sie entsteht v
 
 Sie treffen sich in Heimen, auf Marktplätzen, in Fußgängerzonen, in Parks, am Strand, im Wald, in kleineren und größeren Gruppen oder als Einzelne, wie und wo auch immer. Sie teilen ihr Leben, dienen einander, sind "Salz" und "Licht" und nehmen Jesu Auftrag wahr.
 
-Gemeinde in diesem Sinn, das ist ganz einfach die Gemeinschaft der Jünger Jesu.
+Gemeinde in diesem Sinn, das ist ganz schlicht die Gemeinschaft der Jünger Jesu.
 
 ## Gemeinde bauen
 
-Wählen wir jetzt die zweite Alternative. Fangen wir mit der Gemeinde an. Wir starten eine Organisaton mit Namen und Statuten, mit Vorstand und Ämtern und mit einer Webseite. Wir mieten Räumlichkeiten und veranstalten wöchentliche Gottesdienste. Wir laden dazu  ein und arbeiten darauf hin, Besucher zu bekommen und Besucher zu Mitgliedern zu machen.
+Wählen wir jetzt die zweite Alternative. Fangen wir mit der Gemeinde an. Wir starten eine Organisaton mit Namen und Statuten, mit Vorstand und Ämtern und mit einer Webseite. Wir mieten Räumlichkeiten und veranstalten wöchentliche Gottesdienste. Wir laden dazu ein und arbeiten darauf hin, Besucher zu bekommen und Besucher zu Mitgliedern zu machen.
 
-Wir bauen weiter aus mit Sonntagsschule, Jugendgottesdiensten, Lobpreisgottesdiensten, Bibelabenden, Gebetsversammlungen, Gruppenabenden... und füllen die Woche mit unseren Programmen. Wir nennen das alles "unsere Gemeinde".
+Wir bauen weiter aus mit Sonntagsschule, Jugendgottesdiensten, Lobpreisgottesdiensten, Bibelabenden, Gebetsversammlungen, Gruppenabenden... und füllen die Woche mit unseren Veranstaltungen. Wir nennen das alles "unsere Gemeinde".
 
-Durch diese Gemeinde wollen wir dann auch Jünger machen. Die Frage ist nur: Was kommt dabei heraus? Hm...
+So wollen wir dann auch Jünger machen. Die Frage ist nur: Was kommt dabei heraus? Hm...
 
 ## Ergebnis
 
@@ -34,10 +34,10 @@ Fassen wir zusammen:
 
 1. Wenn wir Jünger machen, bekommen wir genau das, nämlich Jünger. Gleichzeitig mit den Jüngern bekommen wir ganz von selbst die daraus entstehende Gemeinschaft, das heißt eine Gemeinde.
 
-2. Wenn wir eine Organisation starten und uns auf die Durchführung von Gottesdiensten und Programmen konzentrieren, dann bekommen wir auch hier genau das, nämlich Gottesdienste und Programme und gleichzeitig auch Teilnehmer. Aber nicht unbedingt Jünger.
+2. Wenn wir eine Organisation starten und uns auf die Durchführung von Gottesdiensten und Veranstaltungen konzentrieren, dann bekommen wir auch hier genau das worauf wir abzielen, nämlich Gottesdienste und Veranstaltungen und gleichzeitig Teilnehmer oder Besucher, möglicherweise auch Mitarbeiter. Aber Jünger?
 
-Jesus sagte nicht: „Macht Gottesdienste!"
+Jesus sagte nicht: „Macht Gottesdienste!" sondern „Macht Jünger!"
 
-Damit ist klar, worauf es ankommt. Womit wir anfangen und worauf wir setzen, entscheidet schließlich über das Ergebnis.
+Damit ist klar, worauf es ankommt. Womit wir anfangen und worauf wir Zeit, Geld und Mühe verwenden, entscheidet schließlich über das Ergebnis.
 
-Jesus sagte: „Macht Jünger!"
+Worauf kommt es dir an?

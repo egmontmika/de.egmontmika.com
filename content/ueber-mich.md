@@ -8,7 +8,12 @@ menu:
 
 
 ## Persönlich  
-Wohnort: Uppsala, Schweden / Familie: Ehefrau Åsa Mika, fünf Kinder, sechs Enkel / Beruf: Kunsterzieher und Deutschlehrer in Uppsala, Schweden / Nachfolge Jesu: Jünger, Mentor, Hausgemeinde-Leiter
+Wohnort: Uppsala, Schweden / Familie: Ehefrau Åsa Mika, fünf Kinder, sechs Enkel / Beruf: Kunsterzieher und Deutschlehrer in Uppsala, Schweden / Nachfolge Jesu: Jünger, Mentor, Leiter einer Hausgemeinde.
+
+## Nachfolge
+1970 Bekehrung und Entscheidung zur Nachfolge Jesu.Seitdem Leiter von Kleingruppen und einer Hausgemeinde. Darüber hinaus breite Erfahrung sowohl von traditioneller und ökumenischer Gemeindearbeit als auch von afrikanischer Gemeinde und charismatischer Mega-Gemeinde. Zur Zeit hauptsächlich engagiert in Hausgemeinde und als persönlicher Mentor.
+
+breitemeist ehrenamtlich, zeitweise auch nebenberuflich als Lehrer und Leiter in der Gemeinde engagiert.
 
 ## Blog
 
