@@ -4,7 +4,7 @@ date = 2014-08-14T03:01:45Z
 +++
 Gemeinschaft ist unverzichtbar.
 
-Jedoch machen Zugehörigkeit zu einer christlichen Gemeinschaft oder formelle Mitgliedschaft noch lange keinen Jünger.
+Jedoch machen Gemeindezugehörigkeit und formelle Mitgliedschaft noch lange keinen Jünger.
 
 Äußere Zugehörigkeit ist kein Indiz für Jüngerschaft.
 

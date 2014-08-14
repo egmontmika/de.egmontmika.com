@@ -66,10 +66,8 @@ h6 {
   font-weight: 400;
 }
 body > main {
-  background-color: rgba(219, 218, 216, 0.22);
+  background-color: rgba(216, 213, 205, 0.99);
 }
-
-
 a,
 a:link,
 a:visited,
@@ -86,23 +84,23 @@ body > main > aside {
 }
 /* Footer 2014 Egmont Mika grey box */
 body > main > footer {
-  padding-top: 0.2em;
-  padding-bottom: 0.2em;
   clear: both;
-  background-color: rgba(209, 206, 206, 1);
 }
 body > main > footer > p {
   text-align: center;
-  color: #ffffff;
+  color: #000000;
   text-align: center;
   width: 100%;
+  padding-top: 1em;
+  padding-bottom: 1em;
+
 }
 /* */
 body > main {
   max-width: 60em;
   margin: auto;
-  padding-left: 1em;
-  padding-right: 1em;
+  padding-left: 1.6em;
+  padding-right: 1.6em;
 }
 /* Footer after articles, links: zum Blog, mehr*/
 body > main article > footer {
@@ -120,7 +118,7 @@ nav ul {
 /* Main menu */
 body > main > nav li a {
   color: rgba(31, 179, 85, 1);
-  font-size: 0.8em;
+  font-size: 1em;
 }
   body > main > nav li a:active {
     color: red;
@@ -137,7 +135,6 @@ body > main > nav li a {
     text-align: right;
     display: inline;
     padding-left: 2em;
-
   }
   body > main > header {
     clear: both;
