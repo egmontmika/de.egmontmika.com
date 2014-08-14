@@ -21,8 +21,8 @@ body > main > header > h1 {
   text-transform: uppercase;
 }
 body > main > section  h1 {
-font-size: 2.8em;
-font-weight: 300;
+font-size: 2.4em;
+font-weight: 600;
 padding-top: 1em;
 padding-bottom: 0.5em;
 color: rgba(179, 50, 16, 1);
@@ -31,25 +31,32 @@ color: rgba(179, 50, 16, 1);
 /*Blog headlines*/
 body > main > section > article > header > h1 {
   margin-top: 0.2em;
-  font-size: 1.6em;
-  color: rgba(6, 177, 6, 1);
+  font-weight: 600;
+  font-size: 1.8em;
+  color: rgba(1, 159, 1, 1);
 
 }
 /*Subheadlines inside articles*/
 body > main > section > article > header > h2 {
-font-size: 2.4em;
-font-weight: 200;
+font-size: 1.2em;
+font-weight: 300;
 margin-bottom: -0.6em;
 color: rgba(176, 65, 5, 1);
-
 }
 /*Right column: Weitere Artikel etc*/
+body > main > aside {
+  background-color: rgba(234, 233, 233, 0.47);
+  Padding-top: 2em;
+  Padding-left: 1em;
+  Padding-right: 1em;
+  Padding-bottom: 100%;
+}
 body > main > aside > h1 {
   font-size: 1.4em;
   line-height: 1.6;
   font-weight: 600;
   letter-spacing: 0.05em;
-  color: rgba(6, 177, 6, 1);
+  color: grey;
 }
 body > main > aside > ul {
   padding-left: 0;

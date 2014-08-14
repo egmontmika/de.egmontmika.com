@@ -30,13 +30,14 @@ body > main > section:first-of-type > article > dl > dd {
   margin-left: 0;
 }
 body > main > section:first-of-type > article > header > h1 {
-  color: rgba(9, 92, 185, 1);
+  color: rgba(188, 42, 2, 1);
+  font-weight: 400;
 }
 body > main > section:first-of-type > article > dl > dd:not(:last-of-type) {
   margin-bottom: 0.6em;
 }
 body > main > section:first-of-type > article > dl > dt {
-  font-weight: 600;
+  font-weight: 400;
 }
 /* Zweite Sektion */
 body > main > section:last-of-type > article > * {
@@ -50,7 +51,17 @@ body > main > section:last-of-type > article > *:nth-child(4) {
   display: block;
 }
 body > main > section:last-of-type > article > header > h1 {
-  color: rgb(3, 168, 3);
+  color: rgba(1, 159, 1, 1);
+  line-height: 1.6em;
+  font-size: 1.8em;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  margin-bottom: -0.4em;
+}
+body > main > section:last-of-type > article > header > p {
+font-size: 0.8em;
+padding-bottom: 0.5em;
+
 }
 /* Background Picture */
 body > main > header {
