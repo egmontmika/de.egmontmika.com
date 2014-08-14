@@ -28,7 +28,7 @@
   </section>
   <aside>
     {{ template "partials/anmelden.html" . }}
-    <h1>Weitere Artikel</h1>
+    <h1>Bisherige Artikel</h1>
     <nav>
       <ul>
         {{ range .Site.Sections.blog.Pages.ByDate.Reverse }}

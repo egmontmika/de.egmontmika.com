@@ -28,6 +28,11 @@ padding-bottom: 0.5em;
 color: rgba(179, 50, 16, 1);
 
 }
+body > main > section > article > header > p {
+  font-size: 0.8em;
+  padding-bottom: 2em;
+  margin-top: -3.5em;
+}
 /*Blog headlines*/
 body > main > section > article > header > h1 {
   margin-top: 0.2em;
@@ -43,7 +48,7 @@ font-weight: 300;
 margin-bottom: -0.6em;
 color: rgba(176, 65, 5, 1);
 }
-/*Right column: Weitere Artikel etc*/
+/*Right column: Bisherige Artikel etc*/
 body > main > aside {
   background-color: rgba(234, 233, 233, 0.47);
   Padding-top: 2em;
