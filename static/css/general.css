@@ -46,8 +46,8 @@ h2 {
   color: rgba(179, 50, 16, 1);
 }
 h3 {
-  font-size: 1.4em;
-  line-height: 2;
+  font-size: 1.2em;
+  line-height: 1.4;
   font-weight: 400
 }
 h4 {
@@ -91,8 +91,8 @@ body > main > footer > p {
   color: #000000;
   text-align: center;
   width: 100%;
-  padding-top: 1em;
-  padding-bottom: 1em;
+  padding-top: 3em;
+  padding-bottom: 3em;
 
 }
 /* */
