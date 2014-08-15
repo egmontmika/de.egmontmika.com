@@ -79,29 +79,31 @@ body > main > header > h1 {
   font-weight: 600;
   text-transform: uppercase;
   color: #ffffff;
-  line-height: 0;
+  line-height: 0em;
   position: absolute;
-  bottom: 0.8em;
+  bottom: 1.2em;
   text-align: center;
-  font-size: 2.0em;
+  font-size: 2.2em;
   letter-spacing: 10px;
-  left: 1.6em;
+  left: 2em;
   width: inherit;
 }
 /* Subheadline: Nachfolge, Gemeinschaft, Auftrag */
-body > main > header > p {
+body > main > header > h2 {
   color: #ffffff;
-  font-size: 1.4;
+  font-size: 1.2;
   font-weight: 400;
+  letter-spacing: 0.1em;
   text-align: right;
   position: absolute;
-  top: 0.7em;
+  top: 1.4em;
   right: 4em;
 }
 body > main > header {
   background-size: auto auto;
   max-width: 100%;
-  height: 20em;
+  height: 28em;
+  background-color: black;
 }
 /* Green button */
 body > main > nav:nth-of-type(2) > p {
@@ -113,7 +115,7 @@ body > main > nav:nth-of-type(2) > p {
 body > main > nav:nth-of-type(2) > p {
   text-align: center;
   text-transform: uppercase;
-  font-size: 1em;
+  font-size: 1.2em;
   font-weight: 600;
 }
 body > main > nav:nth-of-type(2) > p > a {

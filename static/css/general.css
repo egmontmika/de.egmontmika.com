@@ -88,12 +88,12 @@ body > main > footer {
 }
 body > main > footer > p {
   text-align: center;
-  color: #000000;
+  color: #ffffff;
   text-align: center;
   width: 100%;
-  padding-top: 3em;
-  padding-bottom: 3em;
-
+  padding-top: 1em;
+  padding-bottom: 1em;
+  background-color: black;
 }
 /* */
 body > main {
@@ -121,7 +121,6 @@ body > main > nav li a {
   font-size: 1em;
 }
   body > main > nav li a:active {
-    color: red;
 }
 @media only screen and (min-width: 40em) {
   body > main > nav ul {

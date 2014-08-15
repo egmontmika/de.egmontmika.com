@@ -53,7 +53,7 @@ body > main > aside {
   background-color: rgba(234, 233, 233, 0.47);
   Padding-top: 2em;
   Padding-left: 1em;
-  Padding-right: 2em;
+  Padding-right: 1em;
   Padding-bottom: 100%;
 }
 body > main > aside > h1 {
@@ -96,7 +96,7 @@ body > main > h3 > a {
   font-size: 1em;
   font-weight: 400;
   font-color: #019F01;
-  padding-left: 2em;
+  padding-left: 1.65em; /*Simon!*/
   padding-right: 2em;
   }
 body > main > p {
