@@ -67,6 +67,8 @@ h6 {
 }
 body > main {
   background-color: rgba(225, 221, 215, 1);
+  padding-bottom: 0.01em;
+
 }
 a,
 a:link,
@@ -91,9 +93,13 @@ body > main > footer > p {
   color: #ffffff;
   text-align: center;
   width: 100%;
-  padding-top: 1em;
-  padding-bottom: 1em;
-  background-color: black;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+  background-color: rgba(210, 203, 193, 1);
+  border-color: black;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+  border-bottom-width: 1em;
 }
 /* */
 body > main {
