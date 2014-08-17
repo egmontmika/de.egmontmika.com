@@ -1,0 +1,15 @@
+/*Überschriften für die gekürzten Artikel.*/
+body > main > section > article > header > h1 {
+  font-size: 1.8em;
+  font-weight: 600;
+  color: #019F01;
+  line-height: 1.8em;
+  padding-bottom: 0em;
+  margin-bottom: 0em;
+}
+body > main > section > article > header > p {
+  font-size: 0.8em;
+  padding-bottom: 0.5em;
+  margin-top: 0;
+  color: grey;
+}
