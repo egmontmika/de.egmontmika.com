@@ -30,8 +30,10 @@ color: rgba(179, 50, 16, 1);
 }
 body > main > section > article > header > p {
   font-size: 0.8em;
-  padding-bottom: 2em;
-  margin-top: -3.5em;
+  padding-bottom: 0.5em;
+  margin-top: -4em;
+  color: grey;
+
 }
 /*Blog headlines*/
 body > main > section > article > header > h1 {
@@ -45,16 +47,20 @@ body > main > section > article > header > h1 {
 body > main > section > article > header > h2 {
 font-size: 1.2em;
 font-weight: 300;
-margin-bottom: -0.6em;
+margin-bottom:
 color: rgba(176, 65, 5, 1);
 }
 /*Right column: Bisherige Artikel etc*/
 body > main > aside {
-  background-color: rgba(234, 233, 233, 0.47);
+  background-color: rgba(224, 221, 218, 1);
   Padding-top: 2em;
   Padding-left: 1em;
   Padding-right: 1em;
-  Padding-bottom: 100%;
+  Padding-bottom: 75%;
+  background: -webkit-linear-gradient(rgba(234, 233, 233, 1), #E1DDD7); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(rgba(234, 233, 233, 1), #E1DDD7); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(rgba(234, 233, 233, 1), #E1DDD7); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(rgba(234, 233, 233, 1), #E1DDD7); /* Standard syntax */
 }
 body > main > aside > h1 {
   font-size: 1.2em;
@@ -88,9 +94,10 @@ body > main > aside > ul > li{
   }
 }
 body > main > section > article {
-  padding-bottom: 2em;
   padding-left: 2em;
   padding-right: 2em;
+  margin-bottom: 4em;
+  
 }
 body > main > h3 > a {
   font-size: 1em;
@@ -103,8 +110,17 @@ body > main > p {
   font-weight: 300;
   padding-left: 2em;
   padding-right: 2em;
-  }
 
+  }
+  /*Kommentar: Text und Mitteilungskasten*/
+body > main > header > h2 {
+
+margin-top: 6em;
+background-color: black;
+}
+
+
+}
   body > main > footer {
     clear: both;
   }
