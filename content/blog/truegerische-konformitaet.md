@@ -1,6 +1,7 @@
 +++
 title = "Trügerische Zugehörigkeit"
 date = 2014-08-14T03:01:45Z
+draft = true
 +++
 Gemeinschaft ist unverzichtbar.
 
