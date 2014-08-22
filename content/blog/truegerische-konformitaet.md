@@ -3,11 +3,11 @@ title = "Trügerische Zugehörigkeit"
 date = 2014-08-14T03:01:45Z
 draft = true
 +++
-Gemeinschaft ist unverzichtbar.
+Gemeinschaft ist für Jesu Jünger unverzichtbar.
 
-Jedoch machen Gemeindezugehörigkeit und formelle Mitgliedschaft noch lange keinen zum Jünger. Äußere Zugehörigkeit ist kein ausreichendes Indiz für Jüngerschaft.
+Jedoch machen Gemeindezugehörigkeit und formelle Mitgliedschaft noch lange keinen zum Jünger. Äußere Zugehörigkeit reicht nicht aus als Indiz für Jüngerschaft.
 
-So war das zum Beispiel bei mir: Aufgewachsen in christlicher Umgebung, mit guter Lehre und Lebensweise vertraut, Kenntnis der Bibel, voll im Gemeindeleben integriert - dann mit achtzehn die Taufe und Mitgliedschaft in der Gemeinde. Aus Überzeugung, wie ich meinte, jedoch ...
+Bei mir war das zum Beispiel so: Aufgewachsen in christlicher Umgebung, mit guter Lehre und Lebensweise vertraut, Kenntnis der Bibel, voll im Gemeindeleben integriert - dann mit achtzehn die Taufe und Mitgliedschaft in der Gemeinde. Aus Überzeugung, wie ich meinte, jedoch ...
 
 ... jedoch unbekehrt.
 
@@ -19,7 +19,7 @@ Formelle Zugehörigkeit und äußere Anpassung können trügerisch sein.
 
 Zwei Jahre später, mit zwanzig, nahm mich dann der Herr aufs Korn und es folgte die eigentliche Bekehrung: Buße, Umkehr, geistliche Wiedergeburt und Gottes Herrschaft in meinem Leben.
 
-Welch ein himmelweiter Unterschied! Innerer Friede und freudige Gewissheit statt banges Hoffen. Liebe zum Herrn statt schlechtes Gewissen. Lebendiger Glaube statt Besserwisserei. Ganzherzige Hingabe statt Verpflichtung.
+Welch ein himmelweiter Unterschied! Innerer Friede und freudige Gewissheit statt bangem Hoffen. Liebe zum Herrn statt schlechtem Gewissen. Lebendiger Glaube statt Besserwisserei. Ganzherzige Hingabe statt Verpflichtung.
 
 ## Was tun?
 

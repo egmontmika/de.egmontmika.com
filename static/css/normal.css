@@ -4,6 +4,7 @@ body > main > header {
   background-position: right center;
   background-repeat: no-repeat;
   padding-top: 1.6em;
+  padding-left: 1em;
   margin-bottom: 1.6em;
 }
 /*EGMONT MIKA*/
@@ -12,7 +13,7 @@ body > main > header > h1 {
   line-height: 2em;
   padding-top: 4em;
   padding-left: 3em;
-  color: #fff;
+  color: rgba(192, 188, 188, 1);
   font-weight: 400em;
   letter-spacing: 10px;
   text-transform: uppercase;b
@@ -20,12 +21,13 @@ body > main > header > h1 {
   max-width: 100%;
   height: 5em;
 }
+
 body > main > section  h1 {
 font-size: 2.4em;
 font-weight: 600;
 padding-top: 1em;
 padding-bottom: 0.5em;
-color: rgba(179, 50, 16, 1);
+color: #7A0901;
 }
 
 /*Blog headlines*/
@@ -37,20 +39,19 @@ body > main > section > article > header > h2 {
 font-size: 1.2em;
 font-weight: 300;
 margin-bottom:
-color: rgba(176, 65, 5, 1);
+color:rgba(122, 9, 1, 1);
 }
 /*Right column: Bisherige Artikel etc*/
 body > main > aside {
-  background-color: rgba (240, 237, 234, 1);
+  background-color: rgba(222, 222, 222, 1);
   Padding-top: 2em;
   Padding-left: 1em;
   Padding-right: 1em;
-  Padding-bottom:
-  background: -webkit-linear-gradient(rgba(248, 245, 243, 1), rgba(225, 221, 215, 0.83)); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(rgba(248, 245, 243, 1), rgba(225, 221, 215, 0.83)); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(rgba(248, 245, 243, 1), rgba(225, 221, 215, 0.83)); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(rgba(248, 245, 243, 1), rgba(230, 225, 219, 0.83)); /* Standard syntax */
-
+  Padding-bottom: 21em;
+  background: -webkit-linear-gradient(rgba(206, 206, 206, 1)), rgba(225, 222, 222, 1)); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(rgba(206, 206, 206, 1)), rgba(225, 222, 222, 1)); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(rgba(206, 206, 206, 1)), rgba(225, 222, 222, 1)); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(rgba(206, 206, 206, 1)), rgba(225, 222, 222, 1)); /* Standard syntax */
 }
 body > main > aside > h1 {
   font-size: 1.2em;
@@ -66,6 +67,7 @@ body > main > aside > ul > li{
   padding-bottom: 0.2em;
   text-align: left;
   font-size: 0.9em;
+
 }
 @media only screen and (max-width: 39.9em) {
   body > div > header > h1 {

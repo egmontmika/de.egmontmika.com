@@ -1,11 +1,12 @@
 /* All inhalt */
 body > main article > header > h1 {
-  font-size: 1.4em;
-  line-height: 1.2;
+  font-size: 1.2em;
+  line-height: 1em;
   padding-top: 0;
   margin-top: 0;
   font-weight: 600;
   letter-spacing: 2px;
+  color: #7A0901;
 }
 body > main > section > header > h1 { /* Überschrift für sektion (z.B. Die beiden letzten Artikel) */
   font-size: 1em;
@@ -20,7 +21,7 @@ body > main > section > footer {
 /* Erste Sektion */
 body > main > section:first-of-type {
   padding-top: 2em;
-  background-color: rgba(133, 142, 150, 0.15);
+  background-color: rgba(242, 242, 242, 1);
 }
 body > main > section:first-of-type > article > * {
   margin-left: 2em;
@@ -30,14 +31,15 @@ body > main > section:first-of-type > article > dl > dd {
   margin-left: 0;
 }
 body > main > section:first-of-type > article > header > h1 {
-  color: rgba(188, 42, 2, 1);
-  font-weight: 400;
+  color: rgba(122, 5, 5, 1);
+  font-weight: 700;
+
 }
 body > main > section:first-of-type > article > dl > dd:not(:last-of-type) {
   margin-bottom: 0.6em;
 }
 body > main > section:first-of-type > article > dl > dt {
-  font-weight: 400;
+  font-weight: 600;
 }
 /* Zweite Sektion */
 body > main > section:last-of-type > article > * {
@@ -51,10 +53,10 @@ body > main > section:last-of-type > article > *:nth-child(4) {
   display: block;
 }
 body > main > section:last-of-type > article > header > h1 {
-  color: rgba(1, 159, 1, 1);
+  color: rgba(4, 86, 4, 1);
   line-height: 1.6em;
   font-size: 1.8em;
-  font-weight: 400;
+  font-weight: 600;
   letter-spacing: 0.01em;
   margin-bottom: -0.4em;
 }
@@ -78,20 +80,20 @@ body > main > header {
 body > main > header > h1 {
   font-weight: 600;
   text-transform: uppercase;
-  color: #ffffff;
+  color: white;
   line-height: 0em;
   position: absolute;
   bottom: 1.2em;
   text-align: center;
-  font-size: 2.2em;
+  font-size: 2.0em;
   letter-spacing: 10px;
   left: 2em;
   width: inherit;
 }
 /* Subheadline: Nachfolge, Gemeinschaft, Auftrag */
 body > main > header > h2 {
-  color: #ffffff;
-  font-size: 1.2;
+  color: #FCFAFA;
+  font-size: 1.2s;
   font-weight: 400;
   letter-spacing: 0.1em;
   text-align: right;
@@ -109,8 +111,8 @@ body > main > header {
 body > main > nav:nth-of-type(2) > p {
   position: relative;
   left: 10%;
-  margin-top: 4em;
-  margin-bottom: 4em;
+  margin-top: 2.6em;
+  margin-bottom: 3em;
 }
 body > main > nav:nth-of-type(2) > p {
   text-align: center;
@@ -119,7 +121,7 @@ body > main > nav:nth-of-type(2) > p {
   font-weight: 600;
 }
 body > main > nav:nth-of-type(2) > p > a {
-  background-color: rgba(107, 179, 39, 1);
+  background-color: rgba(5, 155, 5, 1);
   color: white;
   letter-spacing: 0.3em;
   padding-top: 1em;
@@ -128,7 +130,7 @@ body > main > nav:nth-of-type(2) > p > a {
   padding-right: 1.8em;
   border-style: solid;
   border-width: 1.6px;
-  border-color: rgb(101, 167, 40);
+  border-color: rgba(1, 129, 21, 1);
   border-radius: 2em;
   box-shadow: 0.0em 0.2em 0.4em #aaa;
 }
