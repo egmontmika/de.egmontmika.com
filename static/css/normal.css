@@ -13,7 +13,7 @@ body > main > header > h1 {
   line-height: 2em;
   padding-top: 4em;
   padding-left: 3em;
-  color: rgba(192, 188, 188, 1);
+  color: rgba(224, 223, 223, 1);
   font-weight: 400em;
   letter-spacing: 10px;
   text-transform: uppercase;b
@@ -48,27 +48,41 @@ body > main > aside {
   Padding-left: 1em;
   Padding-right: 1em;
   Padding-bottom: 21em;
-  background: -webkit-linear-gradient(rgba(206, 206, 206, 1)), rgba(225, 222, 222, 1)); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(rgba(206, 206, 206, 1)), rgba(225, 222, 222, 1)); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(rgba(206, 206, 206, 1)), rgba(225, 222, 222, 1)); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(rgba(206, 206, 206, 1)), rgba(225, 222, 222, 1)); /* Standard syntax */
+  background: -webkit-linear-gradient(rgba(206, 206, 206, 1)), rgba(222, 222, 222, 1)); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(rgba(206, 206, 206, 1)), rgba(222, 222, 222, 1)); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(rgba(206, 206, 206, 1)), rgba(222, 222, 222, 1)); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(rgba(206, 206, 206, 1)), rgba(222, 222, 222, 1)); /* Standard syntax */
 }
 body > main > aside > h1 {
   font-size: 1.2em;
   line-height: 1.4;
   font-weight: 600;
   color: grey;
+  padding-top: 0.6em;
+  padding-left: 0.5em;
+  padding-bottom: 0em;
+  background-color: rgba(234, 234, 234, 1);
+  margin-bottom: -1em;;
+
 }
 body > main > aside > ul {
   padding-left: 0;
 }
 body > main > aside > ul > li{
   list-style-type: none;
-  padding-bottom: 0.2em;
-  text-align: left;
-  font-size: 0.9em;
 
+  text-align: left;
+  font-size: 0.6em;
 }
+body > main > aside > nav ul {
+  list-style-type: none;
+  background-color: rgba(234, 234, 234, 1);
+  padding-top: 1em;
+  padding-bottom: 2em;
+  padding-right: 0.5em;
+  padding-left: 0.8em;
+}
+
 @media only screen and (max-width: 39.9em) {
   body > div > header > h1 {
     font-size: 1.2em;
@@ -89,7 +103,6 @@ body > main > section > article {
   padding-left: 2em;
   padding-right: 2em;
   margin-bottom: 4em;
-
 }
 
   /*Kommentar: Text und Mitteilungskasten*/

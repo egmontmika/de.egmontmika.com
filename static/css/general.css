@@ -124,15 +124,19 @@ body > main article > footer {
 body > main article > footer > p {
   margin-bottom: 2em;
 }
-nav ul {
+
+
+/* Main menu */
+body > main > nav ul {
   list-style-type: none;
   padding-left: 0;
+
 }
-/* Main menu */
 body > main > nav li a {
   color: rgba(4, 86, 4, 1);
   font-size: 1em;
   font-weight: 400;
+
 }
   body > main > nav li a:active {
 }
