@@ -5,7 +5,7 @@ date = 2014-08-01T03:01:45Z
 
 Jesus hatte Jünger, nicht Mitglieder.
 
-Organisationen haben Mitglieder. Sie haben Statuten, Ämter und Ausschüsse. Sie verwalten, planen und entwickeln. Sie bauen und veanstalten. Aber machen sie Jünger?
+Organisationen haben Mitglieder. Sie haben Statuten, Ämter und Ausschüsse. Sie verwalten, planen und entwickeln. Sie bauen und veanstalten. Aber Jünger machen?
 
 Gottes Reich ist nicht Organisation und erschöpft sich nicht in Gottesdiensten und Veranstaltungen. Jesus sagte: „Macht Jünger!“ und „Liebet einander!"
 
