@@ -15,6 +15,6 @@ Das geschieht als ein Prozess des Umdenkens und Heranreifens. Alte Gewohnheiten 
 
 Von unschätzbarem Wert ist dabei die persönliche Betreuung durch einen anderen Jünger und die liebevolle Gemeinschaft einer kleineren Gruppe.
 
-Nur die den Herrn kennen und diesen Weg selbst gehen, können andere leiten. Nur Jünger können das. Mitgliedschaft allein hilft da nicht weiter. Organisationen können positiv verstärken, kanalisieren, etablieren, aber auch das Fokus auf sich selbst richten, auf Veranstaltungen und Projekte, und damit vom ursprünglichen Auftrag ablenken.
+Nur die den Herrn kennen und diesen Weg selbst gehen, können andere leiten. Nur Jünger können das. Mitgliedschaft allein hilft da nicht weiter. Organisationen können positiv verstärken, kanalisieren, etablieren, aber auch das Fokus auf sich selbst richten, auf Veranstaltungen und Projekte, und damit vom eigentlichen Auftrag ablenken.
 
 Nur Jünger machen wirklich Jünger.
