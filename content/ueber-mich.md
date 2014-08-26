@@ -24,6 +24,6 @@ Somit geht es mir grundlegend um zwei Fragen:
 1. Wie waren Jüngerschaft, Gemeinde und Auftrag ursprünglich gemeint?
 1. Wie kann dies alles heute, angesichts kultureller Trends, religiöser Traditionen und kirchlicher Institutionalisierung, authentisch und glaubwürdig verwirklicht werden?
 
-Ich habe vor, einmal pro Woche einen neuen Artikel rauszulegen. Wenn du an meinem Thema interessiert bist, dann abonniere doch. Du bekommst dann jede Woche den neuesten Artikel per Email zugeschickt.
-Das wäre auch die einfachste Art, mir dein Interesse zu zeigen, Kontakt zu halten und mich zu ermutigen.
-Ich verspreche auch, deine Email-Adresse zu keinem anderen Zweck zu verwenden und auf Wunsch jederzeit wieder von meiner Liste zu streichen.
+Ich habe vor, jede Woche einen neuen Artikel rauszulegen und zwar im Wechsel, jede zweite Woche auf Deutsch und jede zweite Woche auf Englisch. Die englischen Artikel liegen in meinem englischen Blog mit der Adresse [egmontmika.com](http://egmontmika.com).
+
+Wenn du an meinem Thema interessiert bist, dann gib doch eine Bestellung auf, indem du rechts oben in den weißen Kasten deine Email-Adresse eingibst und auf „Übermitteln" klickst. Du bekommst dann die neuen Artikel per Email zugeschickt. Das wäre auch die einfachste Art, mir dein Interesse zu zeigen, Kontakt zu halten und mich zu ermutigen. Solltest du auch die englischen Artikel haben wollen, dann bestelle bitte vom [englischen Blog](http://egmontmika.com/blog) aus. Du klickst dort auf die [Subscribe](http://egmontmika.com/blog)-Taste. Ich verspreche auch, deine Email-Adresse zu keinem anderen Zweck zu verwenden und auf Wunsch jederzeit wieder von meiner Liste zu streichen.

@@ -43,15 +43,17 @@ color:rgba(122, 9, 1, 1);
 }
 /*Right column: Bisherige Artikel etc*/
 body > main > aside {
-  background-color: rgba(222, 222, 222, 1);
+  background-color: rgba(228, 228, 228, 1);
   Padding-top: 2em;
   Padding-left: 1em;
   Padding-right: 1em;
-  Padding-bottom: 21em;
-  background: -webkit-linear-gradient(rgba(206, 206, 206, 1)), rgba(222, 222, 222, 1)); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(rgba(206, 206, 206, 1)), rgba(222, 222, 222, 1)); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(rgba(206, 206, 206, 1)), rgba(222, 222, 222, 1)); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(rgba(206, 206, 206, 1)), rgba(222, 222, 222, 1)); /* Standard syntax */
+  Padding-bottom: 50%;
+  background: -webkit-linear-gradient(rgba(228, 228, 228, 1), rgba(232, 232, 232, 1)); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(rgba(228, 228, 228, 1), rgba(232, 232, 232, 1)); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(rgba(228, 228, 228, 1), rgba(232, 232, 232, 1)); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(rgba(220, 220, 220, 1), rgba(232, 232, 232, 1)); /* Standard syntax */
+
+
 }
 body > main > aside > h1 {
   font-size: 1.2em;
@@ -61,8 +63,8 @@ body > main > aside > h1 {
   padding-top: 0.6em;
   padding-left: 0.5em;
   padding-bottom: 0em;
-  background-color: rgba(234, 234, 234, 1);
-  margin-bottom: -1em;;
+  margin-bottom: -1em;
+  background-color: rgba(240, 240, 240, 1);
 
 }
 body > main > aside > ul {
@@ -76,7 +78,7 @@ body > main > aside > ul > li{
 }
 body > main > aside > nav ul {
   list-style-type: none;
-  background-color: rgba(234, 234, 234, 1);
+  background-color: rgba(240, 240, 240, 1);
   padding-top: 1em;
   padding-bottom: 2em;
   padding-right: 0.5em;

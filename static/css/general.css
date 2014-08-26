@@ -86,9 +86,11 @@ article img {
   width: 100%;
   height: auto;
 }
-body > main > aside {
-  font-size: 1.0em;
-}
+
+
+
+
+
 /* Footer 2014 Egmont Mika grey box */
 body > main > footer {
   clear: both;
