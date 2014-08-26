@@ -81,15 +81,11 @@ a:hover,
 a:active{
   color: rgba(1, 128, 1, 1);
 }
-}
+
 article img {
   width: 100%;
   height: auto;
 }
-
-
-
-
 
 /* Footer 2014 Egmont Mika grey box */
 body > main > footer {
@@ -126,7 +122,6 @@ body > main article > footer {
 body > main article > footer > p {
   margin-bottom: 2em;
 }
-
 
 /* Main menu */
 body > main > nav ul {
