@@ -1,6 +1,6 @@
 +++
 title = "Nur Jünger machen Jünger"
-date = 2014-08-01T03:01:45Z
+date = 2014-08-20T03:01:45Z
 +++
 
 Jesus hatte Jünger, nicht Mitglieder.

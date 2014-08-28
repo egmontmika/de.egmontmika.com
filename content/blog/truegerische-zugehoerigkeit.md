@@ -1,6 +1,6 @@
 +++
 title = "Trügerische Zugehörigkeit"
-date = 2014-08-01T03:01:45Z
+date = 2014-08-28T03:01:45Z
 +++
 
 Gemeinschaft ist für Jesu Jünger unverzichtbar.
