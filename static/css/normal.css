@@ -38,7 +38,6 @@ color: #7A0901;
 body > main > section > article > header > h2 {
 font-size: 1.2em;
 font-weight: 300;
-margin-bottom:
 color:rgba(122, 9, 1, 1);
 }
 /*Right column: Bisherige Artikel etc*/
@@ -47,11 +46,11 @@ body > main > aside {
   Padding-top: 2em;
   Padding-left: 1em;
   Padding-right: 1em;
-  Padding-bottom: 50%;
-  background: -webkit-linear-gradient(rgba(228, 228, 228, 1), rgba(232, 232, 232, 1)); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(rgba(228, 228, 228, 1), rgba(232, 232, 232, 1)); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(rgba(228, 228, 228, 1), rgba(232, 232, 232, 1)); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(rgba(220, 220, 220, 1), rgba(232, 232, 232, 1)); /* Standard syntax */
+  Padding-bottom: 2em;
+  background: -webkit-linear-gradient(rgba(228, 228, 228, 1), #BEC0C2); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(rgba(228, 228, 228, 1), #BEC0C2); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(rgba(228, 228, 228, 1), #BEC0C2); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(rgba(220, 220, 220, 1), #BEC0C2); /* Standard syntax */
 
 
 }

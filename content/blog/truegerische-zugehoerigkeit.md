@@ -25,8 +25,8 @@ Welch ein himmelweiter Unterschied! Innerer Friede und freudige Gewissheit statt
 
 Wie kann man zu echter Bekehrung führen?
 
-Da hilft nur, ihn wirklich kennen zu lernen, sich zu kümmern, Vertrauen aufzubauen und sich leiten zu lassen. Demütig und respektvoll warten zu können. Behutsam zu leiten, ohne zu manipulieren.
+Da hilft nur, jemanden wirklich kennen zu lernen, sich zu kümmern, Vertrauen aufzubauen und sich leiten zu lassen. Demütig und respektvoll warten zu können. Behutsam zu leiten, ohne zu manipulieren.
 
-Zugegeben, die Aufgabe ist nicht leicht. Auf die Schnelle geht da nichts. Echte Jüngerschaft ist nicht Dutzendware, auch wenn es am Anfang bei Jesus gerade zwölf waren. Mit äußerer Anpassung und sozialer Eingliederung allein wird noch keiner zum Jünger.
+Zugegeben, die Aufgabe ist nicht leicht. Auf die Schnelle geht da nichts. Echte Jüngerschaft ist nicht Dutzendware, auch wenn es bei Jesus gerade zwölf waren. Mit äußerer Anpassung und sozialer Eingliederung allein wird noch keiner zum Jünger.
 
 Jedoch gibt es einen Weg, den zu gehen sich lohnt.
