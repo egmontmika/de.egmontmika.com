@@ -46,25 +46,19 @@ body > main > aside {
   Padding-top: 2em;
   Padding-left: 1em;
   Padding-right: 1em;
-  Padding-bottom: 2em;
-  background: -webkit-linear-gradient(rgba(228, 228, 228, 1), #BEC0C2); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(rgba(228, 228, 228, 1), #BEC0C2); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(rgba(228, 228, 228, 1), #BEC0C2); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(rgba(220, 220, 220, 1), #BEC0C2); /* Standard syntax */
-
+  Padding-bottom: 3em;
+  background-color: rgba(188, 188, 188, 1);
 
 }
 body > main > aside > h1 {
   font-size: 1.2em;
   line-height: 1.4;
   font-weight: 600;
-  color: grey;
+  color: rgba(120, 118, 118, 1);
   padding-top: 0.6em;
-  padding-left: 0.5em;
+  padding-left: 0em;
   padding-bottom: 0em;
   margin-bottom: -1em;
-  background-color: rgba(240, 240, 240, 1);
-
 }
 body > main > aside > ul {
   padding-left: 0;
@@ -77,11 +71,10 @@ body > main > aside > ul > li{
 }
 body > main > aside > nav ul {
   list-style-type: none;
-  background-color: rgba(240, 240, 240, 1);
   padding-top: 1em;
   padding-bottom: 2em;
   padding-right: 0.5em;
-  padding-left: 0.8em;
+  padding-left: 0em;
 }
 
 @media only screen and (max-width: 39.9em) {

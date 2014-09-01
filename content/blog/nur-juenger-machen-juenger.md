@@ -7,7 +7,7 @@ Jesus hatte Jünger, nicht Mitglieder.
 
 Organisationen haben Mitglieder. Sie haben Statuten, Ämter und Ausschüsse. Sie verwalten, planen und entwickeln. Sie bauen und veanstalten. Aber Jünger machen?
 
-Gottes Reich ist nicht Organisation und erschöpft sich nicht in Gottesdiensten und Veranstaltungen. Jesus sagte: „Macht Jünger!“ und „Liebet einander!"
+Gottes Reich ist nicht Organisation und erschöpft sich nicht in Gottesdiensten und Veranstaltungen. Jesus sagte: „Liebet einander!" und „Macht Jünger!“
 
 Das geschieht in der Begegnung von Mensch zu Mensch. Durch Vorbild und Anleitung, und im wirklichen Leben. Und unter der Leitung des heiligen Geistes.
 
