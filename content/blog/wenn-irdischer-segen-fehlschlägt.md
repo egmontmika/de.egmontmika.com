@@ -5,7 +5,9 @@ date = 2014-09-19T03:01:45Z
 
 Jeder Jünger Jesu ist ein über alle Maßen Gesegneter. Zu seinen Vorrechten gehört es, die Segnungen des Neuen Bundes voll in Anspruch nehmen zu dürfen.
 
-Das ist nicht gerade wenig: Versöhnung mit Gott, innerer Frieden und neues geistliches Leben in ständiger Gemeinschaft mit ihm. Dann zahlreiche konkrete Erfahrungen seiner Güte und Liebe, wie körperliche und seelische Heilung und Befreiung. Weiterhin die Wiederherstellung gebrochener Beziehungen, ja letztlich die Möglichkeit zur Aufrichtung eines jeden Bereichs seines persönlichen Lebens.
+Das ist nicht gerade wenig: Versöhnung mit Gott, innerer Frieden und neues geistliches Leben in ständiger Gemeinschaft mit ihm.
+
+Dann zahlreiche konkrete Erfahrungen seiner Güte und Liebe, wie körperliche und seelische Heilung und Befreiung. Weiterhin die Wiederherstellung gebrochener Beziehungen, ja letztlich die Möglichkeit zur Aufrichtung eines jeden Bereichs seines persönlichen Lebens.
 
 Nicht nur ist er gesegnet, er ist auch ein Segnender. Großzügig und ohne Gegenleistung hat er empfangen; genauso gibt er das Empfangene weiter. Zu segnen und zu geben ist ein unverkennbares Merkmal eines Nachfolgers Jesu. Wie der Meister, so sein Jünger.
 
