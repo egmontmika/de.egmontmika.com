@@ -29,4 +29,4 @@ Im Gegenteil, er schien es den Leuten eher schwer machen zu wollen. Wenn jemand 
 
 Äußere Vorteile bieten keine ausreichende Grundlage für die Nachfolge Jesu. Vielmehr ist für einen Jünger Jesu die Entscheidung, auf Gottes Stimme zu hören, sein Leben niederzulegen und Jesus nachzufolgen, das Vorrangige. Dann ist die Ehre Gottes das einzig wirklich Wichtige, und zwar unabhängig von den Umständen und auch ganz gleich, ob die eigenen Wünsche erfüllt werden.
 
-Dann allerdings kann er damit rechnen, dass Gott sein Leben erfüllt. Dann werden sogar Mangel und Leiden in Segen verwandelt.
+Dann allerdings kann er damit rechnen, dass Gott sein Leben erfüllt. Dann können sogar Mangel und Leiden zum Segen werden.
