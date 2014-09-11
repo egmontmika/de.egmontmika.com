@@ -1,7 +1,8 @@
 +++
 title = "Jesus-Gespräche"
-date = 2014-09-11 T03:01:45Z
+date = 2014-09-25 T03:01:45Z
 +++
+
 Zu den kostbarsten Erlebnissen zähle ich Gespräche über Jesus mit jemandem, der ihn noch nicht kennt, ihm aber im Laufe unserer Begegnung sein Herz öffnet.
 
 Es sind für mich unvergessliche Augenblicke der Gnade, in denen Jesus mit am Tisch zu sitzen scheint und der Himmel die Erde berührt. Unsichtbar, und dennoch höchst gegenwärtig, leitet er durch seinen Geist das Gespräch und wirkt Einsicht, Umkehr, Versöhnung und Neuanfang -  schafft neues Leben.
