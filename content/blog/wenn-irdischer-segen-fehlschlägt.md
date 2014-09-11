@@ -21,11 +21,11 @@ Das Gleiche gilt für unser Verhältnis zu Gott. Er ist bereit, jedem und ohne V
 
 Der Versuch, in die Nachfolge Jesu hineingesegnet zu werden, schlägt fehl.
 
-Warum dann legen wir so viel Wert darauf? Wenn manch ein Prediger seine Zuhörer ins Reich Gottes zu locken versucht, indem er ihnen Sicherheit, Gesundheit und Wohlstand verspricht, versetzt er sich in eine Lage, in der er immer wieder diesen Erwartungen gerecht werden muss, um den Zulauf zu halten. Und wenn Gott diese Erwartungen nicht erfüllt, laufen die Scharen zu einem anderen oder man erklärt, dass Gebet nicht funktioniert.
+Warum dann legen wir so viel Wert darauf? Wenn manch ein Prediger seine Zuhörer ins Reich Gottes zu locken versucht, indem er ihnen Sicherheit, Gesundheit und Wohlstand verspricht, versetzt er sich in eine Lage, in der er immer wieder diesen Erwartungen gerecht werden muss, um den Zulauf zu halten. Solange das klappt, läuft der Betrieb weiter und die Scharen kommen. Aber sind das dann Jünger?
 
-Jesus muss sich der Problematik bewusst gewesen sein. Niemals nahm er einem Hilfesuchenden die Verantwortung zur eigenen Entscheidung und zum eigenen Glauben ab. Da wurde niemand gelockt und genötigt und niemand beturtelt und bestreichelt. Und niemals verwendete er Befreiung und Wunderheilung als Werbung oder als Mittel, um Menschen an sich zu binden
+Jesus muss sich der Problematik bewusst gewesen sein. Niemals nahm er einem Hilfesuchenden die Verantwortung zur eigenen Entscheidung und zum eigenen Glauben ab. Da wurde niemand gelockt und genötigt und niemand beturtelt und bestreichelt. Und niemals verwendete er Befreiung und Wunderheilung als Werbemittel oder um Menschen an sich zu binden.
 
-Im Gegenteil, er schien es den Leuten eher schwer machen zu wollen. Wenn jemand ihm nachfolgen wollte, machte er auf die negativen Konsequenzen aufmerksam: Entfremdung von Familie und Freunden, Unsicherheit und Unbequemlichkeiten, Verachtung und Verfolgung bis hin zur Hinrichtung. Mit solchen Versprechen wird auch heute noch niemand populär.
+Im Gegenteil, er schien es den Leuten eher schwer machen zu wollen. Wenn jemand ihm nachfolgen wollte, machte er auf die negativen Konsequenzen aufmerksam: Entfremdung von Familie und Freunden, Unsicherheit und Unbequemlichkeiten, Verachtung und Verfolgung bis hin zur Hinrichtung. Mit solchen Verheißungen wurde auch damals niemand populär.
 
 Äußere Vorteile bieten keine ausreichende Grundlage für die Nachfolge Jesu. Vielmehr ist für einen Jünger Jesu die Entscheidung, sein Leben niederzulegen und Jesus nachzufolgen, das Vorrangige. Dann ist die Ehre Gottes das einzig wirklich Wichtige, und das unabhängig von den Umständen und ganz gleich, ob die eigenen Wünsche erfüllt werden.
 
