@@ -63,7 +63,6 @@ body > main > section:last-of-type > article > header > h1 {
 body > main > section:last-of-type > article > header > p {
 font-size: 0.8em;
 padding-bottom: 0.5em;
-
 }
 /* Background Picture */
 body > main > header {
@@ -162,8 +161,6 @@ body > main > nav:nth-of-type(2) > p > a {
     width: 50%;
     float: left;
     font-size: 0.9em;
-    height: 21em;
-    margin-bottom: 2em;
 }
   body > main > section:last-of-type > article:first-of-type > * {
     margin-right: 1.6em;
