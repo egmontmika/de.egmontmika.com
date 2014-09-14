@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Wenn Segen fehlschlägt"
 date = 2014-09-19T03:01:45Z
 +++
