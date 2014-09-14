@@ -1,6 +1,6 @@
 +++
 title = "Jesus-Gespräche"
-date = 2014-09-25 T03:01:45Z
+date = 2014-09-14 T03:01:45Z
 +++
 
 Zu den kostbarsten Erlebnissen zähle ich Gespräche über Jesus mit jemandem, der ihn noch nicht kennt, ihm aber im Laufe unserer Begegnung sein Herz öffnet.
