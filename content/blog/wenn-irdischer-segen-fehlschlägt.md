@@ -1,6 +1,6 @@
 +++
 draft = true
-title = "Wenn Segen fehlschlägt"
+title = "Mehr als Gesegnet-werden"
 date = 2014-09-19T03:01:45Z
 +++
 
