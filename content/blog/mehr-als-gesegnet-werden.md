@@ -4,30 +4,44 @@ title = "Mehr als Gesegnet-werden"
 date = 2014-10-02T03:01:45Z
 +++
 
-Jeder Jünger Jesu ist ein über alle Maßen Gesegneter. Zu seinen Vorrechten gehört es, die Segnungen des Neuen Bundes voll in Anspruch nehmen zu dürfen.
+Als Jünger Jesu bist du ein über alle Maßen Gesegneter.
 
-Das ist nicht gerade wenig: Versöhnung mit Gott, innerer Frieden und neues geistliches Leben in ständiger Gemeinschaft mit ihm.
+Zu deinen Vorrechten gehört es, die Segnungen des Neuen Bundes voll in Anspruch nehmen zu dürfen.
 
-Dann zahlreiche konkrete Erfahrungen seiner Güte und Liebe, wie körperliche und seelische Heilung und Befreiung. Weiterhin die Wiederherstellung gebrochener Beziehungen, ja letztlich die Möglichkeit zur Aufrichtung eines jeden Bereichs seines persönlichen Lebens.
+Das ist nicht gerade wenig: Versöhnung mit Gott, innerer Frieden und neues geistliches Leben in ständiger Gemeinschaft mit ihm. Ewiges Leben.
 
-Nicht nur ist er gesegnet, er ist auch ein Segnender. Großzügig und ohne Gegenleistung hat er empfangen; genauso gibt er das Empfangene weiter. Zu segnen und zu geben ist ein unverkennbares Merkmal eines Nachfolgers Jesu. Wie der Meister, so sein Jünger.
+Dann die Zusicherung von Gebetserhörung. Die zahlreichen konkreten Erfahrungen seiner Güte und Liebe, wie körperliche und seelische Heilung und Befreiung, auch die Wiederherstellung gebrochener Beziehungen, ja letztlich die Möglichkeit zur Aufrichtung eines jeden Bereichs deines persönlichen Lebens.
+
+Nicht nur bist du gesegnet, du bist auch ein Segnender. Großzügig und ohne Gegenleistung empfängst du; genauso gibst du das Empfangene weiter. Zu segnen und zu geben ist ein unverkennbares Merkmal deiner Nachfolge Jesu. Wie der Meister, so sein Jünger.
 
 Hier jedoch ist Weisheit geboten.
 
-Wenn Segnungen den Kern der Botschaft ausmachen, wird das Evangelium verfehlt. Und wenn Segnungen zum Motiv von Jüngerschaft gemacht werden, ist der Auftrag Jesu ernsthaft gefährdet.
+Wenn das Empfangen von Segnungen den Kern der Botschaft ausmacht, wird das Evangelium verfehlt. Und wenn das Empfangen allein zum Motiv von Jüngerschaft gemacht wird, ist der Auftrag Jesu ernsthaft gefährdet.
 
-Zugegeben, durch unser Geben können wir effektiv helfen, wenn akute Not herrscht. Wir können viel Gutes tun und die gute Arbeit anderer unterstützen. Zudem können wir so einander unsere Wertschätzung und Liebe zum Ausdruck bringen. Jedoch kann durch Geben allein keine gesunde und reife Beziehung aufgebaut werden.
+Zugegeben, jeder von uns braucht Hilfe.
 
-Das Gleiche gilt für unser Verhältnis zu Gott. Er ist bereit, jedem und ohne Vorbehalte zu geben. Wer aber immer nur empfangen will, bleibt ein geistlicher Säugling. Ein Sünder wird nicht zum Gläubigen allein dadurch, dass er etwas bekommt. Und ein bloßer Konsument der Gaben Gottes reift niemals zum Jünger heran, dadurch dass er immer noch mehr bekommt.
+Wir sind aufeinander angewiesen und nehmen ständig die Hilfe anderer in Anspruch. Das ist gut so. Wir sind einander zum Segen gesetzt und wir dürfen voneinander annehmen, ohne uns zu zieren. Jedoch kann, wenn es immer nur beim Empfangen bleibt, keine gesunde und reife Beziehung aufgebaut werden.
 
-Der Versuch, in die Nachfolge Jesu hineingesegnet zu werden, schlägt fehl.
+Das Gleiche gilt für unser Verhältnis zu Gott.
 
-Warum dann legen wir so viel Wert darauf? Wenn manch ein Prediger seine Zuhörer ins Reich Gottes zu locken versucht, indem er ihnen Sicherheit, Gesundheit und Wohlstand verspricht, versetzt er sich in eine Lage, in der er immer wieder diesen Erwartungen gerecht werden muss, um den Zulauf zu halten. Solange das klappt, läuft der Betrieb weiter und die Scharen kommen. Aber sind das dann Jünger?
+Er ist bereit, jedem und ohne Vorbehalte zu geben. Wer aber immer nur empfangen will, bleibt geistlich unterentwickelt. Ein Sünder wird nicht zum Gläubigen allein dadurch, dass er etwas bekommt. Und ein bloßer Konsument der Gaben Gottes reift nicht zum Jünger heran, wenn er immer noch mehr bekommt.
 
-Jesus muss sich der Problematik bewusst gewesen sein. Niemals nahm er einem Hilfesuchenden die Verantwortung zur eigenen Entscheidung und zum eigenen Glauben ab. Da wurde niemand gelockt und genötigt, beturtelt oder bestreichelt. Niemals verwendete er Befreiung oder Wunderheilung als Werbemittel oder um Menschen an sich zu binden.
+Der Gedanke, in die Nachfolge Jesu hineingesegnet werden zu können, ist verlockend, aber trügerisch.
+
+Warum dann legen wir so viel Wert darauf?
+
+Wenn manch ein Prediger die Hilfe Gottes zur eigentlichen Botschaft macht und seine Zuhörer ins Reich Gottes zu locken versucht, indem er ihnen Sicherheit, Gesundheit und Wohlstand verspricht, versetzt er sie in eine Lage, in der ihre Beziehung zu Gott von der Erfüllung ihrer Gebetswünsche abhängig wird. Solange das gut geht, scheint ja auch alles in Ordnung zu sein.
+
+Aber werden denn so Jünger gemacht?
+
+Jesus muss sich der Problematik bewusst gewesen sein. Niemals nahm er einem Hilfesuchenden die Verantwortung zur eigenen Entscheidung und zum eigenen Glauben ab. Da wurde niemand gelockt und genötigt, beturtelt oder bestreichelt. Niemals verwendete er Befreiung oder Wunderheilung als Werbemittel oder um damit Menschen an sich zu binden.
 
 Im Gegenteil, er schien es den Leuten eher schwer machen zu wollen. Wenn jemand ihm nachfolgen wollte, machte er auf die negativen Konsequenzen aufmerksam: Entfremdung von Familie und Freunden, Unsicherheit und Unbequemlichkeiten, Verachtung und Verfolgung bis hin zur Hinrichtung. Mit solchen Verheißungen wurde auch damals niemand populär.
 
-Äußere Vorteile bieten keine ausreichende Grundlage für die Nachfolge Jesu. Vielmehr ist für einen Jünger Jesu die Entscheidung, auf Gottes Stimme zu hören, sein Leben niederzulegen und Jesus nachzufolgen, das Vorrangige. Dann ist die Ehre Gottes das einzig wirklich Wichtige, und zwar unabhängig von den Umständen und auch ganz gleich, ob die eigenen Wünsche erfüllt werden.
+Die Erfüllung deiner Wünsche ist keine ausreichende Grundlage, wenn du Jesus nachfolgen willst.
 
-Dann allerdings kann er damit rechnen, dass Gott sein Leben erfüllt. Dann können sogar Mangel und Leiden zum Segen werden.
+Das absolut Vorrangige ist und bleibt deine Entscheidung, auf Gottes Stimme zu hören, dein Leben Jesus zu übergeben und es nach seinem Willen auszurichten. Dann werden vielleicht nicht alle deine Wünsche erfüllt, auf jeden Fall nicht sofort. Dahingegen wirst du deine Wünsche mehr und mehr an Gottes Wünsche anpassen.
+
+Dann ist dir Gottes Reich und seine Ehre das einzig wirklich Wichtige, und zwar unabhängig von den Umständen und auch ganz gleich, ob dir alle Wünsche erfüllt werden.
+
+Dann allerdings kannst du damit rechnen, dass Gott dein Leben erfüllt und dir sogar deinen Mangel und dein Leiden zum Segen wendet.
