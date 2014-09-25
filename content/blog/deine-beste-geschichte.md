@@ -27,7 +27,7 @@ Wie steht es also mit deiner Jesus-Geschichte? Ist sie dir noch lebendig? Oder w
 
 Wie dem auch sei, diese Geschichte ist die vielleicht stärkste Botschaft, die du hast, vielleicht das beste Werkzeug überhaupt für deinen Auftrag als Jünger Jesu.
 
-Nichts, was du ungenützt lassen willst.
+Wahrscheinlich nichts, was du ungenützt lassen willst.
 
 
 (PS: Solltest du dich in deiner geistlichen Entwicklung noch nicht an diesem Punkt befinden, so rechne damit, dass auch für dich eine Jesus-Geschichte bereitliegt.)
