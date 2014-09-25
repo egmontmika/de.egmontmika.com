@@ -30,4 +30,4 @@ Wie dem auch sei, diese Geschichte ist die vielleicht stärkste Botschaft, die d
 Wahrscheinlich nichts, was du ungenützt lassen willst.
 
 
-(PS: Solltest du dich in deiner geistlichen Entwicklung noch nicht an diesem Punkt befinden, so rechne damit, dass auch für dich eine Jesus-Geschichte bereitliegt.)
+(PS: Solltest du dich noch nicht an diesem Punkt befinden, so rechne damit, dass auch für dich eine Jesus-Geschichte bereitliegt.)
