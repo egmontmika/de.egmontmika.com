@@ -25,7 +25,7 @@ So ein Zeugnis ist auch notwendig. Ohne Zeugnis kennt keiner Jesus wirklich. Und
 ## Deine Chance
 Wie steht es also mit deiner Jesus-Geschichte? Ist sie dir noch lebendig? Oder wäre es an der Zeit, sie neu zu bedenken?
 
-Wie dem auch sei, diese Geschichte ist die vielleicht stärkste Botschaft, die du hast, vielleicht das beste Werkzeug überhaupt für deinen Auftrag als Jünger Jesu.
+Wie dem auch sei, diese Geschichte ist die vielleicht stärkste Botschaft, die du hast. Vielleicht das beste Werkzeug überhaupt für deinen Auftrag als Jünger Jesu.
 
 Wahrscheinlich nichts, was du ungenützt lassen willst.
 
