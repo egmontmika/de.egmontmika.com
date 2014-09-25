@@ -1,11 +1,10 @@
 +++
-draft = true
 title = "Deine beste Geschichte"
 date = 2014-09-25T03:01:45Z
 +++
 Wie steht es mit deiner besten Geschichte?
 
-Als Jünger Jesu hast du eine spezielle Geschichte, eine Jesus-Geschichte. Es ist die Geschichte vom Weg deiner Bekehrung. Von deiner Begegnung mit Gott.
+Als Jünger Jesu hast du eine spezielle Geschichte, deine Jesus-Geschichte. Es ist die Geschichte vom Weg deiner Bekehrung. Von deiner Begegnung mit Gott.
 
 Selten fällt diese Begegnung mit der Taufe zusammen. Für die meisten von uns gab es da vorher einen Prozess des Heranreifens. Aber irgendwann, an einem bestimmten Punkt, kam dann die eigentliche Entscheidung.
 
