@@ -1,6 +1,6 @@
 +++
 title = "Nur immer mehr?"
-date = 2014-10-02T03:01:45Z
+date = 2014-10-09T03:01:45Z
 +++
 
 ### Grenzenlose Segnungen
