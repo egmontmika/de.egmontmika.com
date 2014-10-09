@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Nur immer mehr?"
 date = 2014-10-02T03:01:45Z
 +++
