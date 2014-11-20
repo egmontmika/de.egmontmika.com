@@ -1,8 +1,8 @@
 +++
-title = "Auch du nicht ganz normal?"
+title = "Nicht ganz normal?"
 date = 2014-11-20T03:01:45Z
 +++
-Jesus war alles andere als normal und als sein Jünger bist du es vielleicht mitunter ebensowenig.
+Jesus war alles andere als normal und als sein Jünger bist du es ebensowenig.
 
 Aber was heißt hier schon „normal“?
 
@@ -17,15 +17,15 @@ Nicht, dass wir Vorurteile hätten oder gar Rassisten wären, wir haben einfach 
 
 Vollkommen normal, oder?
 
-Es ist doch auch ganz normal, dass wir nach Sicherheit streben, Risiken vermeiden und dem Unberechenbaren aus dem Weg gehen. Es ist ganz normal, dass wir die bekannten und bewährten Lösungen den unerprobten vorziehen. Wer setzt sich nicht lieber neben jemand, den er schon kennt, als neben den Unbekannten. Das geht doch jedem so. Wirklich jedem?
+Es ist doch auch ganz normal, dass wir nach Sicherheit streben, Risiken vermeiden und dem Unberechenbaren aus dem Weg gehen. Es ist ganz normal, dass wir die bekannten und bewährten Lösungen den unerprobten vorziehen. Wer setzt sich nicht lieber neben jemand, den er schon kennt, als neben den Unbekannten. Das geht doch jedem so.
 
-Nicht jedem.
+Wirklich jedem?
 
-Jedenfalls schien das bei Jesus anders zu sein. Zum Ärgernis seiner religiösen Umgebung, seiner Gastgeber, mitunter auch seiner Jünger und seiner eigenen Familie verstieß er immer wieder gegen diese Art der Normalität. Auch auf das Risiko hin, dass ihm sein Verhalten gefährlich wurde.
+Nicht jedem. Jedenfalls schien das bei Jesus anders zu sein. Zum Ärgernis seiner religiösen Umgebung, seiner Gastgeber, auch seiner Jünger und seiner eigenen Familie, verstieß er immer wieder gegen diese Art der Normalität. Auch auf das Risiko hin, dass ihm sein Verhalten gefährlich wurde.
 
-## Oder eben nicht.
-Jesus folgte keiner Mehrheit, keinem Trend, keiner öffentlichen Meinung. Er enttäuschte Erwartungen, eckte an, zog sich zurück, stellte sich den Menschen - was auch immer - er ging unbeirrbar seinen Weg. Nur so konnte er seinen Auftrag erfüllen. Und gerade so konnte er die Unerreichbaren erreichen.
+## Oder eben nicht
+Jesus folgte keiner Mehrheit, keinem Trend, keiner öffentlichen Meinung. Er enttäuschte Erwartungen, eckte an, zog sich zurück oder stellte sich den Menschen - was auch immer - er ging unbeirrbar seinen Weg. Nur so konnte er seinen Auftrag erfüllen. Und gerade so konnte er Unerreichbare erreichen.
 
-Jesus war alles andere als „normal“. Er war allein dem verpflichtet, der ihn gesandt hatte. Deshalb war er der Meinung von Menschen gegenüber frei.
+Jesus war alles andere als „normal“. Er war allein dem verpflichtet, der ihn gesandt hatte. Deshalb war er der Meinung und den Normal-Erwartungen von Menschen gegenüber frei.
 
 Als sein Nachfolger bist du es auch.
