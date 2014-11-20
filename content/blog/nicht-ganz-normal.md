@@ -4,7 +4,7 @@ date = 2014-11-20T03:01:45Z
 +++
 Jesus war alles andere als normal und als sein Jünger bist du es ebensowenig.
 
-Aber was heißt hier schon „normal“?
+Jedoch was heißt hier schon „normal“?
 
 Und in Bezug worauf? Das Aufstehen jeden Morgen, das Zähneputzen, das Frühstücken, das Zeitunglesen? Hinsichtlich derartiger Routinen sticht ein Jünger Jesu nicht unbedingt aus der Menge heraus und könnte durchaus als völlig normal bezeichnet werden.
 
