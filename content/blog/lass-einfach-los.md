@@ -6,7 +6,7 @@ Willst du weiterkommen? Irgend etwas verändern, entwickeln, erreichen und in de
 
 Und sitzt fest?
 
-In deiner Vergangenheit, deinem Arbeitsplatz, deinen Schulden, deinem Gehalt, deinem Ruf, deinem Gewicht, deinen Sorgen, Enttäuschungen und Erfahrungen?
+...in deiner Vergangenheit, deinem Arbeitsplatz, deinen Schulden, deinem Gehalt, deinem Ruf, deinem Gewicht, deinen Sorgen, Enttäuschungen und Erfahrungen?
 
 Oder bewegst dich nur immer im Kreis, in deinen  Gewohnheiten und Routinen? Trittst auf der Stelle, zum Beispiel in deinem geistlichen Leben?
 
