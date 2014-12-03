@@ -56,4 +56,4 @@ Es ist schon nicht immer leicht, einfach loszulassen. Aber für handfeste Versö
 
 Willst du jedoch Veränderung und bist wirklich entschlossen oder auch demütig oder verweifelt genug, dann ist es gar nicht so schwer.
 
-Nur guten Mut! Es lohnt sich!
+Nur guten Mut. Es lohnt sich!
