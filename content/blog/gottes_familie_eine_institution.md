@@ -4,10 +4,9 @@ date = 2014-12-18T03:01:45Z
 +++
 Der Herr ersehnt sich eine Familie. Der Mensch jedoch baut ihm Kirchen.
 
-Ihr Väter und Mütter!
-Stellt euch vor, das  Gleiche würde euch passieren. Eure Kinder würden mit wachsendem Alter nach und nach eure Familie in eine Institution verwandeln.
+Liebe Väter und Mütter!
 
-Wie könnte so etwas aussehen?
+Stellt euch vor, das  Gleiche würde euch passieren. Eure Kinder würden mit wachsendem Alter nach und nach eure Familie in eine Institution verwandeln. Wie könnte so etwas aussehen?
 
 + Formelle Mitgliedschaft statt Familienbeziehungen
 + Organisierte wöchentliche Versammlungen statt gemeinsamem Leben
