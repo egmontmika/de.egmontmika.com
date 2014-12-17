@@ -5,7 +5,6 @@ date = 2014-12-18T03:01:45Z
 Der Herr ersehnt sich eine Familie. Der Mensch jedoch baut ihm Institutionen.
 
 Ihr Väter und Mütter!
-
 Stellt euch vor, das  Gleiche würde euch passieren. Eure Kinder würden mit wachsendem Alter nach und nach eure Familie in eine Institution verwandeln.
 
 Wie könnte so etwas aussehen?
