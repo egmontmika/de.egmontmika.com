@@ -23,6 +23,11 @@
   <section>
     <article>
       <h1>{{ .Title }}</h1>
+      {{ with .Params.image}}
+      <figure>
+        <img src="/img/blog/{{.}}">
+      </figure>
+      {{ end }}
       {{ .Content }}
     </article>
   </section>
