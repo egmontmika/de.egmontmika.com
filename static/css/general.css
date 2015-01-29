@@ -92,7 +92,7 @@ body > main > section > article > figure {
 }
 body > main > section > article > figure > img {
   display: block;
-  max-height: 20em;
+  max-height: 30em;
   width: 37em;
   margin-left: 0;
   margin-right: auto;
