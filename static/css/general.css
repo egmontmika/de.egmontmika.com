@@ -87,12 +87,12 @@ article img {
   height: auto;
 }
 body > main > section > article > figure {
-  margin: 2em 0;
+  margin: 0.2em 0;
   width: 100%;
 }
 body > main > section > article > figure > img {
   display: block;
-  max-height: 30em;
+  max-height: 20em;
   width: 37em;
   margin-left: 0;
   margin-right: auto;

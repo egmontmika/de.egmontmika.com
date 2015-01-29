@@ -1,24 +1,26 @@
 +++
-title = "Jesus in der Rangliste"
-date = 2015-01-27T03:01:45Z
-image = "Rangliste2.png"
+title = "Jesus auf die Liste setzen"
+date = 2015-01-29T03:01:45Z
+image = "Rangliste3.png"
 +++
-Jesus sagte: „Geht und macht Jünger!“
+Was ist dir wirklich wichtig?
 
-Stell dir vor, du hättest eine Rangliste über alle deine täglichen und wöchentlichen Aktivitäten, in Arbeit und Freizeit, an den Wochenenden und im Urlaub. Inbegriffen auch dein kirchliches und geistliches Engagement.
+Stell dir vor, du hättest eine Rangliste über alle deine täglichen und wöchentlichen Aktivitäten, in Arbeit und Freizeit, an den Wochenenden und im Urlaub. Inbegriffen auch dein kirchliches und soziales Engagement.
 
-Welchen Rang in dieser Liste hätte dann diese Aufforderung Jesu?
+An welcher Stelle deiner Liste käme dann Jesu Auftrag? Also sein Auftrag, ihm Jünger zu machen?
 
-Bei manch einem werden die vielen täglichen Routinen, die Sorgen und Verpflichtungen, die eingeschliffenen Gewohnheiten, auch die unverzichtbar erscheinenden Vorlieben so übermächtig, dass sie die wirklich wichtigen Dinge des Lebens verdrängen.
+Unsere täglichen Routinen, Sorgen und Verpflichtungen, die eingeschliffenen Gewohnheiten, auch all die unverzichtbar erscheinenden Vorlieben und Bequemlichkeiten haben es an sich, die wirklich wichtigen Dinge des Lebens aus unserem Bewusstsein zu verdrängen.
 
-Und unsere kirchliche Kultur mit all ihren Veranstaltungen und Verpflichtungen hält uns so beschäftigt, dass wir den eigentlichen Auftrag leicht aus den Augen verlieren. Und wo sollten da auch noch Zeit und Kraft bleiben, um sich voll und ganz und über längere Zeit einem einzelnen Menschen widmen zu können?
+Auch unsere kirchliche Kultur mit all ihren Veranstaltungen und Verpflichtungen kann das treue und engagierte Gemeindeglied so beschäftigt halten, dass der eigentliche Auftrag aus den Augen gerät. Wie sollten da noch Zeit und Kraft für die Menschen außerhalb bleiben?
 
-Das muss aber nicht so sein. Nur, wer könnte es ändern?
+Einigen scheint es so Recht zu sein. Andere fühlen Unbehagen. Muss das denn so sein? Doch wohl nicht. Jedoch, wie könnte es anders werden?
 
-Eigentlich jeder. Jeder von uns hat die Möglichkeit, für sein eigenes Leben darüber zu entscheiden. Und zwar noch heute. Du hast die Freiheit dazu. Und damit allerdings auch die Verantwortung.
+Wahrscheinlich könnte da jeder etwas tun. Die meisten von uns haben doch die Möglichkeit, für ihr eigenes Leben freie Entscheidungen zu treffen und ihre Prioritäten zu setzen.
 
-Jünger Jesu zu machen ist für niemand leicht, und es gelingt auch nicht immer. Erst recht nicht auf die Schnelle, oder als weiteren Programmpunkt in der Hektik eines bereits überlasteten Alltags.
+Jedoch diese Freiheit wahrzunehmen ist nicht immer leicht. Denn mit der Freiheit kommt auch die Verantwortung und damit oft auch Unsicherheit und Unbequemlichkeit.
 
-Jedoch ist es möglich.
+Zugegeben, Menschen zu Jüngern Jesu zu machen ist nichts was man aus dem Ärmel schüttelt. Für keinen von uns. Auch gelingt es nicht immer, und erst recht nicht auf die Schnelle, oder als zusätzliche Verpflichtung in der Hektik eines bereits überlasteten Alltags.
 
-Und es gelingt denen, bei denen es ganz oben auf der Liste steht und zum Lebensstil geworden ist.
+Dennoch ist es möglich. Und es gelingt denen, die Jesu Auftrag weit oben auf ihre Liste gesetzt haben. Bei denen der Auftrag nicht Aktivität sondern Identität und Lebensstil ist.
+
+Könnte es an der Zeit sein, die eigene Liste wieder einmal neu zu überdenken?

@@ -1,6 +1,7 @@
 +++
-title = "Familie oder Institution?"
+title = "Gottes Familie oder Institution?"
 date = 2014-12-18T03:01:45Z
+image = "Gottes Familie oder Institution.png"
 +++
 Der Herr ersehnt sich eine Familie. Der Mensch jedoch baut ihm Kirchen.
 
