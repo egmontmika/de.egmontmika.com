@@ -1,7 +1,7 @@
 +++
 title = "Auf dem Wasser gehen"
 date = 2014-10-23T03:01:45Z
-image = "Just do it"
+image = ""
 +++
 Niemals versprach Jesus seinen Jüngern ein bequemes, abgesichertes und vorhersehbares Leben.
 
