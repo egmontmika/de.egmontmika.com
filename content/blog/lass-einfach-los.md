@@ -1,7 +1,7 @@
 +++
 title = "Lass einfach los!"
 date = 2014-12-03T03:01:45Z
-image = "Dare letting go!ohne Figur.png"
+image = "Letting go.png"
 +++
 Willst du weiterkommen? Irgend etwas verändern, entwickeln, erreichen und in deinem Leben verbessern...
 
