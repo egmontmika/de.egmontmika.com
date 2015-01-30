@@ -1,6 +1,7 @@
 +++
 title = "Jesus-Gespräche"
 date = 2014-09-14T03:01:45Z
+image = "EgmontNoomiConversation_small.png"
 +++
 
 Zu den kostbarsten Erlebnissen zähle ich Gespräche über Jesus mit jemandem, der ihn noch nicht kennt, ihm aber im Laufe unserer Begegnung sein Herz öffnet.

@@ -1,6 +1,7 @@
 +++
 title = "Lass einfach los!"
 date = 2014-12-03T03:01:45Z
+image = "Dare letting go!ohne Figur.png"
 +++
 Willst du weiterkommen? Irgend etwas verändern, entwickeln, erreichen und in deinem Leben verbessern...
 
@@ -42,7 +43,7 @@ Wenn du nach Veränderung strebst, kannst du deine Zeit, deinen Raum und deine F
 
 Was eigentlich notwendig wäre, ist eine Art innere Kapitulation. Eine Art Verschrottung liebgewordener Hausgötter, besonders der mentalen. Und dann vor allem Versöhnung. Richtige, ganzherzige Versöhnung mit deiner Umgebung und mit dir selbst.
 
-Da geht es darum, ganz schlicht und ohne viel Firlefanz Vergebung praktizieren.
+Da geht es darum, ganz schlicht und ohne viel Firlefanz Vergebung zu praktizieren.
 
 Das ist dann der Punkt, an dem die Freiheit anfängt. Erst danach bist du bereit zum Aufbruch in etwas wirklich Neues.
 

@@ -1,7 +1,7 @@
 +++
 title = "Eine Jesus-Gemeinschaft"
 date = 2015-01-08T03:01:45Z
-image = ""
+image = "Jesus community3.png"
 +++
 Es bedarf weder eines Apostels oder Propheten noch eines autorisierten Gemeindeleiters oder Gemeindegründers, um eine einfache  Gemeinschaft von Jüngern Jesu zu bilden.
 

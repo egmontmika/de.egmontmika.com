@@ -1,6 +1,7 @@
 +++
 title = "Deine beste Geschichte"
 date = 2014-09-25T03:01:45Z
+image = "Jesus story Deutsch.2png.png"
 +++
 Wie steht es mit deiner besten Geschichte?
 
