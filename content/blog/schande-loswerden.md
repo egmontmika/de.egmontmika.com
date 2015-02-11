@@ -9,7 +9,7 @@ Zum Beispiel über meine Blamagen und Reinfälle. Meine Dummheiten, meine Arroga
 
 Aber warum auch? Warum andere mit meinem persönlichen Kram belästigen?
 
-Das Problem ist, dass andere mich gesehen und gehört haben, und das ist schlimm. Einfach beschämend. Und falls keiner es gesehen haben sollte, so ist die Sache dennoch nicht aus der Welt, solange ich mich daran erinnere. Allein das reicht schon, um mein Gewissen zu belasten. Und dann wäre jag auch noch der Herr... Hm.
+Das Problem ist, dass andere mich gesehen und gehört haben, und das ist schlimm. Einfach beschämend. Und falls keiner es gesehen haben sollte, so ist die Sache dennoch nicht aus der Welt, solange ich mich daran erinnere. Allein das reicht schon, um mein Gewissen zu belasten. Und dann wäre ja auch noch der Herr... Hm.
 
 Gibt es da keinen Weg raus?
 
