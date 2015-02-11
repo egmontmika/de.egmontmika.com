@@ -39,3 +39,17 @@ Da gibt es also sehr wohl:
 Da gibt es alle erdenklichen menschlichen Schwächen und doch auch göttliche Herrlichkeit.
 
 Da gibt es Gemeinschaft der Jünger Jesu.
+
+----------
+
+## Kommentare
+###### Irmi Grundgeir
+>Lieber Egmont, danke für diese Beschreibung, die so allen Druck rausnimmt und das wesentlichste benennt, das für mich heute den Begriff Gemeinde füllt.
+Da ist so ein Empfinden von Daheim sein, vertraut und vertrauend.... Und es ist gerade die Schlichtheit und "Selbstverständlichkeit", die mich anspricht und einlädt. SO möchte ich Christ Sein leben.
+Ich mag unsere Zusammentreffen, die jedesmal anbetend werden ohne es zu müssen. Die Beziehungen werden offen, vertrauend, wenn die Annahme erfahrbar ist. Für mich ist es ein kleines Wunder zu verstehen, was es heißt, tatsächlich an der Liebe erkennbar zu sein. In mir macht es viel heil. So schlicht und liebevoll wie du es beschreibst, so will ich mitmachen. Heim und Herz und Leben aufmachen und dann sehen, was daraus wird......
+
+
+###### Egmont Mika
+> Danke, Irmi, für deinen Kommentar. Das was du schreibst ist wirklich ermutigend. Genauso erlebe ich es auch. Es ist wirklich nicht schwer. Und doch ist für viele der Weg dahin so weit, weil sie die Gemeinschaft vor lauter "Kirche" nicht sehen können. Manch einer started eine Hausgemeinde in der besten Absicht, und doch wird es wieder der übliche Betrieb. Ein Heim als Versammlungsort und die kleinere Grösse allein führen noch nicht automatisch zu einer entscheidenden Veränderung.
+
+---
