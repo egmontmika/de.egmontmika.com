@@ -3,7 +3,7 @@ title = "Fang einfach an!"
 date = "2015-02-24T06:39:19Z"
 image = "Just do it.png"
 +++
-Es gibt keine bessere Art etwas zu lernen als durch das praktische Üben in wirklichen Lebenssituationen.
+Es gibt keine bessere Art etwas zu lernen als durch das praktische Üben im wirklichen Leben.
 
 * Wer gehen lernen will, muss sich aufstellen und anfangen zu gehen.
 * Wer Fahrrad fahren lernen will, muss aufsteigen und anfangen zu fahren.
