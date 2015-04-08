@@ -1,6 +1,6 @@
 +++
 title = "Niederlage und Sieg des Jüngers"
-date = 2015-04-23T03:01:45Z
+date = 2015-03-24T03:01:45Z
 image = "diagram.png"
 +++
 Der Weg des Jüngers ist ein steiniger Weg.
