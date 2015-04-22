@@ -1,5 +1,5 @@
 +++
-title = "Was ist die vollkommene Gemeinde?"
+title = "Die vollkommene Gemeinde"
 date = 2015-04-15T03:01:45Z
 image = "what's the perfect church.png"
 +++
