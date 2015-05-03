@@ -1,5 +1,5 @@
 +++
-title = "Überwindung der Angst"
+title = "Die Überwindung der Angst"
 date = 2015-05-06T03:01:45Z
 image = "Overcoming fear.png"
 +++
