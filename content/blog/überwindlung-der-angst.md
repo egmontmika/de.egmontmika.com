@@ -9,7 +9,7 @@ Der Feind des Glaubens ist die Angst.
 
 Die Angst vor Krankheit, Tod und jüngstem Gericht. Die Angst vor dem Versagen, vor dem was andere von mir denken könnten, vor ihrer Ablehnung oder auch Gleichgültigkeit. Die Angst vor dem Chef, den Rechnungen, der Steuerbehörde, dem Wetter oder was auch immer passieren könnte.
 
-Bevor wir Gottes Gnade kennen lernen, ist Angst der Unterton unseres Lebens. Aus Angst machen wir uns Sorgen und versetzen uns in einen Zustand der ständigen Verleugnung. Verleugnung dessen, wer und was wir eigentlich sind, Verleugnung unserer Berufung und der leisen Stimme unseres Herzens.
+Bevor wir Gottes Gnade kennen lernen, ist Angst der Unterton unseres Lebens. Aus Angst machen wir uns Sorgen und versetzen uns in einen Zustand der ständigen Verleugnung. Verleugnung dessen, wer und was wir eigentlich sind, Verleugnung unserer Berufung, Verleugnung der leisen Stimme unseres Herzens...
 
 Verleugnung der Gegenwart Gottes.
 
