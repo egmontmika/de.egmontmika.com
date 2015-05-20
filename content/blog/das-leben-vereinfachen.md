@@ -28,7 +28,7 @@ Am wichtigsten aber ist die Veränderung deiner Attitüde. Du baust deinen Stolz
 
 Das spart dir eine Menge selbstverursachter Probleme; dein Leben wird einfacher.
 
-Vor deiner Umkehr erlaubtest du dir, dein Leben mit Ablenkungen. aller Art zu füllen. Du wolltest dabei sein, dich auf dem Laufenden halten und nichts verpassen. Deine Tage konnten bis über den Rand mit Pflichten und Aktivitäten gefüllt sein und dich doch erschreckend leer und unbefriedigt lassen.
+Vor deiner Umkehr erlaubtest du dir, dein Leben mit Ablenkungen aller Art zu füllen. Du wolltest dabei sein, dich auf dem Laufenden halten und nichts verpassen. Deine Tage konnten bis über den Rand mit Pflichten und Aktivitäten gefüllt sein und dich doch erschreckend leer und unbefriedigt lassen.
 
 Nach deiner Umkehr ändert sich das grundlegend.
 
