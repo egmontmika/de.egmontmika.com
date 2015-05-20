@@ -4,7 +4,7 @@ date = 2015-05-20T03:01:45Z
 image = "Finding simplicity.png"
 +++
 
-Einfachheit ist nicht dasselbe wie Armut. Armut ist Fluch, Einfachheit dahingegen Errungenschaft.
+Einfachheit ist nicht dasselbe wie Armut. Armut ist Mangel, Einfachheit dahingegen Errungenschaft.
 
 Die Errungenschaft des Weisen.
 
