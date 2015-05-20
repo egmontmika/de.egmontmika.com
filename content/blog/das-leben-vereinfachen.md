@@ -8,7 +8,7 @@ Einfachheit ist nicht dasselbe wie Armut. Armut ist Mangel, Einfachheit dahingeg
 
 Die Errungenschaft des Weisen.
 
-Einfachheit kann erlangt werden. Jeder könnte das, jedoch nicht jeder will.
+Einfachheit kann erlangt werden. Jeder könnte eine einfache Lebensweise verwirklichen, jedoch nicht jeder will es und wird es tun.
 
 Wenn du dich bekehrst und anfängst Jesus nachzufolgen, vereinfacht sich dein Leben wesentlich.
 
