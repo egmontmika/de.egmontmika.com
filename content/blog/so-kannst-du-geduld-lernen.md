@@ -1,7 +1,7 @@
 +++
 title = "So kannst du Geduld lernen"
 date = 2015-06-03T03:01:45Z
-image = "kassakö.png"
+image = "so kannst du geduld lernen.png"
 +++
 
 **Ich will Geduld haben, und zwar SOFORT!!!**
