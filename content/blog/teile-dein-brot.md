@@ -12,7 +12,7 @@ gastfrei.
 
 Das können wir auch. Es ist nicht schwer. Du teilst einfach was du hast mit einem Freund, Kollegen, Nachbarn oder auch Fremden. Oder warum nicht mit einem Flüchtling oder Bettler? Gott hat nicht Ansehen der Person. Du auch nicht.
 
-Er bezieht ein, schließt nicht aus, ist inklusiv, nicht exklusiv. So auch du.
+Du beziehst ein, schließt nicht aus, bist inklusiv, nicht exklusiv - wie er.
 
 Dein Gastmahl braucht nicht teuer zu sein, oder gar extravagant. Du brauchst nicht Eindruck zu machen, keinem deine Kochkünste beweisen oder zeigen, wie tüchtig du bist. Auch nicht dir selbst.
 
@@ -22,7 +22,7 @@ Tatsächlich kommt es nicht so sehr auf das Essen selbst an, sondern auf deine H
 
 Du gibst ihnen das Erlebnis, geschätzt zu sein. Angenommen zu sein ohne Qualifikationsnachweis. Ohne Gegenleistung. Das bricht die Macht von Minderwertigkeitsgefühlen, Leistungsdruck, Angst, Entfremdung, Vorurteilen und vielem mehr aus der Waffenkammer der Finsternis.
 
-Damit schenkst du Freiheit. Du schaffst einen Raum, in dem Großzügigkeit herrscht und  Abwesenheit von Kontrolle, Anklage und Schuld. Auch vom Zwang zu imponieren. Du erlaubst ihnen zu sein wie sie sind.
+Damit schenkst du Freiheit. Du schaffst einen Raum, in dem Großzügigkeit herrscht und  Abwesenheit von Kontrolle, Anklage und Schuld. Auch vom Zwang zu imponieren. Du erlaubst ihnen zu sein wie sie sein wollen.
 
 Du schenkst Liebe und Gemeinschaft.
 
