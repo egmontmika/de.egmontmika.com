@@ -22,7 +22,6 @@ Tatsächlich kommt es nicht so sehr auf das Essen selbst an, sondern auf deine H
 
 Du gibst ihnen das Erlebnis, geschätzt zu sein. Angenommen zu sein ohne Qualifikationsnachweis. Ohne Gegenleistung. Das bricht die Macht von Minderwertigkeitsgefühlen, Leistungsdruck, Angst, Entfremdung, Vorurteilen und vielem mehr aus der Waffenkammer der Finsternis.
 
-Damit schenkst du Freiheit. Du schaffst einen Raum, in dem Großzügigkeit herrscht und  Abwesenheit von Kontrolle, Anklage und Schuld. Auch vom Zwang zu imponieren. Du erlaubst ihnen zu sein wie sie sein wollen.
 
 Du schenkst Liebe und Gemeinschaft.
 
