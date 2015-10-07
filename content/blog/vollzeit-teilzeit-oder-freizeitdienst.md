@@ -1,5 +1,5 @@
 +++
-title = "Vollzeit-, Teilzeit- oder Freizeitdienst?"
+title = "Vollzeit, Teilzeit oder Freizeit?"
 date = 2015-10-07T03:01:45Z
 image = "Full-time, part-time, spare-time.png"
 +++
