@@ -20,9 +20,9 @@ Für die Bewältigung bieten sich grundlegend drei Wege an:
 
 Es ist nicht immer leicht, mit Versagen richtig umzugehen, aber oft kann es doch auf einigermaßen rationale Weise geschehen. Schwerer ist es, mit dem Gefühl klarzukommen. Mit dem Gefühl des Versagens.
 
-Das Gefühl des Versagens hat eigentlich sehr wenig mit einem bestimmten Versagen zu tun. Du kannst Tausende Misserfolge haben, ohne dich als Versager zu fühlen. Andererseits kannst du dieses Gefühl haben, trotz offensichtlicher Erfolge.
+Das Gefühl des Versagens hat eigentlich sehr wenig mit einem bestimmten Geschehen zu tun. Du kannst Tausende Misserfolge haben, ohne dich als Versager zu fühlen. Andererseits kannst du dieses Gefühl haben, trotz offensichtlicher Erfolge.
 
-Das Gefühl des Versagens hat nur indirekt etwas mit einem konkreten Geschehen zu tun. Die Ursache dafür liegt vielmehr im Denken. Du machst dir ein Bild von dir selbst oder denkst, dass andere sich ein Bild von dir machen und fängst an, daran zu glauben.
+ Die Ursache liegt vielmehr im Denken. Du machst dir ein Bild von dir selbst oder denkst, dass andere sich ein Bild von dir machen und fängst an, daran zu glauben.
 
 Solche Bilder funktionieren wie Weissagungen. Du wirst dir zum eigenen Propheten. Was du vor deinem inneren Auge siehst, wird dir zur Wirklichkeit. Und je mehr du daran glaubst, umso mehr findest du dich bestätigt. Einmal diesen Weg eingeschlagen, wirst du immer finden was du suchst.
 
