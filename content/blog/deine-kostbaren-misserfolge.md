@@ -1,7 +1,7 @@
 +++
 title = "Deine kostbaren Misserfolge"
 date = "2015-10-12T06:39:19Z"
-image = "your precious failures.png"
+image = "feeling.jpg"
 +++
 
 Keiner liebt Misserfolge.
