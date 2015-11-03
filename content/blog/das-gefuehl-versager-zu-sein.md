@@ -1,39 +1,41 @@
 +++
 title = "Das Gefühl des Versagens"
 date = 2015-11-04T03:01:45Z
-image = "Feeling like a failure?.png"
+image = "feeling-like-a-failure.jpg"
 +++
 
 Ein Versagen macht dich noch lange nicht zum Versager.
 
-Auch wenn du dich so fühlen magst. Und dieses Gefühl kann dir weit mehr zu schaffen machen, als das eigentliche Versagen.
+Auch wenn du dich so fühlen magst. Und obwohl dieses Gefühl dir weit mehr zu schaffen machen kann, als das eigentliche Versagen.
 
-Ein Versagen ist zunächst ein Ereignis und kein Gefühl. Da ist irgendetwas Bestimmtes schief gelaufen. Du hast eine Prüfung nicht bestanden, ein Versprechen gebrochen, den Flug verpasst, die Kreditkarte verloren, einen blöden Kommentar losgelassen, oder was auch immer.
+Ein Versagen ist zunächst ein Ereignis und kein Gefühl. Da ist irgend etwas schief gelaufen. Du hast eine Prüfung nicht bestanden, ein Versprechen gebrochen, den Flug verpasst, die Kreditkarte verloren, einen blöden Kommentar losgelassen, oder was auch immer.
 
-Für die Bewältigung derlei Versagen bieten sich grundlegend drei Möglichkeiten an:
+Für die Bewältigung bieten sich grundlegend drei Wege an:
 
-1. Wenn es möglich ist, den Schaden wieder gut zu machen, dann machst du das eben. Du reparierst, bezahlst, ersetzt, kompensierst; eine einfache Entschuldigung ist manchmal auch schon gut genug. Das Glas ist eben kaputt, der Wein ausgeschüttet und das Tischtuch ruiniert. Was soll's! Du weißt was zu tun ist. Kein Grund also, sich weiter aufzuregen.
+1. Wenn es möglich ist, den Schaden wieder gut zu machen, dann machst du das. Das Glas ist zerbrochen, der Wein verschüttet und das Tischtuch versaut. Was soll's! Du weißt, was zu tun ist und tust dein bestes, um die Situation zu retten. Du wischt auf, reparierst, bezahlst, ersetzt, kompensierst; eine einfache Entschuldigung ist manchmal auch schon gut genug. Kein Grund, sich weiter aufzuregen.
 
-2. Manchmal kann der Schaden zwar nicht wieder gut gemacht werden, aber du kannst doch daraus lernen. Notorische Zuspätkommer zum Beispiel können tatsächlich aufhören, sich mit den Umständen oder den Unzulänglichkeiten anderer Leute rauszureden, können vielmehr ihr Versagen zugeben, dem Problem auf den Grund gehen und ihre Gewohnheit ändern. Wenigstens können ihnen somit ähnliche Ärgernisse in der Zukunft erspart bleiben.
+2. Manchmal kannst du den Schaden zwar nicht wieder gut machen, aber doch davon lernen. Notorische Zuspätkommer können zum Beispiel aufhören, sich mit den Umständen oder den Unzulänglichkeiten anderer Leute rauszureden. Können vielmehr ihr Versagen zugeben, dem Problem auf den Grund gehen und ihre Gewohnheit ändern. Wenigstens können ihnen somit ähnliche Ärgernisse in der Zukunft erspart bleiben.
 
-3. Manchmal kann man überhaupt nichts machen. Gewisse Misserfolge müssen einfach ignoriert werden. Falls du gerade eine goldene Gelegenheit an der Börse verpasst hast, dann ist das natürlich ärgerlich, aber was soll’s! Der Dampfer ist abgefahren und damit hat sich’s. Warum sich noch lange grämen und herumquälen! Auch wenn der Verlust schmerzlich sein mag, so lässt man die Sache doch am besten hinter sich und geht weiter.
+3. Manchmal kann man allerdings überhaupt nichts machen. Gewisse Misserfolge sollten deshalb einfach ignoriert werden. Falls du gerade eine goldene Gelegenheit an der Börse verpasst hast, dann ist das natürlich ärgerlich, aber was soll’s! Der Dampfer ist abgefahren und damit hat sich’s. Warum sich noch lange grämen und herumquälen! Auch wenn der Verlust schmerzlich sein mag, so lässt man die Sache doch am besten hinter sich und geht weiter.
 
-Es ist nicht immer leicht, mit einem Versagen richtig umzugehen, aber oft kann es doch auf einigermassen rationale Weise geschehn. Schlimmer ist es mit den Gefühlen. Schlimmer ist es mit dem Gefühl des Versagens oder dem Gefühl ein Versager zu sein.
+Es ist nicht immer leicht, mit Versagen richtig umzugehen, aber oft kann es doch auf einigermaßen rationale Weise geschehen. Schwerer ist es, mit dem Gefühl klarzukommen. Mit dem Gefühl des Versagens.
 
-Du kannst Tausende von Misserfolgen haben, ohne dich deshalb als Versager fühlen zu müssen. Andererseits kannst du dich als Versager fühlen trotz eines offensichtlichen Erfolgs.
+Das Gefühl des Versagens hat eigentlich sehr wenig mit einem bestimmten Versagen zu tun. Du kannst Tausende Misserfolge haben, ohne dich als Versager zu fühlen. Andererseits kannst du dieses Gefühl haben, trotz offensichtlicher Erfolge.
 
-Das Gefühl des Versagens hat nur in indirekt etwas mit einem Misserfolg zu tun. Die Ursache für das Gefühl des Versagens liegt in unserem Denken. Du machst dir ein Bild von dir selbst oder denkst, dass andere sich ein Bild von dir machen und fängst an daran zu glauben. Solche Bilder funktionieren wie Weissagungen. Du wirst dir selbst zum Propheten. Was du mit deinem Inneren Auge siehst, wird dir zur Wirklichkeit. Und je mehr du daran glaubst, umso mehr findest Bestätigungen für die Richtigkeit deiner Annahmen. Einmal diesen Weg eingeschlagen, wirst du immer finden was du suchst.
+Das Gefühl des Versagens hat nur indirekt etwas mit einem konkreten Geschehen zu tun. Die Ursache dafür liegt vielmehr im Denken. Du machst dir ein Bild von dir selbst oder denkst, dass andere sich ein Bild von dir machen und fängst an, daran zu glauben.
 
-Wenn du dich also als Versager vorkommst, oder diskriminiert, verachtet, beiseite geschoben, ignoriert, bemitleidet, dann dieses Sich-fühlen auf deine Gedanken zurück, auf den Nährboden, den du diesen Gedanken anbietest, nämlich auf das Bild, das du in deinem Innern nährst und an das du glaubst.
+Solche Bilder funktionieren wie Weissagungen. Du wirst dir zum eigenen Propheten. Was du vor deinem inneren Auge siehst, wird dir zur Wirklichkeit. Und je mehr du daran glaubst, umso mehr findest du dich bestätigt. Einmal diesen Weg eingeschlagen, wirst du immer finden was du suchst.
 
-Wenn du jedoch von diesem Bild frei werden oder dich schützen willst, dann könnten dir drei einfache Ratschläge weiter helfen:
+Wenn du dir also als Versager vorkommst, oder dich diskriminiert, verachtet, beiseite geschoben, ignoriert oder bemitleidet fühlst, dann geht dieses Gefühl auf deine Gedanken zurück, auf den Nährboden, den du diesen Gedanken anbietest, nämlich das Bild, das du in deinem Innern bewahrst und kultivierst und an das du glaubst.
 
-1. Hör auf, über dein falsches Bild nachzudenken. Wisch es weg und weigere dich, dich weiter damit zu befassen. Du bist schliesslich der Herr deiner Gedanken. Dann mach Ernst damit!
+Wenn du jedoch von diesem Bild frei werden willst oder dich vorbeugend davor schützen möchtest, dann gibt es ein paar einfache Ratschläge, die weiterhelfen können:
 
-2. Höre auf zu glauben, dass du Erfolg haben musst, um die Gefühle des Versagens loszuwerden.	Erfolg ist gar nicht notwendig! Du kannst von diesen Gefühlen ohne einen einzigen Erfolg frei werden.
+1. Hör auf, über dein falsches Bild nachzudenken. Wisch es weg und weigere dich, dich weiter damit zu befassen. Mach dich zum Herrn deiner Gedanken!
 
-3. Lass dir stattdessen ein ganz anderes Bild schenken, über das du meditieren kannst, das 	Bild nämlich, das Jesus dir von dir  gibt: „Du bist ein Kind Gottes, wunderbar geschaffen, geliebt, vergeben und angenommen, dazu geboren und bestimmt ein Segen für andere zu sein…” Lass deinen Vater im Himmel darüber entscheiden wer du bist und woran du glaubst.
+2. Hör auf zu glauben, dass du Erfolg haben musst, um die Gefühle des Versagens loszuwerden.	Erfolg ist gar nicht notwendig! Du kannst von diesen Gefühlen frei werden, auch ohne einen einzigen Erfolg.
 
-Solltest du dich für das Letztere entscheiden und anfangen, Bestätigung dafür zu suchen, so wirst du sie auch finden. Und deine Gefühle werden nachfolgen und geheilt werden.
+3. Lass dir stattdessen ein ganz anderes Bild schenken, über das du meditieren kannst. Das Bild nämlich, das Jesus dir gibt: „Du bist ein Kind Gottes, wunderbar geschaffen, geliebt, vergeben und angenommen, dazu geboren und bestimmt ein Segen für andere zu sein…” Lass deinen Vater im Himmel darüber entscheiden, wer du bist und woran du glaubst.
+
+Solltest du dich für das Letztere entscheiden, dann wird der Himmel dich bestätigen. Und deine Gefühle folgen nach und werden geheilt.
 
 Die Entscheidung liegt bei dir.
