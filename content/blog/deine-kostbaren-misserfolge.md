@@ -1,7 +1,7 @@
 +++
 title = "Deine kostbaren Misserfolge"
 date = "2015-10-12T06:39:19Z"
-image = "feeling.jpg"
+image = "your precious failures.png"
 +++
 
 Keiner liebt Misserfolge.
@@ -12,7 +12,7 @@ Zugegeben, ein Misserfolg ist etwas Negatives. Wir fühlen uns entmutigt, nieder
 
 Aber dabei muss es nicht bleiben. Ein Misserfolg ist nicht auch schon das Ende.
 
-Der springende Punkt ist die Frage, was dann kommt. Was machen wir damit? Wer oder was hat das letzte Wort? Und wer entscheidet über dieses Wort? Wie kann noch etwas Gutes dabei herauskommen? Oder wie kann sich als Folge gerade eines Misserfolgs eine Tür öffnen, die schließlich doch noch zu Erfolg führt?
+Der springende Punkt ist die Frage, was dann kommt. Was machen wir damit? Wer oder was hat das letzte Wort? Und wer entscheidet über dieses Wort? Wie kann noch etwas Gutes dabei herauskommen? Oder wie kann sich als Folge gerade eines Misserfolgs eine Tür öffnen, die schließlich doch noch zu Erfolg führt.
 
 Nehmen wir als Beispiel Thomas Edison. Insgesamt registrierte er 1093 Patente allein in den USA, dazu noch etliche in Großbritannien, Frankreich und Deutschland. Möglicherweise kann er als der erfolgreichste Erfinder aller Zeiten gelten, nicht nur wegen der hohen Zahl seiner Erfindungen, sondern auch aufgrund deren weiter Verbreitung und Durchschlagkraft.
 
