@@ -10,7 +10,7 @@ Tief bestürzt über die Ereignisse dieser Nacht stellte sich mir die Frage: „
 
 Wird der Schrecken bleiben, sich in meine Gedanken einnisten, mich in einen Zustand ständiger Unruhe versetzen und sich zum Nährboden für Hass und Ressentiments entwickeln?
 
-Eines ist sicher, wenn dadurch Angst und Misstrauen bestimmende Faktoren in meinem Leben werden, dann haben die Terrorangriffe ihr Ziel in mir erreicht. Dann haben die Terroristen in mir gesiegt. Dazu darf es auf keinen Fall kommen. Nie und nimmer!
+Eines ist sicher, wenn Angst und Misstrauen bestimmende Faktoren in meinem Leben werden, dann haben die Terrorangriffe ihr Ziel in mir erreicht. Dann haben die Terroristen in mir gesiegt. Dazu darf es auf keinen Fall kommen. Nie und nimmer!
 
 Aber es gibt einen besseren Weg.
 
