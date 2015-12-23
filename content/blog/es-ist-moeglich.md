@@ -1,7 +1,7 @@
 +++
 title = "Wenn du es ernst nimmst."
 date = 2015-12-23T03:01:45Z
-image = "es-ist-möglich.jpg"
+image = "es-ist-moeglich.jpg"
 +++
 Jesus will, dass wir Jünger machen. Und es ist möglich, wenn du es ernst nimmst. Aber hat seinen Preis.
 
