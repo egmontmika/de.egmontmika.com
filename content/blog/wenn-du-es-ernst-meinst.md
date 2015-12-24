@@ -1,7 +1,7 @@
 +++
 title = "Wenn du's ernst meinst."
 date = 2015-12-23T03:01:45Z
-image = "wenn-du-es-ernst meinst.jpg"
+image = "wenn-du-es-ernst-meinst.jpg"
 +++
 
 Jünger machen gelingt denen, die es ernst meinen.
