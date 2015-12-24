@@ -1,12 +1,12 @@
 +++
 title = "Wenn du's ernst meinst."
 date = 2015-12-23T03:01:45Z
-image = "wenn-du-es-ernst-meinst.jpg"
+image = "es-ist-moeglich.jpg"
 +++
 
 Jünger machen gelingt denen, die es ernst meinen.
 
-Denn Jünger machen fordert seinen Preis. An Zeit, Geld und Energie. Und jeder Menge Geduld und Ausdauer. Und Hingabe.
+Denn Jünger machen fordert seinen Preis. An Zeit, Geld und Energie und jeder Menge Geduld und Ausdauer. Und Hingabe.
 
 Außerdem: Jünger machen verpflichtet.
 
