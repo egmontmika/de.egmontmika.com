@@ -44,6 +44,6 @@ Und dann lernten wir Tag um Tag und Nacht um Nacht Geduld und Ausdauer und all d
 
 Zugegeben, es ist nicht immer leicht, Vater oder Mutter zu sein, und einige von uns können so manches Lied davon singen. Aber es funktioniert doch irgendwie, trotz unserer Mängel. Und bringt brauchbare Ergebnisse.
 
-So ungefähr ist es mit dem Jünger machen. Es ist nicht immer leicht und hat seinen Preis, jedoch ist es möglich und das Ergebnis bleibt nicht aus.
+So ungefähr ist es mit dem Jünger machen. Es ist nicht immer leicht und hat seinen Preis. Jedoch ist es möglich und das Ergebnis bleibt nicht aus.
 
 Für den, der es ernst meint.
