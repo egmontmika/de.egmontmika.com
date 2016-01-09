@@ -6,11 +6,11 @@ image = "es-ist-moeglich.jpg"
 
 Jünger machen gelingt denen, die es ernst meinen.
 
-Denn Jünger machen fordert seinen Preis. An Zeit, Geld und Energie und jeder Menge Geduld und Ausdauer. Und Hingabe.
+Denn das fordert seinen Preis. An Zeit, Geld und Energie und jeder Menge Geduld und Ausdauer. Und Hingabe.
 
-Außerdem: Jünger machen verpflichtet.
+Außerdem verpflichtet es.
 
-Als Mentor bist du ein Aushängeschild. Du musst eben leben wie du lehrst. Und kannst nicht einfach abspringen und den Jünger im Stich lassen, wenn du genug hast.
+Als Mentor bist du ein Aushängeschild. Du musst eben leben wie du lehrst. Und kannst nicht einfach abspringen und den anderen im Stich lassen, wenn du genug hast.
 
 Vielleicht denkst du: Das ist mir zu schwer. Will ich denn das überhaupt? Ich habe doch gar keine Zeit! Und woher soll das Geld kommen? Und die Energie? Und Geduld und Ausdauer sind auch nicht gerade meine Stärken.
 
