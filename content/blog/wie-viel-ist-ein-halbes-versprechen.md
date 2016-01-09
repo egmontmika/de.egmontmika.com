@@ -33,3 +33,12 @@ Es ist gut, wenn wir in wichtigen Fragen eine klare Entscheidung treffen und wis
 Ich denke, ein halbes Versprechen kann nur für kurze Zeit berechtigt sein. Nach einer vereinbarten Frist sollte eine eindeutige Entscheidung gegeben werden.
 
 Deshalb, wenn du kein ganzherziges Versprechen geben kannst, dann gib lieber gar keines.
+
+----
+**Kommentare**
+
+*Wilfried* -
+Das ist wie eine Brücke. Brücken haben nur einen Sinn, wenn sie zu 100% den Fluss oder das Tal überspannen. Selbst eine 99%-ige Brücke ist ein Unsinn. Auch mein Vertrauen auf Gott ist nichts wert, wenn es nicht zu 100% besteht. „Dummerweise" kennt Gott genau die schwachen Prozente meines Vertrauens und schickt Gelegenheiten, sie zu stärken. Was mir gar nicht so gefällt.
+
+*Egmont* - 
+Danke, Wilfried. Gutes Beispiel.

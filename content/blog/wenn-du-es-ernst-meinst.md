@@ -4,7 +4,7 @@ date = 2015-12-23T03:01:45Z
 image = "es-ist-moeglich.jpg"
 +++
 
-Jünger machen gelingt denen, die es ernst meinen.
+cJünger machen gelingt denen, die es ernst meinen.
 
 Denn Jünger machen fordert seinen Preis. An Zeit, Geld und Energie und jeder Menge Geduld und Ausdauer. Und Hingabe.
 
