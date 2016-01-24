@@ -3,7 +3,7 @@ title = "Wie viel sind deine Ideen wert?"
 date = 2016-01-20T03:01:45Z
 image = "wie-viel-sind-deine-ideen-wert.png"
 +++
-Gute Ideen klingen gut und fühlen sich gut an.
+Gute Ideen klingen gut.
 
 Gute Ideen teilt man gern mit; da finden sich immer willige Zuhörer. Jedoch bleibt eine noch so gute Idee irrelevant, so lange sie nicht getestet ist.
 
@@ -19,7 +19,7 @@ Zweitens könnte der Test zeigen, dass sich deine Idee nicht so leicht und so sc
 
 Zusätzlich zu Ehrlichkeit, Beurteilungsvermögen und Entschiedenheit brauchst du jetzt auch noch Geduld und Ausdauer, wahrscheinlich auch Hartnäckigkeit.
 
-Als Drittes könnte der Test dir offenbaren, dass du gar nicht so schlau bist, wie du dachtest. Das musst du zugeben bevor du bereit bist, mehr zu lernen, mehr zu verstehen, mehr zu üben um geschickter zu werden und andere um Hilfe zu bitten. Das erfordert Demut und Hingabe.
+Als Drittes könnte der Test dir offenbaren, dass du gar nicht so schlau bist, wie du dachtest. Das musst du erkennen, bevor du bereit bist, mehr zu lernen, mehr zu verstehen, mehr zu üben um geschickter zu werden und andere um Hilfe zu bitten. Das erfordert Demut und Hingabe.
 
 Schließlich könnte der Test zeigen, dass deine gute Idee überhaupt nicht funktionieren kann, so wie du dachtest.
 
