@@ -3,7 +3,7 @@ title = "Wie viel sind deine Ideen wert?"
 date = 2016-01-20T03:01:45Z
 image = "wie-viel-sind-deine-ideen-wert.png"
 +++
-Gute Ideen klingen gut.
+Gute Ideen klingen gut, fühlen sich gut an.
 
 Gute Ideen teilt man gern mit; da finden sich immer willige Zuhörer. Jedoch bleibt eine noch so gute Idee irrelevant, so lange sie nicht getestet ist.
 
