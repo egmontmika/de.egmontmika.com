@@ -22,7 +22,7 @@ Das heißt, sich ihm anvertrauen und sich darauf verlassen, dass sein Wort wahr 
 
 Jeder kann jederzeit diese Entscheidung treffen, was allerdings nicht bedeuten soll, dass es auch leicht ist. Denn vor der Entscheidung gibt es erst einmal Widerstand, schwach oder stark, auf die eine oder andere Weise.
 
-Ganz gleich wie, eines ist sicher - es gibt Widerstand.
+Ganz gleich wie, eines ist sicher - du bekommst Widerstand.
 
 Für einige kommt er von außen. Von Familie, Verwandtschaft oder Freunden. Von ihren Erwartungen, Tradtionen, Bedürfnissen - und ihren Ängsten.
 
