@@ -3,7 +3,7 @@ title = "Zahlen, Zahlen, Zahlen!"
 date = 2016-04-14T03:01:45Z
 image = "zahlen-zahlen-zahlen.jpg"
 +++
-Pastoren und Gemeindeleiter interessieren sich oft für Zahlen.
+Pastoren und Gemeindeleiter interessieren sich sehr für Zahlen.
 
 Dabei geht es ihnen vor allem um drei wichtige Größen: die Menge der Mitglieder, die Menge der wöchentlichen Gottesdienstbesuche und die Summe der wöchentlichen Einnahmen durch Kollekten und Gaben. Und dann natürlich auch darum, wie sich diese drei Größen entwickeln, von Woche zu Woche, von Monat zu Monat und von Jahr zu Jahr.
 
@@ -11,7 +11,7 @@ Derartige Statistik kann sehr nützlich sein. Sie ermöglicht zu messen und zu v
 
 Da gibt es jedoch ein Problem.
 
-Nicht alles,  was für eine gesunde Gemeindeentwicklung wichtig ist, lässt sich mit Zahlen erfassen. Und was sich nicht leicht und bequem messen lässt, fällt leicht unter den Tisch, wird jedenfalls weniger beachtet.
+Nicht alles,  was für eine gesunde Gemeindeentwicklung wichtig ist, lässt sich durch Zahlen erfassen. Und was sich nicht leicht und bequem messen lässt, fällt leicht unter den Tisch, wird jedenfalls weniger beachtet.
 
 Dabei geht es hier um Wesentlichkeiten wie geistliche Reife, Gemeinschaft, Gastfreundschaft, Nächstenliebe, Vergebungsbereitschaft, Moral, Nähe zu Gott… Oder um das, was Paulus als Frucht des Geistes bezeichnet: Liebe, Freude, Friede, Langmut, Freundlichkeit, Güte, Treue, Sanftmut und Selbstbeherrschung.
 
