@@ -15,7 +15,7 @@ Jetzt gilt es, das Erreichte zu schützen. Und zwar gegen alle denkbaren und wir
 
 Denn wir wollen wirklich nicht die Fehler der ersten Zeit noch einmal machen, auch nicht endlos alles noch einmal erklären und schon gar nicht neue Fehler riskieren. Warum auch Risiken eingehen, wenn jetzt alles so schön läuft?
 
-Dies ist jedoch der Punkt in der Entwicklung der Gemeinde, an dem wir anfangen, in unserer eigenen Vortrefflichkeit festzufahren. Wenn die Sicherung unserer Stabilität ein wichtiger Faktor wird, dem sich unser Auftrag schliesslich unterordnet. Wenn wir nachlassen in unserer Bereitschaft zu lernen, Neues auszuprobieren und uns zu verändern.
+Dies ist jedoch der Punkt in der Entwicklung der Gemeinde, an dem wir anfangen, in unserer eigenen Vortrefflichkeit festzufahren. Wenn die Sicherung unserer Stabilität ein wichtiger Faktor wird, dem sich unser Auftrag schließlich unterordnet. Wenn wir nachlassen in unserer Bereitschaft zu lernen, Neues auszuprobieren und uns zu verändern.
 
 Dies ist der Punkt, an dem wir die Türen langsam schließen.
 
