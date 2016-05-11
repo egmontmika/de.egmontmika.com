@@ -1,7 +1,7 @@
 +++
 title = "Wie viel Stabilität wollen wir?"
 date = 2016-05-11T03:01:45Z
-image = "wie viel stabilität.jpg"
+image = "wie viel stabilitat.jpg"
 +++
 Ein wesentliches Kennzeichen von Organisationen jeder Art ist das Streben nach Stabilität. Das gilt auch für kirchliche Gemeinden und Hausgruppen.
 
