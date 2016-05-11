@@ -5,7 +5,7 @@ image = "wie viel stabilitat.jpg"
 +++
 Ein wesentliches Kennzeichen von Organisationen jeder Art ist das Streben nach Stabilität. Das gilt auch für kirchliche Gemeinden und Hausgruppen.
 
-Stabilität vermittelt ein Gefühl von Sicherheit und Erfolg, begrenzt Konflikte, ebnet für den Frieden und macht das Leben leichter.
+Stabilität vermittelt ein Gefühl von Sicherheit und Erfolg, begrenzt Konflikte, ebnet für Frieden und macht das Leben leichter.
 
 Wenn sich die Lage einer jungen Gemeinde oder Hausgruppe nach den turbulenten ersten Jahren schließlich stabilisiert, blicken wir gern zufrieden auf das Erreichte zurück. Was wir uns vorgenommen hatten, ist gelungen. Auch scheint die Umgebung uns langsam zu akzeptieren. Und wir wissen jetzt genauer, wie wir unsere Ziele erreichen wollen.
 
@@ -33,4 +33,4 @@ Vielleicht werden wir dann etwas unserer Stabilität aufgeben müssen, auch die 
 
 Wir mögen unsere Stabilität verlieren - dabei jedoch einige Seelen gewinnen und zu Jesu Jüngern machen.
 
-Die wären es doch wert, oder?
+Die wären die Mühe doch wert, oder?
