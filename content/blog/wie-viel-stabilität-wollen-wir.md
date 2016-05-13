@@ -29,7 +29,7 @@ Dabei läge die Lösung auf der Hand. Die wäre, wieder von vorn anzufangen, wie
 
 Kurz gesagt, demütig zu werden und uns für Menschen zu engagieren mit all ihren Mängeln, Launen und Tücken und uns dabei die Hände schmutzig zu machen.
 
-Vielleicht werden wir dann etwas unserer Stabilität aufgeben müssen, auch die Vertrautheit und Gemütlichkeit unserer Gemeinschaft, die Bequemlichkeit, die repräsentative Würde und einiges mehr, was uns liebgeworden ist.
+Vielleicht werden wir dann etwas von unserer Stabilität aufgeben müssen, auch die Vertrautheit und Gemütlichkeit unserer Gemeinschaft, die Bequemlichkeit, die repräsentative Würde und einiges mehr, was uns liebgeworden ist.
 
 Wir mögen unsere Stabilität verlieren - dabei jedoch einige Seelen gewinnen und zu Jesu Jüngern machen.
 
