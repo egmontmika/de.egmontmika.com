@@ -44,7 +44,7 @@ Wie können wir unsere Masken loswerden?
 
 Zunächst durch Einsicht. Wir brauchen keine geistlichen Superstars und Bühnenhelden zu sein. Wir brauchen keine außergewöhnlichen Erfolgsgeschichten vorweisen, mit denen wir uns selbst und anderen unsere Tüchtigkeit beweisen wollen.
 
-Nicht das Außergewöhnliche sondern das Alltägliche ist schließlich das, was unser Leben ausmacht.
+Nicht das Außergewöhnliche, sondern das Alltägliche ist schließlich das, was unser Leben ausmacht.
 
 Das sind die täglichen Routinen und Gewohnheiten, die tausend kleinen Freuden, die stille Zwiesprache mit unserem Vater im Himmel, die Gewissheit des Angenommenseins, die tägliche Dankbarkeit... die Gnade, aus der wir leben und die unsere Gemeinschaft trägt.
 
