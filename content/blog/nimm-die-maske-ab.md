@@ -42,7 +42,7 @@ Die Verantwortung trifft beide Gruppen, sowohl diejenigen, welche diese Erwartun
 
 Wie können wir unsere Masken loswerden?
 
-Zunächst durch Einsicht. Wir brauchen keine geistlichen Superstars und Bühnenhelden zu sein. Wir brauchen keine außergewöhnlichen Erfolgsgeschichten vorweisen, mit den wir uns selbst und anderen unsere Tüchtigkeit beweisen wollen.
+Zunächst durch Einsicht. Wir brauchen keine geistlichen Superstars und Bühnenhelden zu sein. Wir brauchen keine außergewöhnlichen Erfolgsgeschichten vorweisen, mit denen wir uns selbst und anderen unsere Tüchtigkeit beweisen wollen.
 
 Nicht das Außergewöhnliche sondern das Alltägliche ist schließlich das, was unser Leben ausmacht.
 
