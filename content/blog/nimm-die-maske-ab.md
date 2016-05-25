@@ -4,15 +4,15 @@ date = 2016-05-26T03:01:45Z
 image = "nimm die maske ab.jpg"
 +++
 
-Er war Pastor, ein begabter Prediger und hervorragender Bibelschullehrer, geachtet und geliebt von  Gemeinde und Familie, weithin bekannt durh seine Bücher und Seminare über Ehe und Familie.
+Er war Pastor. Ein begabter Prediger und hervorragender Bibelschullehrer, geachtet und geliebt von  Gemeinde und Familie, weithin bekannt durh seine Bücher und Seminare über Ehe und Familie.
 
 Da geschah das völlig Unerwartete.
 
-Eines Tages erreichte uns die Nachricht, er hätte Frau und Kinder verlassen, seinen Dienst aufgegeben und sei in ein entferntes Land gezogen, um dort wieder ganz von vorne anzufangen. Ein Schock für uns alle, für seine Gemeinde und Mitarbeiter, völlig unerwartet selbst für seine Familie und engsten Freunde.
+Eines Tages erreichte uns die Nachricht, er hätte Frau und Kinder verlassen und seinen Dienst aufgegeben. Er sei in ein fernes Land gezogen, um dort wieder ganz von vorne anzufangen. Ein Schock für uns alle, für seine Gemeinde und Mitarbeiter, völlig unerwartet selbst für seine Familie und engsten Freunde.
 
 In einem Brief beschreibt er seine Desperation. Er sei eine längere Zeit deprimiert gewesen, habe sich als Versager gefühlt und ernsthaft vorgehabt, sich das Leben zu nehmen.
 
-Die letzten drei Jahre habe er eine Maske getragen, um seinen wirklichen Zustand zu verbergen, habe jedoch versucht seinen Pflichten nachzugehen, so gut er es vermochte. Aber das ginge jetzt nicht mehr.
+Die letzten drei Jahre habe er eine Maske getragen, um seinen wirklichen Zustand zu verbergen, habe jedoch versucht seinen Pflichten nachzugehen, so gut er es vermochte. Aber das könne er jetzt nicht mehr.
 
 Die Maske müsse herunter.
 
@@ -32,9 +32,9 @@ Könnte eine weitere Ursache die Kluft sein, die durch die Erwartungen der Leute
 
 Man hat sich von diesem Menschen ein Bild gemacht und erwartet jetzt, dass er diesen Erwartungen entspricht.
 
-Ein solches Bild könnte im Fall eines Pastors das Bild von einem starken, geistlichen Leiter sein, einem Apostel oder Propheten oder Wundertäter, so zu sein wie dieser oder jener Superpastor. Man erwartet sich schnelles Gemeindewachstum oder wunderbare Erlebnisse, die den Glauben bestätigen, ein Gefühl der Nähe Gottes vermitteln oder irgendwie anders geistliche oder auch gefühlsmäßige Höhepunkte schaffen.
+Ein solches Bild könnte im Fall eines Pastors das Bild von einem starken, geistlichen Leiter sein, einem Apostel oder Propheten oder Wundertäter, die Erwartung so zu sein wie dieser oder jener Superpastor. Man erwartet sich schnelles Gemeindewachstum oder wunderbare Erlebnisse, die den Glauben bestätigen, ein Gefühl der Nähe Gottes vermitteln oder irgendwie anders geistliche oder auch gefühlsmäßige Höhepunkte schaffen.
 
-Man erwartet vom Pastor, dass er etwas bietet, was man im eigenen Leben vermisst.
+Man erwartet vom Pastor, dass er etwas bietet, was man möglicherweise im eigenen Leben vermisst.
 
 Ganz gleich, ob es sich um eine Projektion von Erwartungen oder um eine Art Kompensation für den eigenen Mangel handelt, so wird deutlich, dass eine Tragödie wie die oben beschriebene nicht nur auf das Verhalten eines einzigen Menschen zurückzuführen ist. Da kann auch das soziale Umfeld eine Rolle spielen, insbesondere wenn hochgespielte Erwartungen eine entscheidende Rolle spielen.
 
@@ -42,13 +42,13 @@ Die Verantwortung trifft beide Gruppen, sowohl diejenigen, welche diese Erwartun
 
 Wie können wir unsere Masken loswerden?
 
-Zunächst durch Einsicht. Wir brauchen keine geistlichen Superstars und Bühnenhelden zu sein. Wir brauchen keine außergewöhnlichen Erfolgsgeschichten vorzuweisen, mit den wir uns selbst und anderen unsere Tüchtigkeit zu beweisen wollen.
+Zunächst durch Einsicht. Wir brauchen keine geistlichen Superstars und Bühnenhelden zu sein. Wir brauchen keine außergewöhnlichen Erfolgsgeschichten vorweisen, mit den wir uns selbst und anderen unsere Tüchtigkeit beweisen wollen.
 
 Nicht das Außergewöhnliche sondern das Alltägliche ist schließlich das, was unser Leben ausmacht.
 
 Das sind die täglichen Routinen und Gewohnheiten, die tausend kleinen Freuden, die stille Zwiesprache mit unserem Vater im Himmel, die Gewissheit des Angenommenseins, die tägliche Dankbarkeit... die Gnade, aus der wir leben und die unsere Gemeinschaft trägt.
 
-Dann braucht keiner dem anderen etwas vorzumachen. Vielmehr können wir in Geduld und Liebe einander vergeben und annehmen und uns so vom Joch falscher Erwartungen und hochgezüchteten Leistungsdrucks befreien.
+Da braucht keiner dem anderen etwas vorzumachen. Vielmehr können wir in Geduld und Liebe einander vergeben und uns selbst und andere annehmen und uns so vom Joch falscher Erwartungen und hochgezüchteten Leistungsdrucks befreien.
 
 Auch vom geistlichem Leistungsdruck.
 
