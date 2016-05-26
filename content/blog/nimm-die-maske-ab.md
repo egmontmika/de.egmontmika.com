@@ -10,7 +10,7 @@ Da geschah das völlig Unerwartete.
 
 Eines Tages erreichte uns die Nachricht, er hätte Frau und Kinder verlassen und seinen Dienst aufgegeben. Er sei in ein fernes Land gezogen, um dort wieder ganz von vorne anzufangen. Ein Schock für uns alle, für seine Gemeinde und Mitarbeiter, völlig unerwartet selbst für seine Familie und engsten Freunde.
 
-In einem Brief beschreibt er seine Desperation. Er sei eine längere Zeit deprimiert gewesen, habe sich als Versager gefühlt und ernsthaft vorgehabt, sich das Leben zu nehmen.
+In einem Brief beschreibt er seine Desperation. Er sei längere Zeit deprimiert gewesen, habe sich als Versager gefühlt und ernsthaft vorgehabt, sich das Leben zu nehmen.
 
 Die letzten drei Jahre habe er eine Maske getragen, um seinen wirklichen Zustand zu verbergen, habe jedoch versucht seinen Pflichten nachzugehen, so gut er es vermochte. Aber das könne er jetzt nicht mehr.
 
@@ -80,7 +80,7 @@ Hoffentlich lernen wir daraus!!!
 
 Liebe Segensgrüße / Günter & Christine
 
-.
+----
 
 ***Heike***
 
