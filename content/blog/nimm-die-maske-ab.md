@@ -53,3 +53,45 @@ Da braucht keiner dem anderen etwas vorzumachen. Vielmehr können wir in Geduld 
 Auch vom geistlichem Leistungsdruck.
 
 Die Maske abzunehmen ist dann keine Schande, sondern ein erster Schritt in die Freiheit eines authentischen Lebens.
+
+----------------------------------------------
+
+**Kommentare**
+
+***Günter und Christine***
+
+Volltreffer!
+
+Meines Erachtens kommt das daher, dass man als Mensch, immer noch, oder auch immer wieder in die Falle fällt, Gott in dem Menschen (Pastor und ähnliche Dienste) zu sehen. Was ja auch nicht ganz falsch ist, man muss es halt differenziert sehen.
+Der Druck, der dadurch auf diese Menschen fällt, ist unerträglich, da es ja auch vom Schöpfer so gar nicht vorgesehen wurde. Und somit hat derjenige einen untragbaren Zustand/Druck, das keiner lange aushält und es somit zu solchen Auswüchsen kommen kann.
+Das verhält sich wie in der säkularen Welt mit den Stars. Viele Stars werden ja auch erst vom Publikum zum Star gemacht und die können dann ja auch gar nicht mehr anders.
+Der Werbespot vom Bundestrainer Joachim Löw, bringt dies auch zum Ausdruck, der dort sagt, wenn Du etwas erreichst, schauen alle auf dich und je mehr du erreichst, je mehr erwarten die Menschen von DIR (anstatt von Gott).
+https://www.youtube.com/watch?v=B-pD_5P0FC4
+
+Das ist eine große Herausforderung dem man als Mensch gar nicht gewachsen sein kann.
+Die Selbstmordrate bei den Stars, ist ja eigentlich auch unerklärlich, so aber eben doch verständlich.
+Und so auch in den Gemeinden. Das passierte zumindest auch mir immer wieder, weil man ja auch dem Menschen sehr dankbar ist, dass er einem Gott so nahegebraucht hat und dabei macht man dann den Mensch auch gleich selbst zu einem Gott, wenn auch unabsichtlich.
+(Das ist dir von uns ja auch passiert, Sorry! War ja nur gut gemeint, aber eben falsch)
+So ganz nebenbei passiert das auch den Frauen gegenüber den Männern und wahrscheinlich auch umgedreht, dass Sie das was Sie von Gott erwarten sollten, vom Ehemann erwarten. Viele Eheprobleme kommen wohl auch daher.
+Das fällt alles unter Götzendienst, den wir leider wohl doch noch immer betreiben.
+Da könnte man schon fast unendliche Beispiele aufzählen.
+Gut dass Du das mal so Publik gemacht hast, DANKE!
+Hoffentlich lernen wir daraus!!!
+
+Liebe Segensgrüße / Günter & Christine
+
+.
+
+***Heike***
+
+Egmont, das ist ein weites Feld, das du da ansprichst, mit vielfältigen Ursachen. Jeder von uns wünscht sich diese Freiheit, ganz und gar offanbar zu leben, denn dazu wurden wir geschaffen. Das wäre unsere “natürliche” von unserem Vater vorgesehene Lebensweise. Frei.
+Ich wünschte, ich könnte sagen, dass ich in dieser Freiheit lebe, dass ich nie das Bedürfnis nach einer Maske, nach einem Schutz habe. Aber da bin ich noch nicht angekommen, wie so viele. Ich muss mich damit trösten, dass es mir besser gelingt als in der Vergangenheit.
+
+Ich persönlich glaube, dass der Aspekt der Angst der schwerwiegendste Grund ist, warum wir es nicht immer wagen, mit unseren Schwächen offen vor anderen zu leben. Zu oft haben wir erlebt, dass Menschen uns nicht mit Barmherzigkeit begegnen. Es erschrickt mich ein wenig, wie viele Jahre es gedauert hat, bis ich in meinem Herzen ohne Beben glauben konnte, dass mein himmlischer Vater mir mit liebenden barmherzigen Blicken in die Augen schaut – trotzdem er die Tiefen meines Herzens kennt?! Er ist so anders als Menschen und die Erfahrungen, die wir mit diesen gemacht haben – so wunderbar anders!
+Wie viel schwerer ist es, auf die Barmherzigkeit der Menschen zu setzen. Oder aber sich frei zu machen von der Frage, was diese über uns denken. Letzteres hielt ich immer für erstrebenswert. Heute bin ich mir da nicht mehr so sicher. Natürlich bedeutet es mir etwas, was z.B. meine engsten Freunde über mich denken. Ihre Gedanken und Worte sind mir doch auch sonst kostbar und nicht egal!
+
+Ich empfinde deine Worte als einen liebevollen Anstoß an uns alle, da anzusetzen, wo jeder von uns etwas ändern kann. Wie gehen wir mit den Schwächen anderer um, wie reagieren wir, vor allem was sagt unser Herz. Ist mein Herz bewegt in Betroffenheit und mit dem Wunsch, eine helfende Hand zu reichen, wenn ich sehe, wie jemand gefallen ist? Wohl wissend, dass mir dasselbe hätte passieren können.
+Mein innigster Wunsch an meinen himmlischen Vater ist es, dass er uns die Augen unseres Herzens öffnet, dass wir Menschen so sehen können, wie er sie sieht – in allen Lebenslagen. ER hat uns gemacht, damit wir FÜREINANDER da sind.
+In diesem Sinne vielen Dank für deine Worte
+
+Heike
