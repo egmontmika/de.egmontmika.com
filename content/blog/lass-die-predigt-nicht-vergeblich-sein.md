@@ -22,4 +22,4 @@ Wir betrügen uns selbst, wenn wir meinen, irgendetwas erreicht zu haben, indem 
 
 Andererseits, wenn wir aufrichtig zur Veränderung bereit sind, können gute Predigten sehr nützlich und inspirierend sein, können helfen, zu einer guten Entscheidung zu kommen und wirkliche Veränderung herbeizuführen.
 
-Ob allerdings das geschieht, liegt ganz bei dir und bei mir.
+Allerdings, ob das geschieht, liegt ganz bei dir und bei mir.
