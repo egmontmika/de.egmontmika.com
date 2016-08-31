@@ -14,7 +14,7 @@ Vielmehr ist es das, was du im Hinblick auf die Bestimmung deines Lebens in dein
 
 Du tust eben, was notwendig ist.
 
-Und dabei übrwindest du sowohl inneren als auch äußeren Widerstand: deine eigene Trägheit, Gleichgültigkeit und Bequemlichkeit, auch die Bange ums Geld und die Furcht vor Leuten und ihrer Ablehnung.
+Und dabei überwindest du sowohl inneren als auch äußeren Widerstand: deine eigene Trägheit, Gleichgültigkeit und Bequemlichkeit, auch die Bange ums Geld und die Furcht vor Leuten und ihrer Ablehnung.
 
 Du bist zuversichtlich und freudig.
 
