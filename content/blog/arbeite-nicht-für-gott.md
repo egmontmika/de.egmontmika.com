@@ -3,7 +3,7 @@ title = "Arbeite nicht für Gott!"
 date = 2015-03-04T03:01:45Z
 image = "Don't work for God.png"
 +++
-Arbeite nicht FÜR den Herrn. Arbeite MIT ihm!
+Arbeite nicht __für__ den Herrn. Arbeite __mit__ ihm!
 
 Warum gibt es so viele entmutigte und ausgebrannte Pastoren? Warum verlassen so viele ihren Dienst? Sagte Jesus nicht, dass seine Bürde leicht sein würde?
 
