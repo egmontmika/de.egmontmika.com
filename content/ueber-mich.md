@@ -11,7 +11,7 @@ menu:
 Jahrgang 1950, geb. in Schauenstein/Oberfranken, BRD. - Seit 1979 wohnhaft in Uppsala, Schweden. - Familie: Ehefrau Åsa Mika, fünf Kinder, sechs Enkelkinder. - Schule: Gisela-Gymnasium München, Lincoln-Sudbury Regional Highschool, Lincoln und Sudbury, Mass., USA (1967/68). - 1971-1977 Studium der Malerei und Kunsterziehung an der Akademie der bildenden Künste München. - 1977-79 Lehrerausbildung am Seminar für das Lehramt an höheren Schulen in Bayern - 1981-1998 Theologie- und Germanistikstudium mit MA in Germanistik, 2005 Ph.D. mit Dissertation zum Zweitspracherwerb Deutsch an der Universität Uppsala, Ernennung zum Lektor durch die schwedische Schulbehörde. - Seit 1979 tätig als Kunsterzieher und seit 2005 auch als Deutschlehrer in Uppsala.
 
 ## Jüngerschaft
-1970 Bekehrung und Entscheidung zur Nachfolge Jesu. Seitdem aktiv in der Gemeindearbeit, hauptsäschlich ehrenamtlich,zeitweise nebenberuflich. Breite Erfahrung von sowohl traditionell-freikirchlicher als auch charismatischer Mega-Gemeinde. Leiter von Zellgruppen und Alphagruppen. 2005-2010 Pastor einer afrikanischen Gemeinde in Stockholm. Zur Zeit hauptsächlich engagiert in Hausgemeinden und als persönlicher Mentor. 
+1970 Bekehrung und Entscheidung zur Nachfolge Jesu. Seitdem aktiv in der Gemeindearbeit, hauptsäschlich ehrenamtlich, zeitweise nebenberuflich. Breite Erfahrung von sowohl traditionell-freikirchlicher als auch charismatischer Mega-Gemeinde. Leiter von Zellgruppen und Alphagruppen. 2005-2010 Pastor einer afrikanischen Gemeinde in Stockholm. Zur Zeit hauptsächlich engagiert in Hausgemeinden und als persönlicher Mentor. 
 
 Mein Motto: *Make a Disciple - 1 on 1, 1 by 1*.
 
