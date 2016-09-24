@@ -1,5 +1,5 @@
 +++
-title = "Worauf es wirklich ankommt"
+title = "Worauf es wirklich ankommt - Teil I"
 date = 2016-08-31T03:01:45Z
 image = "worauf es wirklich ankommt.png"
 +++

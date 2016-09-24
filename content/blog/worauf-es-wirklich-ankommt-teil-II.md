@@ -1,5 +1,5 @@
 +++
-title = "Worauf es wirklich ankommt Teil 2"
+title = "Worauf es wirklich ankommt - Teil 2"
 date = 2016-09-14T03:01:45Z
 image = "worauf es wirklich ankommt teil II.jpg"
 +++
@@ -20,7 +20,7 @@ Eine unsichere Sache also?
 
 Lass dich nicht beirren. Der wirkliche Ertrag deiner Investitionen wird früher oder später sichtbar, falls nicht in dieser Welt, dann doch spätestens in der kommenden.
 
-Jesus war sich dessen bewusst. Auch er konnte sich nicht völlig auf Menschen verlassen, auch nicht auf seine eigene Familie und seine besten Freunde. Jedoch hörte er nie auf, sein Leben an Menschen hinzugeben, trotz Verleumdung, Hass und Tortur.
+Jesus war sich dessen bewusst. Auch er konnte sich nicht völlig auf Menschen verlassen, auch nicht auf seine eigene Familie und seine besten Freunde. Jedoch hörte er nie auf, sein Leben an Menschen hinzugeben, trotz Verleumdung, Hass und Verfolgung.
 
 Er hörte nie auf zu lieben; das kostete ihm das Leben.
 
