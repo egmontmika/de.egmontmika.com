@@ -10,7 +10,7 @@ Das Vertrauen, das du schenkst. Die Freude, die du teilst; die Liebe, die du inv
 
 Zum Segen für dich und für andere.
 
-Irgendeiner lässt sich anstecken und macht etwas ähnliches. Macht weiter. Und wieder werden Dinge verändert und wieder Menschen erreicht. Wieder andere machen ihrerseits weiter, spornen an und verändern, weiter und weiter… Lassen deinen Einfluss Kreise ziehen. 
+Irgendeiner lässt sich anstecken und macht etwas ähnliches. Macht weiter. Und wieder werden Dinge verändert und  Menschen erreicht. Einige von ihnen machen ihrerseits weiter, spornen an und verändern. So geht es weiter und weiter. So zieht dein Einfluss Kreise. 
 
 Wie Wellen auf dem Wasser.
 
