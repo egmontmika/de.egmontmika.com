@@ -3,9 +3,9 @@ title = "Worauf es wirklich ankommt - Teil 3"
 date = 2016-09-28T03:01:45Z
 image = "worauf es wirklich ankommt teil III.png"
 +++
-Du bist ein Nachfolger Jesu? 
+Du bist ein Nachfolger Jesu? Dann wäre für dich sicher die Frage aktuell: 
 
-Dann wäre für dich die Frage aktuell: Worauf kommt es denn *Jesus* wirklich an?
+Worauf kommt es denn *Jesus* wirklich an?
 
 Er selbst sagte, er wolle nur eines: Den Vater im Himmel ehren und dessen Willen tun. 
 
