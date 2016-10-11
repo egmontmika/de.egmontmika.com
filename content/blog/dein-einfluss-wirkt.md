@@ -6,11 +6,11 @@ image = "ripples3.png"
 
 Du kannst Dinge verändern. Zum Besseren hin.
 
-Das Vertrauen, das du schenkst. Die Freude, die du teilst. Die Liebe, die du investierst. Den Standard, den du setzt. Das Problem, das du löst... haben alle Potential, Dinge und Situationen zu verändern, und zwar zum Besseren hin. Ansporn nach vorn zu sein.
+Das Vertrauen, das du schenkst. Die Freude, die du teilst; die Liebe, die du investierst; dDen Standard, den du setzt; das Problem, das du löst... haben alle Potential, Dinge und Situationen zu verändern, und zwar zum Besseren hin. Können Ansporn nach vorn sein.
 
 Zum Segen für dich und für andere.
 
-Irgendeiner lässt sich anstecken und macht etwas ähnliches. Macht weiter. Und wieder werden Dinge verändert und wieder Menschen erreicht. Wiederum andere machen ihrerseits weiter, spornen an und verändern, weiter und weiter… Lassen deinen Einfluss Kreise ziehen. 
+Irgendeiner lässt sich anstecken und macht etwas ähnliches. Macht weiter. Und wieder werden Dinge verändert und wieder Menschen erreicht. Wieder andere machen ihrerseits weiter, spornen an und verändern, weiter und weiter… Lassen deinen Einfluss Kreise ziehen. 
 
 Wie Wellen auf dem Wasser.
 
