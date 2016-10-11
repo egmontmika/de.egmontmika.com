@@ -6,7 +6,7 @@ image = "ripples3.png"
 
 Du kannst Dinge verändern. Zum Besseren hin.
 
-Das Vertrauen, das du schenkst. Die Freude, die du teilst; die Liebe, die du investierst; den Standard, den du setzt; das Problem, das du löst... haben alle Potential, Dinge und Situationen zu verändern, und zwar zum Besseren hin. Können Ansporn nach vorn sein.
+Das Vertrauen, das du schenkst; die Freude, die du teilst; die Liebe, die du investierst; den Standard, den du setzt; das Problem, das du löst... haben alle Potential, Dinge und Situationen zu verändern, und zwar zum Besseren hin. Können Ansporn nach vorn sein.
 
 Zum Segen für dich und für andere.
 
