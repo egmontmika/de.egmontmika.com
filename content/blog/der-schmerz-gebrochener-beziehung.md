@@ -1,5 +1,5 @@
 +++
-title = "Der Schmerz gebrochenen Vertrauens"
+title = "Gebrochenes Vertrauen"
 date = 2016-10-26T03:01:45Z
 image = "der schmerz gebrochener beziehung.jpg"
 draft = true
