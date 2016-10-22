@@ -24,4 +24,4 @@ Und bereit zu leiden.
 
 Du magst dir wie ein Verlierer vorkommen. Was wäre jedoch die Alternative? 
 
-Und was könnte Jesus besser machen?
+Was könnte Jesus besser machen?
