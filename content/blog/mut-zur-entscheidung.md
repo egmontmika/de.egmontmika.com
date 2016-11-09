@@ -26,7 +26,7 @@ Da stehe ich vor der Wahl. Werde ich die Entscheidung treffen,
 auch wenn ich jetzt noch nicht überblicken kann, was dann auf mich zukommt? Oder werde ich an 
 meiner bisherigen Überzeugung oder Tradition oder Gewohnheit festhalten? Aus Bequemlichkeit? Oder aus 
 Furcht vor dem Unbekannten oder der Meinung anderer? Was wird meine Familie, was werden meine 
-Freunde sagen? Werde ich alles beim alten belassen, aus Feigheit?
+Freunde sagen? Werde ich alles beim Alten belassen, aus Feigheit?
 
 Manchmal erfordert es Mut, eine neue Entscheidung zu treffen. Auch Demut.
 
