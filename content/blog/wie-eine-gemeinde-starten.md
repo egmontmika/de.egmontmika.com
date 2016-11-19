@@ -26,15 +26,15 @@ Eure Basis ist der Küchentisch. Hier versammelt ihr euch, esst gemeinsam, betet
 Teilt euer Leben miteinander.
 
 Euer Wirkungsfeld sind eure Freunde, Bekannten und Kollegen. Dann auch die Stadt, ihre Straßen und Plätze, die Parks, 
-Einkaufszentren, Restaurants und Cafés, 
-die Clubs und Umkleideräume der Fitness-Centers… wo immer ihr Leute treffen könnt.
+Einkaufszentren, Restaurants und Cafés, die Clubs und Umkleideräume der Fitness-Centers… wo immer ihr Leute treffen 
+könnt.
 
-Früher oder später entsteht so eine Gemeinschaft von Jüngern Jesu.
+Früher oder später entsteht so eine Gemeinschaft von Jüngern.
 
-Das ist eine Gemeinde.
+Das ist Gemeinde Jesu.
 
 Zwar scheint es leichter, schneller und lohnender zu sein, einen Saal zu mieten, Sprecher und 
-Mitarbeiter zu engagieren, dann genügend Wirbel zu machen, um eine Zuhörerschaft zusammenzubringen, und 
+Mitarbeiter zu engagieren, genügend Wirbel zu machen, um eine Zuhörerschaft zusammenzubringen, und 
 das dann Gemeinde zu nennen.
 
 Die Frage ist jedoch, was Jesus so etwas nennen würde.
