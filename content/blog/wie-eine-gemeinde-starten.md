@@ -53,5 +53,6 @@ Kirchgängern noch Jünger werden. Sehr lieber Gruß aus Ulm! Irmi
 
 Danke, Irmi. Wäre es für einen Pastor nicht interessant zu wissen, ob und wie viele Jünger er in seiner Gemeinde hat? 
 Da stellt sich natürlich die Frage, wie man erkennen kann, dass jemand ein Jünger ist, bzw. nicht ist. Wäre es nicht wert, 
-auch dieser Frage nachzugehen? Ich denke, dass die Antwort mehr Aufschluss über eine Gemeinde gibt, als die Zahl der 
-Gottesdienstteilnehmer oder Mitglieder oder die Höhe der Gaben, worüber wohl die meisten Pastor sich gut informieren. 
+auch dieser Frage nachzugehen? Ich denke, dass die Antwort mehr Aufschluss über die Stärke einer Gemeinde geben könnte, 
+als die Zahl der Gottesdienstteilnehmer oder Mitglieder oder die Höhe der Gaben, worüber wohl die meisten Pastoren sich 
+gut informieren lassen. 
