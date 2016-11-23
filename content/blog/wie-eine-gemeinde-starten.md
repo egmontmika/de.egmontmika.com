@@ -38,3 +38,17 @@ das dann Gemeinde zu nennen.
 Die Frage ist jedoch, was Jesus so etwas nennen würde.
 
 Und - wie würde er es machen?
+
+------------------------------
+**Kommentare**
+
+*Irmi*
+Gründe Gemeinde - und du hast vielleicht Jünger. Mache Jünger - und du hast immer Gemeinde.
+Lieber Egmont, und aus eigenem Erleben ergänze ich gerne, dass am Küchentisch auch aus alten 
+Kirchgängern noch Jünger werden. Sehr lieber Gruß aus Ulm! Irmi
+
+*Egmont*
+Danke, Irmi. Wäre es für einen Pastor nicht interessant zu wissen, ob und wie viele Jünger er in seiner Gemeinde hat. 
+Das stellt sich die Frage, wie man erkennen kann, dass jemand ein Jünger ist, bzw. nicht ist. Wäre es nicht auch wert, 
+dieser Frage nachzugehen. Ich denke, dass die Antwort mehr Aufschluss über eine Gemeinde gibt als die Zahl der 
+Gottesdienstteilnehmer oder Mitglieder oder die Höhe der Gaben., worüber wohl so gut wie jeder Pastor sich gut unterrichtet hält. 
