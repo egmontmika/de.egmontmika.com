@@ -13,7 +13,7 @@ Das gängige Konzept scheint zu sein:
 
 Jedoch gibt es einen ganz anderen Weg.
 
-Du brauchst nämlich nichts von alledem. Nicht einmal Geld. Du brauchst auch kein Programm und keine Zuhörerschar.
+Du brauchst nämlich nichts von alledem. Nicht einmal Geld. Auch kein Programm und keine Zuhörerschar.
 
 Vielmehr fängst du ganz von vorne an. Du setzt einen Prozess in Gang, indem du Jünger machst. Da genügt es 
 zunächst, dass du einen einzigen Menschen zu Jesus führst und damit zur Bekehrung. Und dann wieder einen und noch einen. Immer jeweils nur einen oder zwei, vielleicht auch mal ein Paar oder eine Familie.
