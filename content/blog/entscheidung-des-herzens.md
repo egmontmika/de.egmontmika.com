@@ -2,7 +2,7 @@
 title = "Entscheidung des Herzens"
 date = "2016-12-07T22:44:14Z"
 image = "entscheidung des herzens.jpg"
-draft = true
+
 +++
 
 Du kannst keinen in den Himmel hinein argumentieren.
