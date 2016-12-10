@@ -18,7 +18,7 @@ deinem Leben Substanz gibt.
 
 Die Frucht deines Lebens.
 
-Es liegt ganz bei dir, wie viel du davon hast und haben wirst. Das hängt davon ab, 
+Es liegt bei dir, wie viel du davon hast und haben wirst. Das hängt davon ab, 
 welcher Art deine Beziehungen sind, was du in andere investierst, welche Qualitäten du einbaust.
 
 Und dann vom Ergebnis deiner Interaktionen. Sind sie aufbauend oder destruktiv? Stärken 
