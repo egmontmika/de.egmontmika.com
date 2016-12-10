@@ -4,10 +4,6 @@ date = 2016-12-22T03:01:45Z
 image = "die frucht deines lebens.jpg"
 draft = true
 +++
-
-
-Die Frucht deines Lebens
-
 Wir haben einander.
 
 Das ist alles was wir an wirklichem Wert je gehabt haben und je haben werden.
