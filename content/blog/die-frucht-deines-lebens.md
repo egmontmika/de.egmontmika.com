@@ -1,8 +1,8 @@
 +++
 title = "Die Frucht deines Lebens"
-date = 2016-12-22T03:01:45Z
+date = 2016-12-20T03:01:45Z
 image = "die frucht deines lebens.jpg"
-draft = true
+
 +++
 Wir haben einander.
 
