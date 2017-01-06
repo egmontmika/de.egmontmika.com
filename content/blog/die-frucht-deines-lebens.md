@@ -25,3 +25,18 @@ Und dann vom Ergebnis deiner Interaktionen. Sind sie aufbauend oder destruktiv? 
 sie Leben oder schwächen sie? Bist du in erster Linie ein Geber oder ein Nehmer?
 
 Es liegt ganz bei dir.
+
+
+-------------------------------------------------
+**Kommentare**
+
+*Steffi*
+
+Egmont, Du sprichst mir aus der Seele. Schon lange habe ich ein Lieblingszitat (ich sammle Zitate die mir zusagen in einem Büchlein) zu diesem Thema. Von Wilhelm von Humboldt ist folgender Ausspruch überliefert: 
+
+"Im Grunde sind es doch die Verbindungen mit Menschen, welche dem Leben seinen Wert geben." 
+
+So ist es. Ich habe schon zweimal bei Hochzeiten in der Familie einen Fingerabdruck - Baum (Gemeinschaftsbild) über den Abend entstehen lassen, als Geschenk der Gäste ans Brautpaar. Und dann genau dieses Zitat darunter geschrieben. 
+
+LG von Steffi Und: 
+FROHES NEUES JAHR!
