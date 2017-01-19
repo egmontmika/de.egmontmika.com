@@ -1,8 +1,7 @@
-title = ”Liebe gegen Angst"
-date = "2017-01-019T22:44:14Z"
-image = ”liebe gegen angst.jpg"
 +++
-Liebe gegen Angst
+title = "Liebe gegen Angst"
+date = 2017-01-19T03:01:45Z
+image = "liebe gegen angst.jpg"
 
 Liebe und Angst sind Gegensätze.
 
