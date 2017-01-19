@@ -17,12 +17,11 @@ Leider gibt es das auch innerhalb des Christentums.
 Als Gegensatz dazu lies bitte folgende Zitate:
 
 
-- Furcht ist nicht in der Liebe, sondern die vollkommene Liebe treibt die Furcht aus, denn die Furcht hat mit Strafe zu tun; wer sich nun fürchtet, ist nicht vollkommen geworden in der Liebe. (1 Johannes 4,18 Übers. nach Schlachter)
+- *Furcht ist nicht in der Liebe, sondern die vollkommene Liebe treibt die Furcht aus, denn die Furcht hat mit Strafe zu tun; wer sich nun fürchtet, ist nicht vollkommen geworden in der Liebe.* (1 Johannes 4,18 Übers. nach Schlachter)
 
-- Wer nicht liebt, der hat Gott nicht erkannt; denn Gott ist Liebe.” (1 Johannes 4,8 Übers. nach Schlachter)
- 
+- *Wer nicht liebt, der hat Gott nicht erkannt; denn Gott ist Liebe.* (1 Johannes 4,8 Übers. nach Schlachter)
 
-- Fürchte dich nicht, denn ich bin mit dir; sei nicht ängstlich, denn ich bin dein Gott; ich stärke dich, ich helfe dir auch, ja, ich erhalte dich durch die rechte Hand meiner Gerechtigkeit! 
+- *Fürchte dich nicht, denn ich bin mit dir; sei nicht ängstlich, denn ich bin dein Gott; ich stärke dich, ich helfe dir auch, ja, ich erhalte dich durch die rechte Hand meiner Gerechtigkeit!* 
 (Jesaja 41,10 Übers. nach Schlachter)
 
 Der Geist Jesu und der Geist der Angst sind sich gegenseitig ausschließende Kräfte. Der Geist Jesu bringt Liebe hervor, durch welche die Angst überwunden werden kann.
