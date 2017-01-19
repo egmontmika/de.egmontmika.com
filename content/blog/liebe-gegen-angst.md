@@ -16,7 +16,6 @@ Leider gibt es das auch innerhalb des Christentums.
 
 Als Gegensatz dazu lies bitte folgende Zitate:
 
-
 - *Furcht ist nicht in der Liebe, sondern die vollkommene Liebe treibt die Furcht aus, denn die Furcht hat mit Strafe zu tun; wer sich nun fürchtet, ist nicht vollkommen geworden in der Liebe.* (1 Johannes 4,18 Übers. nach Schlachter)
 
 - *Wer nicht liebt, der hat Gott nicht erkannt; denn Gott ist Liebe.* (1 Johannes 4,8 Übers. nach Schlachter)
