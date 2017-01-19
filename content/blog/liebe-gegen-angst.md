@@ -2,7 +2,7 @@
 title = "Liebe gegen Angst"
 date = 2017-01-19T03:01:45Z
 image = "liebe gegen angst.jpg"
-
++++
 Liebe und Angst sind Gegensätze.
 
 Ein typisches Kennzeichen religiöser Systeme, ganz gleich wo auf der Welt, ist die Erzeugung von Angst: Angst vor Gericht, Fluch, Hölle oder Strafe. 
