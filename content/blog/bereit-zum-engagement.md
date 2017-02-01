@@ -2,7 +2,6 @@
 title = "Bereit zum Engagement"
 date = 2017-02-01T03:01:45Z
 image = "bereit zum engagement.jpg"
-draft = true
 +++
 
 Jeden Tag kannst du bereit sein. 
