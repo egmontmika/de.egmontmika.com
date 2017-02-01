@@ -12,7 +12,7 @@ Bereit…
 
 - zu helfen
 - eine Lösung zu finden
-- eine Situation zum Besseren zu wenden
+- eine Situation zum Guten zu wenden
 - Hoffnung zu geben
 - zu vertrauen
 
