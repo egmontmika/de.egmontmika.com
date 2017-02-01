@@ -5,7 +5,7 @@ image = "liebe gegen angst.jpg"
 +++
 Liebe und Angst sind Gegensätze.
 
-Ein typisches Kennzeichen religiöser Systeme, ganz gleich wo auf der Welt, ist die Erzeugung von Angst: Angst vor Gericht, Fluch, Hölle oder Strafe. 
+Ein typisches Kennzeichen religiöser Systeme ist die Erzeugung von Angst. Angst vor Gericht, Fluch, Hölle oder Strafe. 
 
 Angst vor dem Versagen. 
 
@@ -22,7 +22,7 @@ Als Gegensatz dazu lies bitte folgende Zitate:
 - *Fürchte dich nicht, denn ich bin mit dir; sei nicht ängstlich, denn ich bin dein Gott; ich stärke dich, ich helfe dir auch, ja, ich erhalte dich durch die rechte Hand meiner Gerechtigkeit!* 
 (Jesaja 41,10 Übers. nach Schlachter)
 
-Der Geist Jesu und der Geist der Angst sind sich gegenseitig ausschließende Kräfte. Der Geist Jesu bringt Liebe hervor, durch welche die Angst überwunden werden kann.
+Der Geist Gottes und der Geist der Angst sind sich gegenseitig ausschließende Kräfte. Der Geist Gottes bringt Liebe hervor, welche die Angst überwindet.
 
 Hier jetzt die heikle Frage:
 
