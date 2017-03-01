@@ -2,7 +2,6 @@
 title = "Loslassen"
 date = 2017-03-01T03:01:45Z
 image = "loslassen.jpg"
-draft = true
 +++
 
 Wertlos, stundenlang über die Fehler der Vergangenheit zu nachzugrübeln.
