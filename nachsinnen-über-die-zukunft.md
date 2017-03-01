@@ -1,7 +1,7 @@
 +++
-title = "Nachsinnen über die Zukunft"
+title = "Loslassen"
 date = 2017-03-01T03:01:45Z
-image = "nachsinnen über die zukunft.jpg"
+image = "loslassen.jpg"
 draft = true
 +++
 
@@ -15,7 +15,7 @@ Die Zukunft bietet Möglichkeiten. Zu besseren Entscheidungen, besseren Lösunge
 
 Die Zukunft bietet sehr viel - für den, der loslassen kann und bereit ist.
 
-Bist du bereit?
+Hast du losgelassen?
 
 Du kannst jetzt gleich in deine Zukunft einsteigen, indem du die Vergangenheit loslässt und anfängst, über die Zukunft nachzusinnen. Also immer mit dem Blick nach vorn. Zugegeben, die eigentliche Arbeit steht dann immer noch aus.
 
