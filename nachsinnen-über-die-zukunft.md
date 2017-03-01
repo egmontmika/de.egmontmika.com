@@ -7,7 +7,7 @@ draft = true
 
 Wertlos, stundenlang über die Fehler der Vergangenheit zu nachzugrübeln.
 
-Vielleicht glaubst du, dabei etwas zu lernen;  das mag sein. Jedoch kann Reue in wenigen Sekunden erledigt sein. Und daraus eine Lehre ziehen muss auch nicht viel länger dauern. Alles darüber hinaus wird leicht destruktiv. Die Vergangenheit kommt eben nicht mehr zurück.
+Vielleicht glaubst du, dabei etwas zu lernen; das mag sein. Jedoch kann Reue in wenigen Sekunden erledigt sein. Und daraus eine Lehre ziehen muss auch nicht viel länger dauern. Alles darüber hinaus wird leicht destruktiv. Die Vergangenheit kommt eben nicht mehr zurück.
 
 Nachsinnen über die Zukunft dahingegen kann sich lohnen.
 
