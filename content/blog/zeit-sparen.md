@@ -11,7 +11,7 @@ Das *Leben* läuft aus.
 
 Andererseits hat uns die Zivilisation eine Menge Zeitsparer geschenkt: Waschmaschinen, Geschirrspühler, Staubsauger, Rasenmäher, Autos, Fluzgzeuge, Handys, Computer…
 
-Wo bleibt eigentlich all die Zeit, die wir ständig sparen?
+Wo bleibt eigentlich all die Zeit die wir ständig sparen?
 
 Mit den Kalendern bis zum Rand gefüllt scheinen Menschen weniger Zeit denn je zu haben. Den ersehnten Treff mit einem Freund muss ich vielleicht schon mehrere Wochen vorher einbuchen.
 
