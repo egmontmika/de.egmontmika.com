@@ -25,4 +25,4 @@ Tun was recht ist.
 
 Traurig nur, dass wir diese Möglichkeit oft dazu verwenden, um noch mehr Zeitsparer einzusetzen. Noch mehr Computerzeit und noch mehr Autofahrten. Und noch mehr Geldverdienen, um dann noch mehr Zeitsparer zu kaufen… 
 
-Die Wahl liegt bei dir.
+Macht das Sinn? Die Antwort liegt bei dir.
