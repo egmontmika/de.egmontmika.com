@@ -17,7 +17,7 @@ Mit den Kalendern bis zum Rand gefüllt scheinen Menschen weniger Zeit denn je z
 
 In Wirklichkeit spart keiner von uns Zeit. Unabhängig davon was wir tun, bleibt die Zeit die uns zur Verfügung steht, immer die gleiche. Und wird immer weniger, Tag um Tag, Stunde um Stunde. Unaufhaltsam.
 
-Die sogenannten Zeitsparer bewirken unter Umständen sogar das Gegenteil. Da können wir unser Leben ernsthaft gefährden durch zu viele zeitsparende Nahrungsmittel oder endlose, aber dennoch zeitsparende Arbeit am Computer. Ganz zu schweigen von dem Stress, der durch einen zeitsparenden Lebensstil verursacht wird. Einige verkürzen ihr Leben drastisch durch einen vorzeitigen Tod durch eine zeitsparenden Autofahrt…
+Die sogenannten Zeitsparer bewirken unter Umständen sogar das Gegenteil. Da können wir unser Leben ernsthaft gefährden durch zu viele zeitsparende Nahrungsmittel oder endlose, aber dennoch zeitsparende Arbeit am Computer. Ganz zu schweigen von dem Stress, der durch einen zeitsparenden Lebensstil verursacht wird. Einige verkürzen ihr Leben abrupt durch eine zeitsparenden Autofahrt…
 
 Was uns diese Zeitsparer tatsächlich bringen, ist nicht mehr Zeit sondern sind mehr Wahlmöglichkeiten. Mehr denn je zuvor können wir wählen, womit wir unsere Zeit füllen. Wählen was wichtig und sinnvoll ist.
 
