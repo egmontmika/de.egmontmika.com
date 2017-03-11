@@ -19,7 +19,7 @@ In Wirklichkeit spart keiner von uns Zeit. Unabhängig davon was wir tun, bleibt
 
 Die sogenannten Zeitsparer bewirken unter Umständen sogar das Gegenteil. Da können wir unser Leben ernsthaft gefährden durch zu viele zeitsparende Mahlzeiten oder zu viel zeitsparende Arbeit am Computer. Ganz zu schweigen von dem Stress, der durch einen zeitsparenden Lebensstil verursacht wird. Einige von uns verkürzen ihr Leben drastisch durch einen vorzeitigen Tod während einer zeitsparenden Autofahrt…
 
-Was uns diese Zeitsparer tatsächlich bringen, ist nicht mehr Zeit sondern mehr Wahlmöglichkeiten. Mehr denn je zuvor können wir wählen, womit wir unsere Zeit füllen. Wählen was wichtig und sinnvoll ist.
+Was uns diese Zeitsparer tatsächlich bringen, ist nicht mehr Zeit sondern sind mehr Wahlmöglichkeiten. Mehr denn je zuvor können wir wählen, womit wir unsere Zeit füllen. Wählen was wichtig und sinnvoll ist.
 
 Tun was recht ist.
 
