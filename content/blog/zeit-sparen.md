@@ -15,7 +15,7 @@ Wo bleibt eigentlich all die Zeit die wir ständig sparen?
 
 Mit den Kalendern bis zum Rand gefüllt scheinen Menschen weniger Zeit denn je zu haben. Den ersehnten Treff mit einem Freund muss ich vielleicht schon mehrere Wochen vorher einbuchen.
 
-In Wirklichkeit spart keiner von uns Zeit. Unabhängig davon was wir tun, bleibt die Zeit, die uns zur Verfügung steht, immer die gleiche. Und wird immer weniger, Tag um Tag, Stunde um Stunde, Minute um Minute. Unaufhaltsam.
+In Wirklichkeit spart keiner von uns Zeit. Unabhängig davon was wir tun, bleibt die Zeit die uns zur Verfügung steht, immer die gleiche. Und wird immer weniger, Tag um Tag, Stunde um Stunde, Minute um Minute. Unaufhaltsam.
 
 Die sogenannten Zeitsparer bewirken unter Umständen sogar das Gegenteil. Da können wir unser Leben ernsthaft gefährden durch zu viele zeitsparende Mahlzeiten oder zu viel zeitsparende Arbeit am Computer. Ganz zu schweigen von dem Stress, der durch einen zeitsparenden Lebensstil verursacht wird. Einige von uns verkürzen ihr Leben drastisch durch einen vorzeitigen Tod während einer zeitsparenden Autofahrt…
 
