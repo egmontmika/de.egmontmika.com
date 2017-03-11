@@ -1,5 +1,5 @@
 +++
-title = "Loslassen"
+title = "Zeit sparen"
 date = 2017-03-15T03:01:45Z
 image = "zeit sparen.jpg"
 draft = true
