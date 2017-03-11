@@ -13,7 +13,7 @@ Andererseits hat uns die Zivilisation eine Menge Zeitsparer geschenkt: Waschmasc
 
 Wo bleibt eigentlich all die Zeit, die wir ständig sparen?
 
-Mit den Kalendern bis zum Rand gefüllt scheinen Menschen weniger Zeit denn je zu haben. Den Treff mit einem Freund muss ich vielleicht schon mehrere Wochen vorher einbuchen.
+Mit den Kalendern bis zum Rand gefüllt scheinen Menschen weniger Zeit denn je zu haben. Den ersehnten Treff mit einem Freund muss ich vielleicht schon mehrere Wochen vorher einbuchen.
 
 In Wirklichkeit spart keiner von uns Zeit. Unabhängig davon was wir tun, bleibt die Zeit, die uns zur Verfügung steht, immer die gleiche. Und wird immer weniger, Tag um Tag, Stunde um Stunde, Minute um Minute. Unaufhaltsam.
 
