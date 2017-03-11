@@ -7,7 +7,7 @@ draft = true
 
 Zeit ist begrenzt, Zeit ist kostbar. Die Zeit läuft aus.
 
-Das Leben läuft aus.
+Das *Leben* läuft aus.
 
 Andererseits hat uns die Zivilisation eine Menge Zeitsparer geschenkt: Waschmaschinen, Geschirrspühler, Staubsauger, Rasenmäher, Autos, Fluzgzeuge, Handys, Computer…
 
