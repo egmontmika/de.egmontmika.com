@@ -1,7 +1,7 @@
 +++
 title = "Ernsthaft - aufrichtig - freudig"
 date = 2016-03-31T03:01:45Z
-image = "Ernsthaft, aufrichtig und freudig.jpg"
+image = "Ernsthaft, aufrichtig und freudig.JPG"
 +++
 
 Menschen sind spannend!
