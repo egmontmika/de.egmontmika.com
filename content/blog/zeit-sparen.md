@@ -2,7 +2,6 @@
 title = "Zeit sparen"
 date = 2017-03-15T03:01:45Z
 image = "zeit sparen.jpg"
-draft = true
 +++
 
 Zeit ist begrenzt, Zeit ist kostbar. Die Zeit läuft aus.
