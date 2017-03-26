@@ -33,7 +33,7 @@ Das wären vier verschiedene Kategorien. Für jede Kategorie gibt es eine spezie
 
 Damit diese Strategie funktioniert ist es notwendig, dass du dir grundlegende Klarheit über deine Prioritäten verschaffst und entsprechende Vorentscheidungen triffst. Du kannst nämlich nicht alles tun, was ständig an dich herangetragen wird.
 
-Was also ist dir das Wichtigste im Leben? Was möchtest du erreichen oder verbessern? Warum bist du in deine Karriere eingestiegen und was verfolgst du damit? Wem möchtest du helfen oder dienen? Und wie wichtig ist das alles, das heißt, welche Rangordnung gibst du den verschiedenen Verpflichtungen? Schließlich, Was kannst du von vorneherein getrost weglassen oder abgeben?
+Was also ist dir das Wichtigste im Leben? Was möchtest du erreichen oder verbessern? Warum bist du in deine Karriere eingestiegen und was verfolgst du damit? Wem möchtest du helfen oder dienen? Und wie wichtig ist das alles, das heißt, welche Rangordnung gibst du den verschiedenen Verpflichtungen? Schließlich, was kannst du von vorneherein getrost weglassen oder abgeben?
 
 Mit der gewonnen Klarheit lässt sich dann arbeiten. Hin und wieder, wenn du gerade nicht unter Zeitdruck stehst, kannst du die Liste neu überdenken und gegebenenfalls korrigieren und so den Kopf über Wasser halten.
 
