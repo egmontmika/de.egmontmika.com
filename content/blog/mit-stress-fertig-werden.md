@@ -19,7 +19,7 @@ Das wären vier verschiedene Kategorien. Für jede Kategorie gibt es eine spezie
 
 2. **Wichtiges, aber nicht Dringendes.** Gib dir eine bestimmte feste Zeit jede Woche oder jeden Monat und trage sie in deinen Kalender ein. Dann erledigst du regelmäßig diese Art von Pflichten zu diesem Zeitpunkt.
 
-3. **Dringendes, aber nicht Wichtiges.** Hier gibt es zwei Möglichkeiten:
+3. **Dringendes, aber nicht Wichtiges.** Zwei Möglichkeiten:
 
     a. Gib die Arbeit ab, zum Beispiel das kaputte Fahrrad an eine Werkstatt.  Die Erleichterung kann die Ausgabe  wert sein.
 
