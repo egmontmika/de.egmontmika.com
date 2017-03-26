@@ -5,7 +5,7 @@ image = "mit stress fertig werden.jpg"
 draft = true
 +++
 
-Schnell noch einen Telefonanruf.
+Schnell noch einen Telefonanruf!
 
 Dann zum Friseur, ein Geburtstagsgeschenk kaufen, das Fahrrad reparieren, die Wäsche waschen, die Kinder abholen, das Abendessen vorbereiten, Rechnungen bezahlen, Emails beantworten… Die Liste erscheint endlos.
 
