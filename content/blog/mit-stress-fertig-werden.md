@@ -1,11 +1,11 @@
 +++
 title = "Mit Stress fertig werden"
 date = 2017-03-29T03:01:45Z
-image = "zeit sparen.jpg"
+image = "mit stress fertig werden.jpg"
 draft = true
 +++
 
-Schnell noch einen Telefonanruf…
+Schnell noch einen Telefonanruf.
 
 Dann zum Friseur, ein Geburtstagsgeschenk kaufen, das Fahrrad reparieren, die Wäsche waschen, die Kinder abholen, das Abendessen vorbereiten, Rechnungen bezahlen, Emails beantworten… Die Liste scheint endlos.
 
