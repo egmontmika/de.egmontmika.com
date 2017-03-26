@@ -5,8 +5,6 @@ image = "zeit sparen.jpg"
 draft = true
 +++
 
-Mit Stress fertig werden
-
 Schnell noch einen Telefonanruf…
 
 Dann zum Friseur, ein Geburtstagsgeschenk kaufen, das Fahrrad reparieren, die Wäsche waschen, die Kinder abholen, das Abendessen vorbereiten, Rechnungen bezahlen, Emails beantworten… Die Liste scheint endlos.
