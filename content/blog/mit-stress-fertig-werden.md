@@ -29,7 +29,7 @@ Das wären vier verschiedene Kategorien. Für jede Kategorie gibt es eine spezie
 
     a. Mach gar nichts. Und denke nicht einmal daran. Unerwünschte Reklame sollte nicht erst irgendwo herumliegen, sondern unmittelbar in den Papierkorb wandern.
 
-    b. Trage diese Aufgabe in eine spezielle Erledigungsliste für unwichtige und nicht dringende Aufgaben ein. Und dabei bleibt es. Vieles erledigt sich die Sache mit der Zeit von selbst und kann dann gestrichen werden. Oder sie wird später doch noch dringend und kann dann erledigt werden (siehe oben).
+    b. Trage diese Aufgabe in eine spezielle Erledigungsliste für unwichtige und nicht dringende Aufgaben ein. Und dabei bleibt es. Vieles erledigt sich mit der Zeit von selbst und kann dann gestrichen werden. Oder die Sache wird später doch noch dringend und kann dann erledigt werden (siehe oben).
 
 Damit diese Strategie funktioniert ist es notwendig, dass du dir grundlegende Klarheit über deine Prioritäten verschaffst und entsprechende Vorentscheidungen triffst. Du kannst nämlich nicht alles tun, was ständig an dich herangetragen wird.
 
