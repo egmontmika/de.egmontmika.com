@@ -23,7 +23,7 @@ Das wären vier verschiedene Kategorien. Für jede Kategorie gibt es eine spezie
 
     a. Gib die Arbeit ab, zum Beispiel das kaputte Fahrrad an eine Werkstatt.  Die Erleichterung kann die Ausgabe  wert sein.
 
-    b. Vergeude nicht deine wertvolle Zeit, die für Familie und Erholung vorgesehen ist, mit Unwichtigem. Auch nicht deine beste Arbeitszeit. Vielleicht kannst du die Sache während einer Wartezeit oder im Bus erledigen oder wenn du zu müde für wichtigere Aufgaben bist.
+    b. Vergeude nicht deine wertvolle Zeit, die für Familie und Erholung vorgesehen ist, mit Unwichtigem. Nimm dafür auch nicht deine beste Arbeitszeit. Vielleicht kannst du die Sache während einer Wartezeit oder im Bus erledigen oder wenn du zu müde für wichtigere Aufgaben bist.
 
 4. **Weder Dringendes noch Wichtiges.** Wieder zwei Möglichkeiten:
 
