@@ -17,7 +17,7 @@ Das wären vier verschiedene Kategorien. Für jede Kategorie gibt es eine spezie
 
 1. **Dringendes und Wichtiges.** So etwas muss gleich oder so schnell wie möglich erledigt werden. Ohne Aufschub.
 
-2. **Wichtiges, aber nicht Dringendes.** Gib dir eine bestimmte feste Zeit jede Woche oder jeden Monat und trage sie in deinen Kalender ein. Dann erledigst du regelmäßig diese Art von Pflichten.
+2. **Wichtiges, aber nicht Dringendes.** Gib dir eine bestimmte feste Zeit jede Woche oder jeden Monat und trage sie in deinen Kalender ein. Dann erledigst du regelmäßig diese Art von Pflichten zu diesem Zeitpunkt.
 
 3. **Dringendes, aber nicht Wichtiges.** Hier gibt es zwei Möglichkeiten:
 
