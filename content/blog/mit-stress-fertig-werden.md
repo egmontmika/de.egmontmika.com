@@ -2,7 +2,6 @@
 title = "Mit Stress fertig werden"
 date = 2017-03-29T03:01:45Z
 image = "mit stress fertig werden.jpg"
-draft = true
 +++
 
 Schnell noch einen Telefonanruf!
