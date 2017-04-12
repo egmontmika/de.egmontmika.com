@@ -6,7 +6,7 @@ image = "mit stress fertig werden.jpg"
 
 Schnell noch einen Telefonanruf!
 
-Dann zum Friseur, ein Geburtstagsgeschenk kaufen, das Fahrrad reparieren, die Wäsche waschen, die Kinder abholen, das Abendessen vorbereiten, Rechnungen bezahlen, Emails beantworten… Die Liste erscheint endlos.
+Dann zum Friseur, ein Geburtstagsgeschenk kaufen, das Fahrrad reparieren, die Wäsche waschen, die Kinder abholen, das Abendessen vorbereiten, Rechnungen bezahlen, Emails beantworten… Die Liste ist endlos.
 
 Was machen, wenn dir die Pflichten über den Kopf wachsen?
 
