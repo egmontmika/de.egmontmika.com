@@ -2,9 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://de.egmontmika.com/</loc>
-    <lastmod>2016-09-14T03:01:45+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://de.egmontmika.com/blog/investieren/</loc>
+    <lastmod>2017-04-12T03:01:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://de.egmontmika.com/blog/mit-stress-fertig-werden/</loc>
+    <lastmod>2017-03-29T03:01:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://de.egmontmika.com/blog/zeit-sparen/</loc>
+    <lastmod>2017-03-15T03:01:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://de.egmontmika.com/blog/loslassen/</loc>
+    <lastmod>2017-03-01T03:01:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://de.egmontmika.com/blog/radikale-schaerfe/</loc>
+    <lastmod>2017-02-15T03:01:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://de.egmontmika.com/blog/bereit-zum-engagement/</loc>
+    <lastmod>2017-02-01T03:01:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://de.egmontmika.com/blog/liebe-gegen-angst/</loc>
+    <lastmod>2017-01-19T03:01:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://de.egmontmika.com/blog/die-frucht-deines-lebens/</loc>
+    <lastmod>2016-12-21T03:01:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://de.egmontmika.com/blog/entscheidung-des-herzens/</loc>
+    <lastmod>2016-12-07T22:44:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://de.egmontmika.com/blog/wie-eine-gemeinde-starten/</loc>
+    <lastmod>2016-11-23T03:01:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://de.egmontmika.com/blog/mut-zur-entscheidung/</loc>
+    <lastmod>2016-11-09T03:01:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://de.egmontmika.com/blog/gebrochenes-vertrauen3/</loc>
+    <lastmod>2016-10-26T03:01:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://de.egmontmika.com/blog/dein-einfluss-wirkt/</loc>
+    <lastmod>2016-10-11T03:01:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://de.egmontmika.com/blog/worauf-es-wirklich-ankommt-teil-III/</loc>
+    <lastmod>2016-09-28T03:01:45+00:00</lastmod>
   </url>
   
   <url>
@@ -13,7 +77,7 @@
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/blog/worauf-es-wirklich-ankommt/</loc>
+    <loc>http://de.egmontmika.com/blog/worauf-es-wirklich-ankommt-teil-I/</loc>
     <lastmod>2016-08-31T03:01:45+00:00</lastmod>
   </url>
   
@@ -33,7 +97,7 @@
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/blog/wie-viel-stabilita%CC%88t-wollen-wir/</loc>
+    <loc>http://de.egmontmika.com/blog/wie-viel-stabilit%C3%A4t-wollen-wir/</loc>
     <lastmod>2016-05-11T03:01:45+00:00</lastmod>
   </url>
   
@@ -148,7 +212,7 @@
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/blog/u%CC%88berwindlung-der-angst/</loc>
+    <loc>http://de.egmontmika.com/blog/%C3%BCberwindlung-der-angst/</loc>
     <lastmod>2015-05-06T03:01:45+00:00</lastmod>
   </url>
   
@@ -163,7 +227,7 @@
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/blog/arbeite-nicht-fu%CC%88r-gott/</loc>
+    <loc>http://de.egmontmika.com/blog/arbeite-nicht-f%C3%BCr-gott/</loc>
     <lastmod>2015-03-04T03:01:45+00:00</lastmod>
   </url>
   
@@ -208,7 +272,7 @@
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/blog/gehirnwa%CC%88sche/</loc>
+    <loc>http://de.egmontmika.com/blog/gehirnw%C3%A4sche/</loc>
     <lastmod>2014-10-23T03:01:45+00:00</lastmod>
   </url>
   
@@ -254,6 +318,18 @@
   
   <url>
     <loc>http://de.egmontmika.com/blog/glaube%20ist%20nicht%20religion/</loc>
+  </url>
+  
+  <url>
+    <loc>http://de.egmontmika.com/blog/</loc>
+    <lastmod>2017-04-12T03:01:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://de.egmontmika.com/</loc>
+    <lastmod>2017-04-12T03:01:45+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
