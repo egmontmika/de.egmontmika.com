@@ -4,7 +4,7 @@ date = 2017-04-12T03:01:45Z
 image = "investieren.jpg"
 +++
 
-Es ist nie zu spät zu investieren.
+Es ist nie zu spät um zu investieren.
 
 Die beste Zeit, um einen Baum zu pflanzen, wäre vor 20 Jahren gewesen, sagt man. Die zweitbeste Zeit jedoch sei jetzt.
 
