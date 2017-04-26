@@ -2,7 +2,6 @@
 title = "Die Krise nutzen"
 date = "2017-04-26T06:39:19Z"
 image = "die krise nutzen.JPG"
-draft = true
 +++
 
 Die Krise nutzen
