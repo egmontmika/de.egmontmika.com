@@ -1,8 +1,8 @@
 +++
-title = ”Die Krise nutzen"
-date = 2017-04-26T03:01:45Z
-image = "taking advantage of a crisis.JPG"
-draft = "true"
+title = "Dein großes Werk"
+date = "2017-04-26T06:39:19Z"
+image = "your great work.png"
+draft = true
 +++
 
 Die Krise nutzen
