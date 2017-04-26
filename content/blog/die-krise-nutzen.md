@@ -3,9 +3,6 @@ title = "Die Krise nutzen"
 date = "2017-04-26T06:39:19Z"
 image = "die krise nutzen.JPG"
 +++
-
-Die Krise nutzen
-
 Du kannst eine hinreißende Botschaft hören, ein ergreifendes Buch lesen, eine revolutionierende Erkenntnis gewinnen. 
 
 Und dennoch bleibt alles beim Alten.
