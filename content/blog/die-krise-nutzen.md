@@ -24,4 +24,4 @@ Unternimmst den ersten Schritt.
 
 So gesehen, kann eine Krise von unschätzbarem Wert sein. 
 
-Für den, der sich dafür entschieden hat.
+Für den, der sich entschieden hat.
