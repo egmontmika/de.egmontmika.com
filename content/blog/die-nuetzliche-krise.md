@@ -1,7 +1,7 @@
 +++
-title = "Die Krise nutzen"
+title = "Die nützliche Krise"
 date = "2017-04-26T06:39:19Z"
-image = "die krise nutzen.JPG"
+image = "die nuetzliche krise.JPG"
 +++
 Du kannst eine hinreißende Botschaft hören, ein ergreifendes Buch lesen, eine revolutionierende Erkenntnis gewinnen. 
 
