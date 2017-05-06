@@ -28,7 +28,10 @@ Zu einem Vermögen von unschätzbarem Wert.
 
 Hallo Freunde!
 Dies ist mein letzter Artikel für diese Saison. Der Sommer steht vor der Tür und damit die Zeit, in der Åsa und ich jedes Jahr gern etwas anderes unternehmen. Zum Beispiel verreisen, Neues erleben und Freunde besuchen.
+
 Ich denke, dass es im September mit den Artikeln wieder weitergehen wird. Ihr werdet von mir hören, auf jeden Fall alle, die sich bei mir registriert haben (auf dieser Seite oben rechts).
+
 Vielen Dank fürs Lesen meiner Artikel und für jede Ermutigung.
+
 Seid dem Herrn befohlen.
 Egmont
