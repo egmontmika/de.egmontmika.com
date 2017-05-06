@@ -5,7 +5,7 @@ image = "investieren.jpg"
 draft = true
 +++
 
-Vertrauen ist Kapital ersten Ranges.
+Vertrauen ist Kapital allerersten Ranges.
 
 Du schaffst es dir durch Zuverlässigkeit, gute Moral, Integrität, Ehrlichkeit, Beständigkeit, Bescheidenheit… 
 
