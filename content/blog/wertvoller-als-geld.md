@@ -2,7 +2,7 @@
 title = "Wertvoller als Geld"
 date = 2017-06-0712T03:01:45Z
 image = "Wertvoller als Geld.jpg"
-draft = true
+draft = "true"
 +++
 
 Vertrauen ist Kapital allerersten Ranges.
