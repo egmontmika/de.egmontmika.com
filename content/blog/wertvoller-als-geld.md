@@ -1,6 +1,6 @@
 +++
 title = "Wertvoller als Geld"
-date = "2017-06-0712T03:01:45Z"
+date = "2017-06-04T06:39:19Z"
 image = "Wertvoller als Geld.jpg"
 draft = true
 +++
