@@ -10,7 +10,7 @@ Ihnen scheint es in Ordnung zu sein, immer ”nur ein wenig” verspätet zu ers
 Keiner beachtet es ohnehin, so scheint es. Und andere kommen ja auch zu 
 spät. Könnte man denken.
 
-Solange sie nicht den Höhepunkt des Abends verpassen. Oder solange sie die 
+Solange sie nicht den Höhepunkt des Abends verpassen. Oder die 
 soziale Pflicht erfüllen, sich wieder einmal zu zeigen.
 
 Warum auch mehr Zeit opfern als unbedingt notwendig!
