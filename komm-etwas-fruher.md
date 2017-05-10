@@ -1,6 +1,6 @@
 +++
 title = "Komm etwas früher!"
-date = "2017-06-04T06:39:19Z"
+date = "2017-05-10T06:39:19Z"
 image = "komm etwas fruher.jpg"
 draft = true
 +++
