@@ -15,7 +15,7 @@ Im Gegensatz dazu gibt es andere, die großzügiger sind und gern immer ein weni
 
 Oder um mit jemandem ins Gespräch zu kommen. 
 
-Vielleicht mit einem, der gerade deshalb auch ein wenig früher kam. Um jemanden zu treffen, der zuhören und vielleicht beten würde.
+Vielleicht mit einem, der gerade deshalb auch ein wenig früher kam. Um jemanden zu treffen, der zuhören und vielleicht auch mitbeten würde.
 
 Etwas früher da sein schafft Raum und Ruhe, gibt Möglichkeiten, sich zu kümmern.
 
