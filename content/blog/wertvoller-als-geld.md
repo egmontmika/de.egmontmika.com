@@ -1,5 +1,5 @@
 +++
-title = "Wertvoller als Geld"
+title = "Wertvoller als Macht und Geld"
 date = "2017-06-04T06:39:19Z"
 image = "Wertvoller als Geld.jpg"
 draft = true
@@ -7,7 +7,7 @@ draft = true
 
 Vertrauen ist Kapital allerersten Ranges.
 
-Du schaffst es dir durch Zuverlässigkeit, gute Moral, Integrität, Ehrlichkeit, Beständigkeit, Bescheidenheit… 
+Du schaffst es dir durch Zuverlässigkeit, Integrität, Ehrlichkeit, Beständigkeit, Bescheidenheit… 
 
 Du versprichst nur, was du halten kannst und hältst, was du versprochen hast. 
 
@@ -26,12 +26,14 @@ Zu einem Vermögen von unschätzbarem Wert.
 
 ---------
 
-Hallo Freunde!
+***Liebe Leser!***
+
 Dies ist mein letzter Artikel für diese Saison. Der Sommer steht vor der Tür und damit die Zeit, in der Åsa und ich jedes Jahr gern etwas anderes unternehmen. Zum Beispiel verreisen, Neues erleben und Freunde besuchen.
 
-Ich denke, dass es im September mit den Artikeln wieder weitergehen wird. Ihr werdet von mir hören, auf jeden Fall alle, die sich bei mir registriert haben.(Auf dieser Seite oben rechts. Kann noch nachgeholt werden.)
+Ich denke, dass es im September mit den Artikeln wieder weitergehen wird. Ihr werdet von mir hören, auf jeden Fall alle, die sich bei mir registriert haben (auf dieser Seite oben rechts - falls noch nicht geschehen).
 
 Vielen Dank fürs Lesen meiner Artikel und für jede Ermutigung.
 
 Seid dem Herrn befohlen.
+
 Egmont
