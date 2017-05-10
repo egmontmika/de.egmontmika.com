@@ -23,6 +23,8 @@ Oder um mit jemandem ins Gespräch zu kommen.
 Vielleicht mit einem, der gerade deshalb auch ein wenig früher kam. Der jemand 
 braucht, der zuhören und vielleicht auch mitbeten würde.
 
-Etwas früher da sein schafft Raum und Ruhe, gibt Möglichkeiten, sich zu kümmern.
+Etwas früher da sein schafft Raum und Ruhe.
+
+Gibt Möglichkeiten, sich zu kümmern.
 
 Kostbare Zeit.
