@@ -8,7 +8,7 @@ Es gibt notorische Zuspätkommer.
 
 Ihnen scheint es in Ordnung zu sein, immer ”nur ein wenig” verspätet zu erscheinen. 
 Keiner beachtet es ohnehin, so scheint es. Und andere kommen ja auch zu 
-spät, könnte man denken.
+spät. Könnte man denken.
 
 Solange sie nicht den Höhepunkt des Abends verpassen. Oder solange sie die 
 soziale Pflicht erfüllen, sich wieder einmal zu zeigen.
