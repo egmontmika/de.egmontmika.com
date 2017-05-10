@@ -1,7 +1,7 @@
 +++
-title = "Komm ein wenig früher!"
+title = "Komm etwas früher!"
 date = 2017-05-10T03:01:45Z
-image = "Komm ein wenig fruher.jpg"
+image = "komm etwas fruher.jpg"
 +++
 Es gibt notorische Zuspätkommer.
 
