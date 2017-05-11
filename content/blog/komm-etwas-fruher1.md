@@ -5,7 +5,7 @@ image = "komm etwas fruher.jpg"
 +++
 Es gibt notorische Zuspätkommer.
 
-Ihnen scheint es in Ordnung zu sein, immer ”nur ein wenig” verspätet zu erscheinen. 
+Für sie scheint es in Ordnung zu sein, immer ”nur ein wenig” verspätet zu erscheinen. 
 Keiner beachtet es ohnehin, so scheint es. Und andere kommen ja auch zu 
 spät. Könnte man denken.
 
