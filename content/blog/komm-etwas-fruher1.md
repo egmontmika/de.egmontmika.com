@@ -27,3 +27,12 @@ Etwas früher da sein schafft Raum und Ruhe.
 Gibt Möglichkeiten, sich zu kümmern.
 
 Kostbare Zeit.
+
+
+---
+**Kommentar**
+
+*Anna*
+
+Da ich eine "notorische" Zufrühkommerin bin, habe ich überlegt, wie es mir jedesmal geht, wenn ich auf jemand, der unpünktlich ist, oft viel zu spät kommt, warte. Ich fühle mich dann nicht wertgeschätzt, meine Zeit verschenkt, aber einseitig. Für mich geht es um WERTE, die sich ja ziemlich verschoben haben im Laufe der Zeit. 
+Und wie du schon schreibst: ist es mir wichtig, wo ich hingehe, mit wem ich mich treffe, mir Zeit für ein Gespräch zu nehmen?........ in diesem Sinne - achten wir auf die kostbare Zeit.
