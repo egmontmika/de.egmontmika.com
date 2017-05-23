@@ -18,4 +18,4 @@ Kirche ist Gemeinschaft der Jünger Jesu. Der mit Gott Versöhnten, durch seine 
 
 Es geht darum, wer du ***bist***. In Christus - durch ihn. Dann auf ihn zu hören und ihm zu folgen. Ganz gleich wo und wann. Überall und jederzeit.
 
-Geh nicht ***zur*** Kirche. ***Sei*** Kirche.
+Geh nicht ***in die*** Kirche. ***Sei*** Kirche.
