@@ -4,7 +4,7 @@ date = "2017-05-24T06:39:19Z"
 image = "geh nicht nur kirche.JPG"
 +++
 
-Kirche ist nicht dasselbe wie Gottesdienst. Nichts wohin man geht.
+Kirche ist nicht dasselbe wie Gottesdienst. Nichts wohin man **geht**.
 
 Weder Veranstaltung noch Programm. Noch viel weniger Gebäude, Organisation oder Denomination. Das war es nicht am Anfang und ist es auch heute nicht.
 
