@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://de.egmontmika.com/blog/geh-nicht-in-die-kirche/</loc>
+    <lastmod>2017-05-24T06:39:19+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://de.egmontmika.com/blog/komm-etwas-fruher1/</loc>
     <lastmod>2017-05-10T06:39:19+00:00</lastmod>
   </url>
@@ -332,13 +337,13 @@
   
   <url>
     <loc>http://de.egmontmika.com/blog/</loc>
-    <lastmod>2017-05-10T06:39:19+00:00</lastmod>
+    <lastmod>2017-05-24T06:39:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://de.egmontmika.com/</loc>
-    <lastmod>2017-05-10T06:39:19+00:00</lastmod>
+    <lastmod>2017-05-24T06:39:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
