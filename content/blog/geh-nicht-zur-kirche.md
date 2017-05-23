@@ -1,6 +1,6 @@
 +++
 title = "Geh nicht zur Kirche!"
-date = "2017-04-26T06:39:19Z"
+date = "2017-05-24T06:39:19Z"
 image = "geh nicht nur kirche.JPG"
 +++
 
