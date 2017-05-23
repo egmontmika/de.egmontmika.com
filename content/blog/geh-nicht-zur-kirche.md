@@ -16,6 +16,6 @@ Kirche ist Gemeinschaft der Jünger Jesu. Der mit Gott Versöhnten, durch seine 
 [1]: https://molongnacua.com/being-church/?blogsub=confirmed#blog_subscription-3
 >*Kirche ist wo Christus lebt, nicht der Ort, an dem wir uns versammeln. Das sind bevollächtigte Menschen, ein Königreich von Priestern zur Bekämpfung der Werke Satans durch die Errichtung von Gottes Reich.*
 
-Es geht darum, wer du bist. In Christus - durch ihn. Dann auf ihn zu hören und ihm folgen. Ganz gleich wo und wann. Überall und jederzeit.
+Es geht darum, wer du ***bist***. In Christus - durch ihn. Dann auf ihn zu hören und ihm folgen. Ganz gleich wo und wann. Überall und jederzeit.
 
 Geh nicht zur Kirche. ***Sei*** Kirche.
