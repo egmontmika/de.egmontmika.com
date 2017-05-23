@@ -1,7 +1,7 @@
 +++
 title = "Geh nicht zur Kirche!"
 date = "2017-05-24T06:39:19Z"
-image = "geh nicht nur kirche.JPG"
+image = "geh nicht zur kirche.jpg"
 +++
 
 Kirche ist nicht dasselbe wie Gottesdienst. Nichts wohin man ***geht***.
