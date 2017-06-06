@@ -31,7 +31,7 @@ Zu einem Vermögen von unschätzbarem Wert.
 
 ***Lieber Leser!***
 
-Dies ist mein letzter Artikel für diese Saison. Das schwedische Schuljahr geht rasch dem Ende zu und damit kommt die Zeit für eine Sommerpause.
+Dies ist mein letzter Artikel für diese Saison. Das schwedische Schuljahr geht rasch dem Ende zu, und damit kommt die Zeit für eine Sommerpause.
 
 Vielen Dank fürs Lesen meiner Artikel und für jeden Kommentar. 
 
