@@ -21,7 +21,7 @@ So simpel, aber oh weh, doch nicht immer ganz einfach. Vertrauen zu bauen geht s
 
 Für einige allerdings scheint es unmöglich zu sein, so lange sie etwas verbergen wollen.
 
-Willst du Vertrauenskapital aufbauen, dann ist Ehrlichkeit angesagt. Radikale und unbedingte Ehrlichkeit. Das kann dich manchmal zum Verlierer machen, so scheint es. Oder auch kurzfristig.
+Willst du Vertrauenskapital aufbauen, dann ist Ehrlichkeit angesagt. Das kann dich manchmal zum Verlierer machen, so scheint es. Oder auch kurzfristig.
 
 Auf die Dauer jedoch zahlen sich Geradlinigkeit, Zuverlässigkeit und Ehrlichkeit aus und lassen dein Vertrauenskapital wachsen.
 
