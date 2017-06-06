@@ -18,7 +18,7 @@ Bist pünktlich, hältst Qualität und schließt die Arbeit ab. Und das über di
 
 So simpel, aber oh weh, doch nicht immer ganz einfach. Vertrauen zu bauen geht selten ohne Anstrengung ab und manchmal brauchst du auch Mut. Musst gegen den Strom schwimmen. Musst Nachteile einstecken.
 
-Für einige allerdings scheint es unmöglich zu sein, so lange sie etwas verbergen wollen.
+Für einige allerdings scheint es unmöglich zu sein, auf jeden Fall so lange sie etwas verbergen wollen.
 
 Willst du Vertrauenskapital aufbauen, dann ist Ehrlichkeit angesagt. Das kann dich manchmal zum Verlierer machen, so scheint es. Oder auch kurzfristig.
 
