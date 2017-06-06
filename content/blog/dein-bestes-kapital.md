@@ -7,7 +7,7 @@ draft = true
 
 Vertrauen ist Kapital allerersten Ranges.
 
-Du schaffst es dir ganz einfach, wie es zunächst scheinen mag. Indem du sagst, was du tust und tust was du sagst. Du hältst dein Versprechen. Lebst deine Worte aus. Ohne Abstriche, eher mit etwas Zugabe.
+Du schaffst es dir ganz einfach, wie es zunächst scheinen mag. Indem du sagst, was du tust und tust, was du sagst. Du hältst dein Versprechen. Lebst deine Worte aus. Ohne Abstriche, eher mit etwas Zugabe.
 
 Ohne Vortäuschungen, ohne Frisieren, ohne Vertuschen. Ohne Nebenabsichten.
 
