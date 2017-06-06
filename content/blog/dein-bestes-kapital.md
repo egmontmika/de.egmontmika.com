@@ -16,7 +16,7 @@ Du bist die Person, die du vorgibst. Bleibst dir selbst treu und transparent fü
 
 Bist pünktlich, hältst Qualität und schließt die Arbeit ab. Und das über die Jahre. 
 
-So simpel, aber oh weh, doch nicht immer ganz einfach. Vertrauen zu bauen geht selten ohne Anstrengung ab und manchmal brauchst du auch Mut. Musst gegen den Strom schwimmen. 
+So simpel, aber oh weh, doch nicht immer ganz einfach. Vertrauen zu bauen geht selten ohne Anstrengung ab und manchmal brauchst du auch Mut. Musst gegen den Strom schwimmen. Musst Nachteile einstecken.
 
 Für einige allerdings scheint es unmöglich zu sein, so lange sie etwas verbergen wollen.
 
