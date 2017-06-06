@@ -35,7 +35,7 @@ Dies ist mein letzter Artikel für diese Saison. Das schwedische Schuljahr geht 
 
 Vielen Dank fürs Lesen meiner Artikel und für jeden Kommentar. 
 
-Ich denke, dass du im September wieder von mir hören wirst, auf jeden Fall wenn du  dich bei mir mit deiner Email-Adresse registriert hast (Kann ansonsten noch nachgeholt werden, auf dieser Seite oben rechts). Und falls du mir seit dem letzten September überhaupt noch keinen Kommentar zugeschickt hast, so wäre dies jetzt die letzte Chance. Ich würde gern von dir hören.
+Ich denke, dass du im September wieder von mir hören wirst, auf jeden Fall wenn du  dich bei mir mit deiner Email-Adresse registriert hast (Kann ansonsten noch nachgeholt werden, auf dieser Seite oben rechts). Und falls du mir seit dem letzten September überhaupt noch keinen Kommentar zugeschickt hast, so wäre dies jetzt die letzte Gelegenheit. Ich würde gern von dir hören.
 
 Einen guten Sommer! Sei gesegnet mit der Freude im Herrn.
 
