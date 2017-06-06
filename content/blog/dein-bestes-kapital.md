@@ -2,7 +2,6 @@
 title = "Dein bestes Kapital"
 date = "2017-06-07T06:39:19Z"
 image = "dein bestes kapital.jpg"
-draft = true
 +++
 
 Vertrauen ist Kapital allerersten Ranges.
