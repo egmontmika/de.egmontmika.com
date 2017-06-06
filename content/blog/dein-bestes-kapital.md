@@ -31,12 +31,12 @@ Zu einem Vermögen von unschätzbarem Wert.
 
 ***Lieber Leser!***
 
-Dies ist mein letzter Artikel für diese Saison. Das schwedische Schuljahr geht rasch dem Ende zu und damit gibt es Zeit für eine Sommerpause.
+Dies ist mein letzter Artikel für diese Saison. Das schwedische Schuljahr geht rasch dem Ende zu und damit kommt die Zeit für eine Sommerpause.
 
-Vielen Dank fürs Lesen meiner Artikel und für jede Ermutigung. 
+Vielen Dank fürs Lesen meiner Artikel und für jeden Kommentar. 
 
-Ich denke, dass ihr im September wieder von mir hören werdet, auf jeden Fall alle, die sich bei mir mit ihrer Email-Adresse registriert haben (Kann noch nachgeholt werden, auf dieser Seite oben rechts). Und, falls jemand mir seit dem letzten September überhaupt noch keinen Kommentar zugeschickt hat, so wäre dies jetzt die letzte Chance. Ich würde gern von dir hören.
+Ich denke, dass du im September wieder von mir hören wirst, auf jeden Fall wenn du  dich bei mir mit deiner Email-Adresse registriert hast (Kann ansonsten noch nachgeholt werden, auf dieser Seite oben rechts). Und falls du mir seit dem letzten September überhaupt noch keinen Kommentar zugeschickt hast, so wäre dies jetzt die letzte Chance. Ich würde gern von dir hören.
 
-Einen guten Sommer! Seid gesegnet mit der Freude im Herrn.
+Einen guten Sommer! Sei gesegnet mit der Freude im Herrn.
 
 Egmont
