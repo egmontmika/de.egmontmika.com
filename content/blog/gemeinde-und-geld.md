@@ -8,23 +8,23 @@ image = "gemeinde und geld.jpg"
 
 Das meinen die Kritiker und weisen auf die angeblich enormen Summen hin, die einige Gemeinden heutzutage einsammeln.
 
-„Stimmt nicht”, wollen wir einwenden, weil wir glauben, ein besseres Verständnis zu haben. „Da geht es um Jesus und um die Verkündigung des Evangeliums. Mit dem Geld werden Menschen erreicht und für die Ewigkeit gewonnen. Je mehr Geld, umso besser. Umso mehr können erreicht werden.”
+„Stimmt nicht”, wollen wir einwenden, weil wir glauben, das besser zu verstehen. „Da geht es doch um Jesus und um die Verkündigung des Evangeliums. Mit dem Geld werden Menschen erreicht und für die Ewigkeit gewonnen. Je mehr Geld also, umso besser. Desto mehr können erreicht werden.”
 
 Um herauszufinden, was wahr ist, lasst uns ein wenig Statistik ansehen. Wie wird das Geld verwendet, und was wird damit erreicht?
 
-Gemäß einer Untersuchung aus dem Jahr 2015, https://www.thetravelingteam.org, gaben Gemeindeglieder in diesem Jahr in der ganzen Welt durchschnittlich 1,7% ihres Einkommens an Gemeinden. 2,9% dieses Geldes wurde für Mission im eigenen Land ausgegeben und 0,3% für Mission in nicht-christlichen Ländern.
+Gemäß einer Untersuchung von Travelling Team (https://www.thetravelingteam.org) aus dem Jahr 2015 gaben Gemeindeglieder in der ganzen Welt durchschnittlich 1,7% ihres Einkommens an Gemeinden. 2,9% dieses Geldes wurde für Mission im eigenen Land ausgegeben und 0,3% für Mission in nicht-christlichen Ländern.
 
 Der größte Teil jedoch, 96,8%, blieb in der eigenen örtlichen Gemeinde, hauptsächlich für Gehälter und Räumlichkeiten.
 
-Im Gegensatz dazu notieren wir christliche Bewegungen in der dritten Welt, aber nicht nur dort, mit einem in der Kirchengeschichte bis jetzt unvergleichlich starken Wachstum. Das sind Bewegungen an der Basis, getragen vom Engagement der einzelnen Jünger und ihrer Familien, viele von ihnen ohne nennenswerte finanzielle Mittel. 
+Im Gegensatz dazu erfahren wir von christlichen Bewegungen in der dritten Welt, aber nicht nur dort, mit einem in der Kirchengeschichte einmalig starken Wachstum. Das sind Bewegungen an der Basis, getragen vom Engagement der einzelnen Jünger und ihren Familien, und dabei ohne nennenswerte finanzielle Mittel. 
 
-Dazu arbeiten diese Gläubigen zum Teil unter extrem schweren Bedingungen, wie Versammlungsverbot, Gefängnis und Folter, zum Beispiel in China, Südasien und dem Nahen Osten. Laut Open Doors (https://www.opendoorsusa.org/christian-persecution/) lassen monatlich hunderte von Jüngern Jesu ihr Leben um ihres Glaubens willen. 
+Dazu arbeiten diese Gläubigen oft, wie in Teilen Chinas, Südasiens und des Nahen Ostens, unter extrem schweren Bedingungen, wie Versammlungsverbot, Androhung von Gefängnis und Folter und Hinrichtung. Laut Open Doors (https://www.opendoorsusa.org/christian-persecution/) werden um ihres Glaubens willen monatlich hunderte von Jüngern Jesu umgebracht.
 
-Dennoch dieses Wachstum!
+Dennoch dieses einzigartige Wachstum!
 
-Es liegt nahe zu denken, wir könnten so viel mehr für den Herrn tun, wenn wir nur mehr Geld hätten. 
+Wohl denken wir manchmal, wir könnten so viel mehr für den Herrn erreichen,wenn wir nur mehr Geld hätten und mehr geben könnten. 
 
-Und mehr geben könnten. 
+Ist das denn so?
 
 
 
