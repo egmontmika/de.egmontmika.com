@@ -25,6 +25,6 @@ Jünger machen lernt man nicht durch Predigten und nicht in Kursen sondern durch
 
 Wie geht es dir damit? 
 
-Falls du schon eine Weile Jünger Jesu bist, also vielleicht ein paar Monate oder gar ein oder zwei Jahre, dann ist das genug, um anzufangen. Und wenn du immer noch zögerst und Hilfe brauchst, dann könntest du jemand aufsuchen, der diese Arbeit macht. Du könntest diese Person bitten, eine Weile dabei sein zu dürfen. Der dir hilft, über die Schwelle zu kommen.
+Falls du schon eine Weile Jünger Jesu bist, also vielleicht ein paar Monate oder gar ein oder zwei Jahre, dann ist das genug, um anzufangen. Und wenn du immer noch zögerst und Hilfe brauchst, dann könntest du jemand aufsuchen, der diese Arbeit macht. Du könntest diese Person bitten, eine Weile dabei sein zu dürfen. Um über die Schwelle zu kommen.
 
 Das wäre schon ein Anfang.
