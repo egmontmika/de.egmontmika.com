@@ -1,7 +1,7 @@
 +++
 title = "Wie viele Predigten braucht ein Mensch?"
 date = "2017-08-30T06:39:19Z"
-image = "gemeinde und geld.jpg"
+imaimage = "wie viele predigten braucht ein mensch.jpg"
 draft = "true"
 +++
 
