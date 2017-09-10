@@ -7,9 +7,11 @@ draft = "true"
 
 Wie viele Predigten braucht ein Mensch, um ein Jünger zu werden?
 
-Wahrscheinlich eine. Oder einige wenige. Der Rest ist Modellieren.
+Wahrscheinlich eine. 
 
-Modellieren jedoch geschieht nicht von der Kanzel oder vom Podium aus, sondern durch ein Vorbild im täglichen Leben, einen Mentor. Da werden Erfahrungen geteilt und Wertungen weitergegeben und in konkreten Situationen ausgelebt. Das „Wie?” und „Warum?” erklärt. Da wird gelernt, auf den Geist zu hören und seiner Stimme zu folgen.
+Oder einige wenige. Der Rest ist Modellieren.
+
+Modellieren jedoch geschieht nicht von der Kanzel oder vom Podium aus, sondern durch ein Vorbild im täglichen Leben, durch einen Mentor. Da werden Erfahrungen geteilt und Wertungen weitergegeben und in konkreten Situationen ausgelebt. Das „Wie?” und „Warum?” erklärt. Da wird gelernt, auf den Geist zu hören und seiner Stimme zu folgen.
 
 Da wird gehandelt.
 
