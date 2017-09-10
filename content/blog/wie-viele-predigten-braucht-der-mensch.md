@@ -15,7 +15,7 @@ Modellieren jedoch geschieht nicht von der Kanzel oder vom Podium aus, sondern d
 
 Da wird gehandelt.
 
-Zugegeben, die Zurüstung geht immer weiter. Da gibt es immer noch etwas zu dazuzulernen, etwas noch besser zu verstehen, Gott noch etwas näher zu kommen. Aber wie lange noch warten? Wann ist ein Jünger Jesu in der Lage, das alles weiterzugeben?
+Zugegeben, die Zurüstung geht immer weiter. Da gibt es immer noch etwas dazuzulernen, etwas noch besser zu verstehen, Gott noch etwas näher zu kommen. Aber wie lange noch warten? Wann ist ein Jünger Jesu in der Lage, seinen Auftrag wahrzunehmen?
 
 Wie viele Predigten braucht ein Jünger, um einen Jünger zu machen?
 
