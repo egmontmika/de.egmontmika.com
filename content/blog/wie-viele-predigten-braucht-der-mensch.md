@@ -21,7 +21,7 @@ Wie viele Predigten braucht ein Jünger, um einen Jünger zu machen?
 
 Wahrscheinlich keine. 
 
-Jünger machen lernt man nicht durch Predigten, auch nicht in Kursen sondern durch die Praxis. Da muss man einfach einmal anfangen. Den Sprung wagen.
+Jünger machen lernt man nicht durch Predigten, auch nicht in Kursen, sondern durch die Praxis. Da muss man einfach einmal anfangen. Den Sprung wagen.
 
 Wie geht es dir damit? 
 
