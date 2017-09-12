@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://de.egmontmika.com/blog/wie-viele-predigten-braucht-der-mensch/</loc>
+    <lastmod>2017-09-12T06:39:19+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://de.egmontmika.com/blog/gemeinde-und-geld/</loc>
     <lastmod>2017-08-30T06:39:19+00:00</lastmod>
   </url>
@@ -347,13 +352,13 @@
   
   <url>
     <loc>http://de.egmontmika.com/blog/</loc>
-    <lastmod>2017-08-30T06:39:19+00:00</lastmod>
+    <lastmod>2017-09-12T06:39:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://de.egmontmika.com/</loc>
-    <lastmod>2017-08-30T06:39:19+00:00</lastmod>
+    <lastmod>2017-09-12T06:39:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
