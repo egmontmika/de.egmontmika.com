@@ -12,11 +12,11 @@ Hast du's versucht?
 
 Ich weiß, es ist nicht leicht. Da kann man, auch bei Pastoren und Ältesten auf Unverständnis stoßen. Kaum einer hat selbst einen Mentor gehabt und weiß, wie so etwas geht. 
 
-Leichter kann es sein, vor einer ganzen Klasse zu stehen oder vor Hunderten zu predigen, als sich mit einem einzelnen Menschen persönlich abzugeben.
+Leichter kann es sein, vor einer ganzen Klasse zu stehen oder vor Hunderten zu predigen, als sich mit einem einzelnen Menschen über längere Zeit persönlich abzugeben.
 
-Das fordert Anteilnahme, persönliches Engagement und Zeit. Manchmal auch sehr viel Zeit. Aber das ist es wert.
+Das verpflichtet. Und fordert Anteilnahme, persönliches Engagement und Zeit. Manchmal auch sehr viel Zeit.
 
-Wer ist dazu bereit?
+Wer wäre dazu bereit?
 
 Jesus machte uns das vor. Letztlich waren es einzelne Jünger, durch die das Evangelium Durchschlag gewann. Nicht die Tausende, die ihn zum König machen wollten.
 
