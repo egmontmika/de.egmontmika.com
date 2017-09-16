@@ -24,6 +24,6 @@ Das verpflichtet. Und fordert Anteilnahme, persönliches Engagement und Zeit. Ma
 
 Doch lohnt es. 
 
-Mentoren wachsen nicht an Bäumen. Jedoch, es gibt sie. Es gibt Menschen, die gern den Preis beazhlen.
+Mentoren wachsen nicht an Bäumen. Jedoch, es gibt sie. Es gibt Menschen, die gern den Preis bezahlen.
 
 Du könntest einer von ihnen sein.
