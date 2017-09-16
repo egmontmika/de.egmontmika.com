@@ -10,21 +10,19 @@ Also einen, der dich für eine Zeit in deinem Leben begleitet, als Vorbild, Bera
 
 Hast du's versucht?
 
-Ich weiß, es ist nicht leicht. Da kann man auch bei Pastoren und Ältesten auf Unverständnis stoßen. Kaum einer hat selbst einen Mentor gehabt und weiß, wie so etwas geht. 
+Ich weiß, es ist nicht leicht. Da kann man auch bei Pastoren und Ältesten auf Unverständnis stoßen. Kaum einer von ihnen hat selbst einen Mentor gehabt und weiß, wie so etwas geht. 
 
-Leichter kann es sein, vor einer ganzen Klasse zu stehen oder vor Hunderten zu predigen, als sich mit einem einzelnen Menschen über längere Zeit persönlich abzugeben.
+Leichter kann es sein, einen Konferenzsprecher zu engagieren als einen persönlichen Mentor zu finden. Weil es lohnender erscheint, vor einer ganzen Klasse zu stehen oder vor Hunderten zu predigen, als sich mit einem einzelnen Menschen über längere Zeit abzugeben.
 
-Das verpflichtet. Und fordert Anteilnahme, persönliches Engagement und Zeit. Manchmal auch sehr viel Zeit. 
-
-Doch lohnt es.
-
-Wer wäre dazu bereit?
+Doch der Schein trügt.
 
 Jesus machte uns das vor. Letztlich waren es einzelne Jünger, durch die das Evangelium Durchschlag gewann. Nicht die Tausende, die ihn zum König machen wollten.
 
 Gott handelt mit Einzelnen, nicht mit Massen.
 
-Warum kann es dann leichter sein, einen Konferenzsprecher zu engagieren als einen persönlichen Mentor zu finden?
+Das verpflichtet. Und fordert Anteilnahme, persönliches Engagement und Zeit. Manchmal auch sehr viel Zeit. 
+
+Doch lohnt es. Wer wäre dazu bereit?
 
 Mentoren wachsen nicht an Bäumen. Jedoch, es gibt sie.
 
