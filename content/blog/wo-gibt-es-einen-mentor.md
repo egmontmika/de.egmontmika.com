@@ -22,8 +22,8 @@ Gott handelt mit Einzelnen, nicht mit Massen.
 
 Das verpflichtet. Und fordert Anteilnahme, persönliches Engagement und Zeit. Manchmal auch sehr viel Zeit. 
 
-Doch lohnt es. Wer wäre dazu bereit?
+Doch lohnt es. 
 
-Mentoren wachsen nicht an Bäumen. Jedoch, es gibt sie.
+Mentoren wachsen nicht an Bäumen. Jedoch, es gibt sie. Es gibt Menschen, die dazu bereit sind.
 
 Du könntest einer sein.
