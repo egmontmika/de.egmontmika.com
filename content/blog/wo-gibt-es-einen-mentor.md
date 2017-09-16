@@ -14,11 +14,11 @@ Ich weiß, es ist nicht leicht. Da kann man, auch bei Pastoren und geistlichen L
 
 Leichter kann es sein, vor einer ganzen Klasse zu stehen oder vor Hunderten zu predigen, als sich mit einem einzelnen Menschen persönlich abzugeben.
 
-Das fordert Anteilnahme, persönliches Engagement und Zeit. Manchmal auch sehr viel Zeit. 
+Das fordert Anteilnahme, persönliches Engagement und Zeit. Manchmal auch sehr viel Zeit. Aber das ist es wert.
 
 Wer ist dazu bereit?
 
-Aber das ist es wert. Jesus machte uns das vor. Letztlich waren es einzelne Jünger, durch die das Evangelium Durchschlag gewann. Nicht die Tausende, die ihn zum König machen wollten.
+Jesus machte uns das vor. Letztlich waren es einzelne Jünger, durch die das Evangelium Durchschlag gewann. Nicht die Tausende, die ihn zum König machen wollten.
 
 Gott handelt mit Einzelnen, nicht mit Massen.
 
