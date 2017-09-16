@@ -10,7 +10,7 @@ Also einen, der dich für eine Zeit in deinem Leben begleitet, als Vorbild, Bera
 
 Hast du's versucht?
 
-Ich weiß, es ist nicht leicht. Da kann man auch bei Pastoren und Ältesten auf Unverständnis stoßen. Kaum einer von ihnen hat selbst einen Mentor gehabt und macht so etwas. 
+Ich weiß, es ist nicht leicht. Da kann man auch bei Pastoren und Ältesten auf Unverständnis stoßen. Kaum einer von ihnen hat selbst einen Mentor gehabt und versteht sich auf so etwas. 
 
 Leichter kann es sein, einen Konferenzsprecher zu engagieren als einen persönlichen Mentor zu finden. Weil es lohnender erscheint, vor einer ganzen Klasse zu stehen oder vor Hunderten zu predigen, als sich mit einem einzelnen Menschen über längere Zeit abzugeben.
 
