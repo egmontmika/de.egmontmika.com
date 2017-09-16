@@ -26,4 +26,4 @@ Doch lohnt es.
 
 Mentoren wachsen nicht an Bäumen. Jedoch, es gibt sie. Es gibt Menschen, die dazu bereit sind.
 
-Du könntest einer sein.
+Du könntest einer von ihnen sein.
