@@ -1,7 +1,7 @@
 +++
 title = "Wo gibt es einen Mentor?"
 date = "2017-09-26T06:39:19Z"
-image = "wie viele predigten braucht ein mensch.jpg"
+image = "wo gibt es einen mentor.jpg"
 +++
 
 Hast du versucht, einen Mentor zu finden? 
@@ -24,6 +24,6 @@ Gott handelt mit Einzelnen, nicht mit Massen.
 
 Warum kann es dann leichter sein, einen Konferenzsprecher zu engagieren als einen persönlichen Mentor zu finden?
 
-Mentoren wachsen nicht an Bäumen.
+Mentoren wachsen nicht an Bäumen. Jedoch, es gibt sie.
 
-Du könntest jedoch einer sein.
+Du könntest einer sein.
