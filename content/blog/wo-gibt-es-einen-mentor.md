@@ -16,7 +16,7 @@ Leichter kann es sein, einen Konferenzsprecher zu engagieren als einen persönli
 
 Doch der Schein trügt.
 
-Jesus machte uns das vor. Letztlich waren es einzelne Jünger, durch die das Evangelium Durchschlag gewann. Nicht die Tausende, die ihn zum König machen wollten.
+Jesus machte uns vor, wie er das sieht. Letztlich waren es einzelne Jünger, durch die das Evangelium Durchschlag gewann. Nicht die Tausende, die ihn zum König machen wollten.
 
 Gott handelt mit Einzelnen, nicht mit Massen.
 
