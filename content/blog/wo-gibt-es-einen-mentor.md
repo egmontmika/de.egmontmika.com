@@ -2,6 +2,7 @@
 title = "Wo gibt es einen Mentor?"
 date = "2017-09-26T06:39:19Z"
 image = "wo gibt es einen mentor.jpg"
+draft = "true"
 +++
 
 Hast du versucht, einen Mentor zu finden? 
