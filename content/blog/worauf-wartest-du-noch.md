@@ -2,6 +2,7 @@
 title = "Worauf wartest du noch?"
 date = "2017-09-28T06:39:19Z"
 image = "wie viele predigten braucht ein mensch.jpg"
+draft = "true"
 +++
 
 Bist du bereit, einen Menschen zu Jesus zu führen? Und dann für eine Weile zu begleiten?
