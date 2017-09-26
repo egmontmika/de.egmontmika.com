@@ -1,7 +1,7 @@
 +++
 title = "Worauf wartest du noch?"
 date = "2017-09-28T06:39:19Z"
-image = "wie viele predigten braucht ein mensch.jpg"
+image = "are you ready.jpg"
 draft = "true"
 +++
 
