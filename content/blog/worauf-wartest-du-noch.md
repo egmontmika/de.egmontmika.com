@@ -5,7 +5,9 @@ image = "wie viele predigten braucht ein mensch.jpg"
 draft = "true"
 +++
 
-Bist du bereit, einen Menschen zu Jesus zu führen? Und dann noch für eine Weile zu begleiten?
+Bist du bereit, einen Menschen zu Jesus zu führen? 
+
+Und dann noch für eine Weile zu begleiten? Ihm weiterzuhelfen, um als Jünger zu leben?
 
 Sollte deine Antwort ein ”Nein” sein oder ein ”Noch nicht”, was würde dir dazu noch fehlen?
 
@@ -15,7 +17,7 @@ Waren sie dann voll ausgebildet? - Nein.
 
 Hatten sie die Fähigkeiten eines Evangelisten oder Predigers oder Lehrers? - Wahrscheinlich nicht.
 
-Tatsächlich hatten sie weder Glaube noch Geschick noch Verständnis für die Aufgabe.
+Tatsächlich hatten sie damals weder Glaube noch Geschick noch Verständnis für die Aufgabe.
 
 Dennoch sandte Jesus sie aus.
 
