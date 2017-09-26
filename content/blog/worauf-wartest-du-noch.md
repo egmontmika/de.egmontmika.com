@@ -21,15 +21,21 @@ Tatsächlich hatten sie damals weder Glaube noch Geschick noch Verständnis für
 
 Dennoch sandte Jesus sie aus.
 
-Und mit was immer ihnen fehlte, kam ihnen der Geist zu Hilfe. Sie hätten sicher noch weit mehr lernen können, noch mehr Erfahrung sammeln und reifer werden können, wären sie mit Jesus noch zusätzliche zehn Jahre durch die Lande gezogen. Jedoch schien was sie hatten auszureichen. Jedenfalls in Jesu Augen. Jedenfalls für den Anfang.
+Und mit was immer ihnen fehlte, kam ihnen der Geist zu Hilfe. Sie hätten sicher noch weit mehr lernen können, noch mehr Erfahrung sammeln und reifer werden können, wären sie mit Jesus noch zusätzliche zehn Jahre durchs Land gezogen. 
+
+Jedoch schien das, was sie hatten, auszureichen. Jedenfalls in Jesu Augen. Jedenfalls für den Anfang.
 
 Was der Geist brauchte, waren nicht Leute mit maximalen Fähigkeiten, sondern mit Willigkeit.
 
 Bist du willig?
 
-Lasst uns noch deutlicher werden. Sollte jemand denken, dass er durch mehr und mehr Gottesdienstbesuche zugerüstet wird, um irgendwann einmal Menschen zu Jesus zu führen, dann ist das eine Illusion. 
+Lasst uns noch deutlicher werden. 
 
-Tatsächlich kann das Gegenteil der Fall sein. Je länger du wartest, desto mehr willst du bleiben. In der vertrauten, bestätigenden Gemeinschaft der Gläubigen. Im zuverlässigen Ritual wöchentlicher Gottesdienste. Desto weniger zieht es dich nach draußen. Dahin wo die Menschen sind. Wo die Not ist.
+Sollte jemand denken, dass er durch mehr und mehr Gottesdienstbesuche zugerüstet wird, um irgendwann einmal Menschen zu Jesus zu führen, dann ist das eine Illusion. 
+
+Tatsächlich kann das Gegenteil der Fall sein. 
+
+Je länger du wartest, desto mehr willst du bleiben. In der vertrauten, bestätigenden Gemeinschaft der Gläubigen. Im zuverlässigen Ritual wöchentlicher Gottesdienste. Desto weniger zieht es dich nach draußen. Dahin wo die Menschen sind. Wo die Not ist.
 
 Könnte das so sein?
 
