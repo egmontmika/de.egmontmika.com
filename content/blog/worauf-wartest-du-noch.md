@@ -24,7 +24,9 @@ Was der Geist brauchte, waren nicht Leute mit mehr Erfahrung und Wissen sondern 
 
 Bist du willig?
 
-Lasst uns noch deutlicher werden. Sollte jemand denken, dass er durch mehr und mehr Gottesdienstbesuche zugerüstet wird, um irgendwann einmal Jünger zu Jesus zu führen, dann ist das eine Illusion. Tatsächlich kann das Gegenteil der Fall sein. Je länger du wartest, desto mehr willst du bleiben. In der vertrauten, bestätigenden Gemeinschaft der Gläubigen. Im zuverlässigen Ritual wöchentlicher Gottesdienste. Desto weniger zieht es dich nach draußen.
+Lasst uns noch deutlicher werden. Sollte jemand denken, dass er durch mehr und mehr Gottesdienstbesuche zugerüstet wird, um irgendwann einmal Menschen zu Jesus zu führen, dann ist das eine Illusion. 
+
+Tatsächlich kann das Gegenteil der Fall sein. Je länger du wartest, desto mehr willst du bleiben. In der vertrauten, bestätigenden Gemeinschaft der Gläubigen. Im zuverlässigen Ritual wöchentlicher Gottesdienste. Desto weniger zieht es dich nach draußen.
 
 Könnte das so sein?
 
