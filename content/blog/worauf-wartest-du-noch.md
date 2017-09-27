@@ -13,7 +13,7 @@ Sollte deine Antwort ein „Nein” sein oder ein „Noch nicht”, was würde d
 
 Jesus schulte seine Jünger dreieinhalb Jahre, dann sandte er sie aus. 
 
-Waren sie dann voll ausgebildet? - Nein.
+Waren sie denn dann voll ausgebildet? - Nein.
 
 Hatten sie die Fähigkeiten eines Evangelisten oder Predigers oder Lehrers? - Wahrscheinlich nicht.
 
