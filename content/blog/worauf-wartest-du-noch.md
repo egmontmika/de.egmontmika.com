@@ -23,7 +23,7 @@ Dennoch sandte Jesus sie aus.
 
 Und was immer ihnen fehlte, damit kam ihnen der Geist zu Hilfe. Sie hätten sicher noch weit mehr lernen können, noch mehr Erfahrung sammeln und reifer werden können, wären sie mit Jesus noch zusätzliche zehn Jahre durchs Land gezogen. 
 
-Jedoch schien das, was sie hatten, auszureichen. Jedenfalls in Jesu Augen. Jedenfalls für den Anfang.
+Jedoch schien das was sie hatten auszureichen. Jedenfalls in Jesu Augen. Jedenfalls für den Anfang.
 
 Was der Geist brauchte, waren nicht Leute mit maximalen Fähigkeiten, sondern mit Willigkeit.
 
