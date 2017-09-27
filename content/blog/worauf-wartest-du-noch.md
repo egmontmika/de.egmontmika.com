@@ -7,7 +7,7 @@ draft = "true"
 
 Bist du bereit, einen Menschen zu Jesus zu führen? 
 
-Und dann noch für eine Weile zu begleiten? Ihm weiterzuhelfen in seinem Leben als als Jünger Jesu?
+Und dann noch für eine Weile zu begleiten? Ihm weiterzuhelfen in seinem Leben als Jünger Jesu?
 
 Sollte deine Antwort ein „Nein” sein oder ein „Noch nicht”, was würde dir zu einem „Ja" noch fehlen?
 
