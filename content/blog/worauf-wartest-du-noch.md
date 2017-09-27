@@ -21,7 +21,7 @@ Tatsächlich hatten sie damals weder Glaube noch Geschick noch Verständnis für
 
 Dennoch sandte Jesus sie aus.
 
-Und mit was immer ihnen fehlte, kam ihnen der Geist zu Hilfe. Sie hätten sicher noch weit mehr lernen können, noch mehr Erfahrung sammeln und reifer werden können, wären sie mit Jesus noch zusätzliche zehn Jahre durchs Land gezogen. 
+Und was immer ihnen fehlte, damit kam ihnen der Geist zu Hilfe. Sie hätten sicher noch weit mehr lernen können, noch mehr Erfahrung sammeln und reifer werden können, wären sie mit Jesus noch zusätzliche zehn Jahre durchs Land gezogen. 
 
 Jedoch schien das, was sie hatten, auszureichen. Jedenfalls in Jesu Augen. Jedenfalls für den Anfang.
 
