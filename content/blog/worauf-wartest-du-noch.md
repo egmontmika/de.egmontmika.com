@@ -1,15 +1,15 @@
 +++
 title = "Worauf wartest du noch?"
 date = "2017-09-28T06:39:19Z"
-image = "are you ready.jpg"
+image = "worauf wartest du noch.jpg"
 draft = "true"
 +++
 
 Bist du bereit, einen Menschen zu Jesus zu führen? 
 
-Und dann noch für eine Weile zu begleiten? Ihm weiterzuhelfen, um als Jünger zu leben?
+Und dann noch für eine Weile zu begleiten? Ihm weiterzuhelfen in seinem Leben als als Jünger Jesu?
 
-Sollte deine Antwort ein ”Nein” sein oder ein ”Noch nicht”, was würde dir dazu noch fehlen?
+Sollte deine Antwort ein „Nein” sein oder ein „Noch nicht”, was würde dir zu einem „Ja" noch fehlen?
 
 Jesus schulte seine Jünger dreieinhalb Jahre, dann sandte er sie aus. 
 
