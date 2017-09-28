@@ -2,7 +2,6 @@
 title = "Worauf wartest du noch?"
 date = "2017-09-28T06:39:19Z"
 image = "worauf wartest du noch.jpg"
-draft = "true"
 +++
 
 Bist du bereit, einen Menschen zu Jesus zu führen? 
