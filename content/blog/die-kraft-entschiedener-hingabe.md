@@ -19,7 +19,7 @@ Wer jedoch hat dir jemals versprochen, dass dein Projekt leicht sein würde?
 
 Wäre es leicht, dann hättest du selbst oder andere es schon längst gemacht. Die Tatsache, dass niemand es bisher getan hat, könnte ein Zeichen dafür sein, dass niemand bis jetzt den Wert deiner Idee erkannt hat, oder es für möglich hielt, sie zu verwirklichen. Oder es für dich tun konnte.
 
-Das würde bedeuten, dass du den Ball hast. Du bist dran.
+Das würde bedeuten, dass du den Ball hast. Also, du bist dran.
 
 Allerdings müsstest du dich auf Kosten gefasst machen. Auf das Unverständnis und die Gleichgültigkeit derer, auf deren Unterstützung du angewiesen bist. Auf Unbequemlichkeiten, deine Zweifel, den eigenen inneren Widerstand, deine Bequemlichkeit und Trägheit, ganz abgesehen von der Meinung der Leute.
 
