@@ -2,7 +2,6 @@
 title = "Die Kraft entschiedener Hingabe"
 date = 2017-10-11T03:01:45Z
 image = "die kraft entschiedener hingabe.jpg"
-draft = "true"
 +++
 
 Hattest du schon mal ein gute Idee? Und wolltest sie verwirklichen? 
