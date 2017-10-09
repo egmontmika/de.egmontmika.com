@@ -21,7 +21,7 @@ Wäre es leicht, dann hättest du selbst oder andere es schon längst gemacht. D
 
 Das würde bedeuten, dass du den Ball hast. Also, du bist dran.
 
-Allerdings müsstest du dich auf Kosten gefasst machen. Auf das Unverständnis und die Gleichgültigkeit derer, auf deren Unterstützung du angewiesen bist. Auf Unbequemlichkeiten, deine Zweifel, den eigenen inneren Widerstand, deine Bequemlichkeit und Trägheit, ganz abgesehen von der Meinung der Leute.
+Allerdings müsstest du dich auf Kosten gefasst machen. Auf das Unverständnis und die Gleichgültigkeit derer, auf deren Unterstützung du angewiesen bist. Auf Unbequemlichkeiten, deine Zweifel, den eigenen inneren Widerstand, deine Trägheit, ganz abgesehen von der Meinung der Leute.
 
 Und die Furcht vor dem Misslingen.
 
