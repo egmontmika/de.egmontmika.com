@@ -1,7 +1,7 @@
 +++
 title = "Die Kraft entschlossener Hingabe"
 date = 2017-10-11T03:01:45Z
-image = ".png"
+image = "die kraft entschlossener hingabe.jpg"
 draft = "true"
 +++
 
