@@ -30,6 +30,6 @@ Durchzuhalten.
 
 Schließlich ist es die beständige, ausdauernde Anstrengung, die zum Durchbruch führt. Großes wird nicht erreicht, indem man es nur einmal versucht. 
 
-Und Kleines eigentlich auch selten.
+Und Kleines eigentlich auch nur manchmal.
 
 Vielmehr durch entschlossene Hingabe über die Zeit.
