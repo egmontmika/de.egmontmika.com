@@ -15,7 +15,7 @@ Es ist dann leicht, die Verständnislosigkeit und Unfähigkeit anderer für den 
 
 Und aufzugeben.
 
-Wer jedoch hat dir jemals versprochen, dass Veränderung leicht sein würde?
+Wer jedoch hat dir jemals versprochen, dass dein Projekt leicht sein würde?
 
 Wäre es leicht, dann hättest du selbst oder andere es schon längst gemacht. Die Tatsache, dass niemand es bisher getan hat, könnte ein Zeichen dafür sein, dass niemand bis jetzt den Wert deiner Idee erkannt hat, oder es für möglich hielt, sie zu verwirklichen. Oder es für dich tun konnte.
 
