@@ -1,7 +1,7 @@
 +++
 title = "Dein wertvolles Leben"
 date = "2017-10-24T06:39:19Z"
-image = "worauf wartest du noch.jpg"
+image = "dein wertvolles leben.jpg"
 draft = "true"
 +++
 Der Wert deines Lebens wird nicht bestimmt von den Höhepunkten.
