@@ -5,7 +5,7 @@ image = "dein wertvolles leben.jpg"
 +++
 Der Wert deines Lebens wird nicht durch die Höhepunkte bestimmt.
 
-/Sonntagsgottesdienste mögen den Eindruck hinterlassen, das christliche Leben bestehe aus einer Serie eleganter Versammlungen. Aus lauter Höhepunkten, das heißt, geistlichen Erlebnissen. Und jeder Menge Lächeln.
+Sonntagsgottesdienste mögen den Eindruck hinterlassen, das christliche Leben bestehe aus einer Serie eleganter Versammlungen. Aus lauter Höhepunkten, das heißt, geistlichen Erlebnissen. Und jeder Menge Lächeln.
 
 Nichts könnte verkehrter sein.
 
