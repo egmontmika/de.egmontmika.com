@@ -7,7 +7,7 @@ Kennst du das?
 
 Du weißt genau, was jetzt das Rechte wäre.
 
-Was getan werden müsste, um zu helfen, zu retten, zu verbessern, eine hoffnungslose Situation zu wenden. Du könntest es tun.
+Was getan werden müsste, um zu helfen, zu retten, zu verbessern, eine hoffnungslose Situation zu wenden. Du könntest es tun. Oder wenigstens dazu beitragen.
 
 Dennoch zögerst du.
 
