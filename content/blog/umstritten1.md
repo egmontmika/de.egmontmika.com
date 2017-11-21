@@ -12,7 +12,7 @@ Je höher dein Ziel, umso höher der zu zahlende Preis.
 
 Da scheint es einfacher zu sein, sich anzupassen, im Strom mitzuschwimmen und gute Miene zu machen. Politisch korrekt und sozial akzeptiert zu bleiben. 
 
-Leider ist das die Schwäche so manch kirchlicher Bewegung, die zwar umstritten anfing, dann aber allmählich dem Druck nachgab, um in den Augen der Umgebung schließlich doch noch salonfähig zu werden.
+Leider ist das die Schwäche so manch geistlicher Bewegung, die zwar umstritten anfing, dann aber allmählich dem Druck nachgab, um in den Augen der Umgebung schließlich doch noch salonfähig zu werden.
 
 „Wenn das Salz seine Kraft verloren hat, wozu ist es noch nütze?”
 
