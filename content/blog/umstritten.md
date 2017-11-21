@@ -6,7 +6,7 @@ image = "umstritten.jpg"
 
 Umstritten zu sein ist kein Fehler. Erst recht keine Sünde.
 
-Jeder, der für etwas Rechtes eintritt, muss sich auf Widerstand gefasst machen. Je höher deine Position, umso stärker der Widerstand, mit dem du rechnen musst, umso stärker die Ablehnung, umso schlimmer auch die möglichen Konsequenzen.
+Jeder, der für etwas Rechtes eintritt, muss sich auf Widerstand gefasst machen. Je höher deine Position, umso stärker der Widerstand, mit dem du rechnen musst. Umso stärker die Ablehnung und umso schlimmer die möglichen Konsequenzen.
 
 Je höher dein Ziel, desto höher der zu zahlende Preis.
 
@@ -26,6 +26,8 @@ Der wurde von ihm letztlich auch gefordert.
 
 Als sein Nachfolger kannst auch du dich auf Widerstand gefasst machen, solange du Jesus ernst nimmst, das heißt, solange du die Herausforderung der Nachfolge annimmst und ihn nicht zum sentimentalen Klichee oder kulturellen Anhängsel degradierst und damit verharmlost. 
 
-Widerstand kann sogar gut sein. Denn umstritten zu sein um Jesu willen und im Dienst am Evangelium schafft Klarheit, Konzentration und Stärke. Trennt die Spreu vom Weizen. 
+Widerstand kann sogar gut sein. Denn umstritten zu sein um Jesu willen und im Dienst am Evangelium schafft Klarheit, Konzentration und Stärke. 
+
+Trennt die Spreu vom Weizen. 
 
 Lässt Echtheit sichtbar werden.
