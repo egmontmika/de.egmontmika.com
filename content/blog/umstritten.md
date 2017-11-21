@@ -20,14 +20,10 @@ Jesus dahingegen blieb umstritten. Und ist es auch heute.
 
 Er beugte sich nie unter die Meinung der Leute, gab nicht nach unter dem Druck seiner Umgebung. Forderte vielmehr seine Widersacher heraus, provozierte bis zum Äußersten.
 
-Er hielt stand, weil er bereit war, den Preis zu zahlen.
-
-Der wurde von ihm letztlich auch gefordert.
-
-Als sein Nachfolger kannst auch du dich auf Widerstand gefasst machen, solange du Jesus ernst nimmst, das heißt, solange du die Herausforderung der Nachfolge annimmst und ihn nicht zum sentimentalen Klichee oder kulturellen Anhängsel degradierst und damit verharmlost. 
-
-Widerstand kann sogar gut sein. Denn umstritten zu sein um Jesu willen und im Dienst am Evangelium schafft Klarheit, Konzentration und Stärke. 
+Als sein Nachfolger kannst auch du dich auf Widerstand gefasst machen. Widerstand kann dann sogar gut sein. Denn umstritten zu sein um Jesu willen und im Dienst am Evangelium schafft Klarheit, Konzentration und Stärke. 
 
 Trennt die Spreu vom Weizen. 
 
 Lässt Echtheit sichtbar werden.
+
+
