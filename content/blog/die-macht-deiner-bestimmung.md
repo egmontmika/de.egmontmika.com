@@ -1,6 +1,6 @@
 +++
 title = "Die Macht deiner Bestimmung"
-date = 2017-11-07T03:01:45Z
+date = 2017-11-08T03:01:45Z
 image = "die macht deiner bestimmung.jpg"
 +++
 Kennst du das?
