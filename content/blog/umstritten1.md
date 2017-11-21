@@ -25,5 +25,3 @@ Als sein Nachfolger kannst auch du dich auf Widerstand gefasst machen. Widerstan
 Trennt die Spreu vom Weizen. 
 
 Lässt Echtheit sichtbar werden.
-
-
