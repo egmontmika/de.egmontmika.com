@@ -1,5 +1,5 @@
 +++
-title = "Umstritten?"
+title = "Umstritten."
 date = 2017-11-22T03:01:45Z
 image = "umstritten.jpg"
 +++
