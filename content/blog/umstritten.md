@@ -8,7 +8,7 @@ Umstritten zu sein ist kein Fehler. Erst recht keine Sünde.
 
 Jeder, der für etwas Rechtes eintritt, muss sich auf Widerstand gefasst machen. Je höher deine Position, umso stärker der Widerstand, mit dem du rechnen musst. Umso stärker die Ablehnung und umso schlimmer die möglichen Konsequenzen.
 
-Je höher dein Ziel, desto höher der zu zahlende Preis.
+Je höher dein Ziel, umso höher der zu zahlende Preis.
 
 Da scheint es einfacher zu sein, sich anzupassen, im Strom mitzuschwimmen und gute Miene zu machen. Politisch korrekt und sozial akzeptiert zu bleiben. 
 
