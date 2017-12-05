@@ -24,8 +24,6 @@ Sie haben mental umgeschaltet von „ich” und „mich” auf „du” und „d
 
 So sehen sie ihr Leben und das ihrer Mitmenschen in einem neuen Licht. In seinem Licht. Von  Gottes Warte aus, mit seinen Augen und seinem Herzen. Und sie sehen, was zu tun ist.
 
-Beim Hören werden Gottes Wege ihre Wege. Und ihre Wege werden Gottes. 
+Beim Hören werden Gottes Wege deine Wege. 
 
-Es gibt diese Leute.
-
-Du findest sie unter ganz normalen Jüngern Jesu.
+Und deine Wege werden Gottes. 
