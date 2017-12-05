@@ -1,5 +1,5 @@
 +++
-title = "Meine Wege und Gottes Wege"
+title = "Deine Wege und Gottes Wege"
 date = 2017-12-06T03:01:45Z
 image = "meine wege und gottes wege.jpg"
 +++
