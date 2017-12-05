@@ -1,7 +1,7 @@
 +++
 title = "Deine Wege und Gottes Wege"
 date = 2017-12-06T03:01:45Z
-image = "meine wege und gottes wege.jpg"
+image = "deine wege und gottes wege.jpg"
 +++
 
 Wenn du betest, wer von euch beiden redet am meisten?
