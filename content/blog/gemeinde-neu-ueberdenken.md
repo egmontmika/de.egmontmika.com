@@ -41,7 +41,7 @@ Hier einige Vorschläge:
 
 Institutionelle Kirchen neigen früher oder später zu weltlichem Management- und Geschäftsgebaren. Auch junge Gemeinden bleiben in der Regel davor nicht verschont.
 
-Deshalb ist es unabdinglich, sich von Zeit zu Zeit des ursprünglichen Auftrags zu besinnen mit der Bereitschaft, aus dem festgefahrenen System auszubrechen.
+Deshalb ist es unabdinglich, sich von Zeit zu Zeit des ursprünglichen Auftrags zu besinnen mit der Bereitschaft, aus dem fehlgeleiteten System auszubrechen.
 
 Und immer wieder ganz von vorne anzufangen.
 
