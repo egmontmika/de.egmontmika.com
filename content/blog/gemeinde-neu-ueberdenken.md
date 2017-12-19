@@ -20,28 +20,28 @@ Hier einige Vorschläge:
 
 ***Mission***
 
-- Der Missionsauftrag Jesu als der grundlegende, sämtliche Aktivitäten übergreifende Auftrag, d. h. Menschen mit Gott zu versöhnen, sie zu Jesu Jüngern zu machen, auszurüsten und auszusenden.
+- Der Missionsauftrag Jesu als der grundlegende, sämtliche Aktivitäten übergreifende Auftrag, d. h. Menschen mit Gott zu versöhnen, sie zu Jesu Jüngern zu machen, auszurüsten und auszusenden
 
 ***Gemeinschaft***
 
-- Gemeinde nicht als Institution sondern als Familie. 
-- Erweiterte Familien mit ihren Heimen als die grundlegenden Einheiten der Gemeinde an einem Ort. 
-- Wachstum durch spontane Entstehung neuer Gruppen. 
+- Gemeinde nicht als Institution sondern als Familie
+- Erweiterte Familien mit ihren Heimen als die grundlegenden Einheiten der Gemeinde an einem Ort 
+- Wachstum durch spontane Entstehung neuer Gruppen
 
 ***Leiterschaft***
 
-- Vom Geist erfüllte und berufene Leiter.
+- Vom Geist erfüllte und berufene Leiter
 - Aufhebung der Trennung von Klerus und Laien durch die Ausrüstung und Bevollmächtigung aller Jünger
 - Praktizierung des allgemeinen Priestertum
 
 ***Praxis***
 
-- Die Proklamation und Demonstration des Reiches Gottes im täglichen Leben, gekennzeichnet durch Bekehrungen, Jüngerschaft und Gaben des Geistes. 
+- Die Proklamation und Demonstration des Reiches Gottes im täglichen Leben, gekennzeichnet durch Bekehrungen, Jüngerschaft und Gaben des Geistes
 - Einheit von Leben und Lehren mit den begleitenden Zeichen
 
-Institutionelle Kirchen folgen  unweigerlich dem Trend weltlichen Management- und Geschäftsgebarens . Auch junge Gemeinden bleiben davor nicht verschont.
+Institutionelle Kirchen neigen früher oder später zu weltlichem Management- und Geschäftsgebaren. Auch junge Gemeinden bleiben in der Regel davor nicht verschont.
 
-Deshalb ist es unabdinglich, sich von Zeit zu Zeit des ursprünglichen Auftrags zu besinnen mit der Bereitschaft, aus dem festgefahrenen System immer wieder auszubrechen.
+Deshalb ist es unabdinglich, sich von Zeit zu Zeit des ursprünglichen Auftrags zu besinnen mit der Bereitschaft, aus dem festgefahrenen System auszubrechen.
 
 Und immer wieder ganz von vorne anzufangen.
 
