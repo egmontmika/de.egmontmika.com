@@ -1,7 +1,7 @@
 +++
-title = "Gemeinde neu überdenken."
+title = "Gemeinde neu überdenken"
 date = 2017-12-20T03:01:45Z
-image = "umstritten.jpg"
+image = "gemeinde neu ueberdenken.jpg"
 +++
 
 Die Formen institutionalisierter Kirche sind wahrlich langlebig.
@@ -10,7 +10,7 @@ Und wir befleißigen uns, sie am Leben zu erhalten durch Modernisierungen aller 
 
 Alles neu zu überdenken.
 
-Denn all unsere Bemühungen geschehen innerhalb des gegebenen organisatorischen Rahmens, ohne dass wir dessen grundlegende Struktur in Frage stellen: das institutionelle System mit seinen Statuten, Wahlen, Ämtern und Ausschüssen, mit seinen Gebäuden, Einsammlungen und Programmen. Mit seiner Aufteilung in Klerus/Profis und Laien.
+Denn all unsere Bemühungen geschehen innerhalb des gegebenen organisatorischen Rahmens, ohne dass wir dessen Struktur grundlegend in Frage stellen: das institutionelle System mit seinen Statuten, Wahlen, Ämtern und Ausschüssen, mit seinen Gebäuden, Einsammlungen und Programmen. Mit seiner Aufteilung in Klerus/Profis und Laien.
 
 Und mit seiner Politik.
 
@@ -39,7 +39,7 @@ Hier einige Vorschläge:
 - Die Proklamation und Demonstration des Reiches Gottes im täglichen Leben, gekennzeichnet durch Bekehrungen, Jüngerschaft und Gaben des Geistes. 
 - Einheit von Leben und Lehren mit den begleitenden Zeichen
 
-Institutionelle Kirchen folgen  uweigerlich dem Trend, in weltliches Management- und Geschäftsgebaren zu verfallen. Auch junge Gemeinden bleiben davor nicht verschont.
+Institutionelle Kirchen folgen  unweigerlich dem Trend weltlichen Management- und Geschäftsgebarens . Auch junge Gemeinden bleiben davor nicht verschont.
 
 Deshalb ist es unabdinglich, sich von Zeit zu Zeit des ursprünglichen Auftrags zu besinnen mit der Bereitschaft, aus dem festgefahrenen System immer wieder auszubrechen.
 
