@@ -14,13 +14,13 @@ Denn all unsere Bemühungen geschehen innerhalb des gegebenen organisatorischen 
 
 Und mit seiner Politik.
 
-Wie wäre es, wenn wir die Möglichkeit hätten, noch einmal ganz von vorne anzufangen? Um etwas zu schaffen, das den Absichten Jesu und der Gemeinschaft der Jünger Jesu besser entsprechen würde. Was würden wir bedenken?
+Wie wäre es, wenn wir die Möglichkeit hätten, noch einmal ganz von vorne anzufangen? Um etwas zu schaffen, das den Absichten Jesu und der Gemeinschaft der Jünger Jesu tatsächlich entsprechen würde. Was würden wir bedenken?
 
 Hier einige Vorschläge:
 
 ***Auftrag***
 
-- Der Missionsauftrag Jesu als der grundlegende, sämtliche Aktivitäten übergreifende Auftrag, d. h. Menschen mit Gott zu versöhnen, sie zu Jesu Jüngern zu machen, auszurüsten und auszusenden
+- Der Missionsauftrag Jesu als der übergreifende, sämtliche Aktivitäten einbindende Auftrag, d. h. Menschen mit Gott zu versöhnen, sie zu Jesu Jüngern zu machen, auszurüsten und auszusenden
 
 ***Gemeinschaft***
 
