@@ -10,7 +10,7 @@ Und wir befleißigen uns, sie am Leben zu erhalten durch Modernisierungen aller 
 
 Alles neu zu überdenken.
 
-Denn all unsere Bemühungen geschehen innerhalb des gegebenen organisatorischen Rahmens, ohne dass wir dessen Struktur grundlegend in Frage stellen: das institutionelle System mit seinen Statuten, Wahlen, Ämtern und Ausschüssen, mit seinen Gebäuden, Einsammlungen und Programmen. Mit seiner Aufteilung in Klerus/Profis und Laien.
+Denn all unsere Bemühungen geschehen innerhalb des gegebenen organisatorischen Rahmens, ohne dass wir dessen Struktur grundlegend in Frage stellen: Das institutionelle System mit seinen Statuten, Wahlen, Ämtern und Ausschüssen, mit seinen Gebäuden, Einsammlungen und Programmen. Mit seiner Aufteilung in Klerus/Profis und Laien.
 
 Und mit seiner Politik.
 
@@ -39,7 +39,7 @@ Hier einige Vorschläge:
 - Die Proklamation und Demonstration des Reiches Gottes im täglichen Leben, gekennzeichnet durch Bekehrungen, Jüngerschaft und Gaben des Geistes
 - Einheit von Leben und Lehren mit den begleitenden Zeichen
 
-Institutionelle Kirchen verfallen früher oder später weltlichem Management- und Geschäftsgebaren. Auch junge Gemeinden bleiben in der Regel davor nicht verschont.
+Institutionelle Kirchen verfallen früher oder später weltlichem Management- und Geschäftsgebaren. Auch junge Gemeinden bleiben in der Regel davor nicht ver-schont.
 
 Deshalb ist es unabdinglich, sich von Zeit zu Zeit des ursprünglichen Auftrags zu besinnen mit der Bereitschaft, aus dem fehlleitenden System auszubrechen.
 
