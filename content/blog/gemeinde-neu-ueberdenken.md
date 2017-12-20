@@ -25,7 +25,7 @@ Hier einige Vorschläge:
 ***Gemeinschaft***
 
 - Gemeinde nicht als Institution sondern als Familie
-- Erweiterte Familien mit ihren Heimen als die grundlegenden Einheiten der Gemeinde an einem Ort 
+- Erweiterte Familien mit ihren Heimen als die Basis der Gemeinde an einem Ort 
 - Wachstum durch spontane Entstehung neuer Gruppen
 
 ***Leiterschaft***
