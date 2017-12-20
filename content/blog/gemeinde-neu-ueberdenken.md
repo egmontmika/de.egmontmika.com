@@ -18,7 +18,7 @@ Wie wäre es, wenn wir die Möglichkeit hätten, noch einmal ganz von vorne anzu
 
 Hier einige Vorschläge:
 
-***Mission***
+***Auftrag***
 
 - Der Missionsauftrag Jesu als der grundlegende, sämtliche Aktivitäten übergreifende Auftrag, d. h. Menschen mit Gott zu versöhnen, sie zu Jesu Jüngern zu machen, auszurüsten und auszusenden
 
@@ -39,9 +39,9 @@ Hier einige Vorschläge:
 - Die Proklamation und Demonstration des Reiches Gottes im täglichen Leben, gekennzeichnet durch Bekehrungen, Jüngerschaft und Gaben des Geistes
 - Einheit von Leben und Lehren mit den begleitenden Zeichen
 
-Institutionelle Kirchen neigen früher oder später zu weltlichem Management- und Geschäftsgebaren. Auch junge Gemeinden bleiben in der Regel davor nicht verschont.
+Institutionelle Kirchen verfallen früher oder später weltlichem Management- und Geschäftsgebaren. Auch junge Gemeinden bleiben in der Regel davor nicht verschont.
 
-Deshalb ist es unabdinglich, sich von Zeit zu Zeit des ursprünglichen Auftrags zu besinnen mit der Bereitschaft, aus dem fehlgeleiteten System auszubrechen.
+Deshalb ist es unabdinglich, sich von Zeit zu Zeit des ursprünglichen Auftrags zu besinnen mit der Bereitschaft, aus dem fehlleitenden System auszubrechen.
 
 Und immer wieder ganz von vorne anzufangen.
 
