@@ -1,12 +1,14 @@
 +++
 title = "Sorgen überwinden - 3 Schritte"
-date = 2018-01-17T03:01:45Z
+date = 2018-01-15T03:01:45Z
 image = "dont worry.jpg"
 +++
 
-Sich zu sorgen ist keine Tugend.
+Sich zu sorgen ist keine Tugend, falls jemand das glauben sollte.
 
-Im Gegenteil. Sorgen sind absolut schädlich. Sorgen sind Gift.
+Im Gegenteil. Sorgen sind absolut schädlich. 
+
+Sorgen sind Gift.
 
 Sorgen rauben dir Kraft und Zeit, vernebeln dir den Glauben, stehlen dir die 
 Freude und halten dich von deiner Arbeit ab. Zermürben dich geistlich, seelisch und körperlich.
@@ -24,13 +26,14 @@ Es ist die Angst vor der Zukunft. Davor, dass etwas schief gehen oder irgend etw
 Schreckliches eintreffen könnte. Jedoch ist bis jetzt nichts davon eingetroffen. Und 
 wahrscheinlich kommt da auch nichts. Oder es kommt sowieso ganz anders.
 
-Wie können wir Sorgen loswerden? In folgenden drei Schritten:
+Wie können wir Sorgen loswerden? In folgenden drei Schritte:
 
 - Am Anfang steht deine Entscheidung, dir KEINE Sorgen zu machen. Du entscheidest dich 
 bewusst gegen das, was du im Augenblick noch erlebst und weigerst dich, diesen Gedanken 
 Raum zu geben.
 
-- Dann unternimmst du konkrete, vorbeugende Schritte, soweit es dir möglich ist.
+- Dann unternimmst du konkrete, vorbeugende Schritte, soweit es dir möglich ist. Du tust, 
+was getan werden muss oder getan werden kann.
 
 - Schließlich richtest du deine Gedanken auf ein höheres Ziel und vertraust darauf, dass es im Falle einer Katastrophe immer einen Ausweg geben wird. Du vertraust auf Gott.
 
