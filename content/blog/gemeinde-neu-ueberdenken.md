@@ -20,29 +20,28 @@ Hier einige Vorschläge:
 
 ***Auftrag***
 
-- Der Missionsauftrag Jesu sollte der übergreifende, sämtliche Aktivitäten einbindende Auftrag sein. Es geht darum, Menschen mit Gott zu versöhnen, sie zu Jesu Jüngern zu machen, auszurüsten und auszusenden.
+- Der Missionsauftrag Jesu als die übergreifende, sämtliche Aktivitäten einschließende Aufgabe, wobei es darum geht, Menschen mit Gott zu versöhnen, sie zu Jesu Jüngern zu machen, auszurüsten und auszusenden.
 
 ***Gemeinschaft***
 
-- Gemeinde sollte nicht als Institution sondern als Familie gesehen werden.
-- Erweiterte Familien mit ihren Heimen könnten die Basis der Gemeinde an einem Ort sein.
-- Wachstum und Ausbreitung könnte durch die Bildung neuer Gruppen entstehen.
+- Gemeinde nicht als Institution sondern als Familie verstanden.
+- Erweiterte Familien mit ihren Heimen als die Basis der Gemeinde an einem Ort.
+- Wachstum und Ausbreitung durch die laufende Bildung neuer Gruppen.
 
 ***Leiterschaft***
 
-- Leiter sollten vom Geist erfüllt und berufen sein und sich in der Praxis als solche bewähren.
-- Statt Trennung von Klerus und Laien das „allgemeine Priestertum", d.h. die Ausrüstung und Bevollmächtigung zum Dienst aller Jünger.
+- Leiter als vom Geist erfüllte und ausgerüstete Jünger erkannt und bestätigt.
+- Die Verwirklichung des „allgemeinen Priestertums", d.h. die Ausrüstung und Bevollmächtigung zum Dienst aller Jünger.
 
 ***Praxis***
 
-- Die Proklamation und Demonstration des Reiches Gottes im täglichen Leben.
+- Die Verkündigung und Verwirklichung des Reiches Gottes im täglichen Leben.
 - Der Einsatz der Gaben des Geistes, einschließlich der begleitenden Zeichen.
 - Das Gemeindeleben, gekennzeichnet durch Bekehrungen, Taufen und Jüngerschaftstraining.
-- Die Einheit von Leben und Lehre 
 
-Institutionelle Kirchen verfallen früher oder später weltlichem Management- und Geschäftsgebaren. Auch junge Gemeinden bleiben in der Regel davor nicht ver-schont.
+Leider verfallen institutionelle Kirchen in der Regel früher oder später weltlichem Management- und Geschäftsgebaren. Auch junge Gemeinden bleiben in der Regel davor nicht verschont.
 
-Deshalb ist es unabdinglich, sich von Zeit zu Zeit des ursprünglichen Auftrags zu besinnen mit der Bereitschaft, aus dem fehlleitenden System auszubrechen.
+Deshalb ist es unabdinglich, sich von Zeit zu Zeit des ursprünglichen Auftrags zu besinnen mit der Bereitschaft, aus einem fehlleitenden System auszubrechen.
 
 Und immer wieder ganz von vorne anzufangen.
 
