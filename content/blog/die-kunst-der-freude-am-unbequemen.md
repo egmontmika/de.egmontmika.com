@@ -1,6 +1,6 @@
 +++
 title = "Die Kunst der Freude am Unbequemen"
-date = 2017-01-31T03:01:45Z
+date = 2018-01-31T03:01:45Z
 image = "deine wege und gottes wege.jpg"
 +++
 Fortschritt und Bequemlichkeit passen nicht zusammen.
