@@ -5,13 +5,15 @@ image = "die kunst der freude am unbequemen.jpg"
 +++
 Fortschritt und Bequemlichkeit passen nicht zusammen.
 
-Während nicht alles was unbequem ist, automatisch Fortschritt bringt, so geht doch mit Fortschritt in der Regel eine gewisse Unbequemlichkeit einher.
+Während nicht alles was unbequem ist, automatisch auch Fortschritt bringt, so geht doch mit Fortschritt in der Regel eine gewisse Unbequemlichkeit einher.
 
-Fortschritt wird oft erst möglich, wenn wir die gewohnten Bahnen verlassen. Wenn es unbequem wird.
+Fortschritt wird oft erst möglich, wenn wir die gewohnten Bahnen verlassen. 
 
-Die Schrift gibt uns zahlreiche Beispiele dafür, dass der Ruf Gottes selten in ein bequemes Leben führt. Vielmehr erwartet er, dass wir die Geborgenheit der gewohnten Umgebung verlassen und alle Sicherheiten hinter uns zu lassen. Dazu gehört so manche liebgewonnene Gewohnheit.
+Wenn es unbequem wird.
 
-Nie versprach Jesus seinen Jüngern ein bequemes Leben, machte jedoch keinen Hehl daraus, was sie zu erwarten hatten: Unbequemlichkeiten, Ungewissheit, Hass und Verfolgung. In all dem, so versprach er, würden sie jedoch „Frucht” bringen.
+Die Schrift gibt uns zahlreiche Beispiele dafür, dass der Ruf Gottes selten in ein bequemes Leben führt. Vielmehr erwartet er, dass wir die Geborgenheit der gewohnten Umgebung verlassen und unsere Sicherheiten hinter uns lassen. Dazu gehört so manche liebgewonnene Gewohnheit.
+
+Nie versprach Jesus seinen Jüngern ein bequemes Leben, machte jedoch keinen Hehl daraus, was sie zu erwarten hatten: Unbequemlichkeiten, Ungewissheit, Hass und Verfolgung. In all dem, so versprach er, würden sie jedoch „Frucht” bringen, also in seinem Sinn Erfolg haben.
 
 Ist das zu hart?
 
@@ -21,4 +23,4 @@ Sie haben es gelernt, aus Unbequemlichkeiten Vorteile zu ziehen und ungewöhnlic
 
 Sie suchen die Herausforderung und wachsen an ihr.
 
-Das ist die Kunst der Freude am Unbequemen.
+Und erlernen dabei die Kunst der Freude am Unbequemen.
