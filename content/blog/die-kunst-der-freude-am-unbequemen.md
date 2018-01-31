@@ -21,6 +21,6 @@ Nicht jedem. Aber doch denjenigen, die sich für Jeus entschieden haben. Sie beh
 
 So haben sie gelernt, aus Unbequemlichkeiten und Widerstand Vorteile zu ziehen. 
 
-Nicht nur sind sie bereit,ungewöhnliche Anstrengungen in Kauf zu nehmen, sie haben sie sogar schätzen gelernt. 
+Nicht nur sind sie bereit, ungewöhnliche Anstrengungen in Kauf zu nehmen, sie haben sie sogar schätzen gelernt. 
 
 Das ist die Kunst der Freude am Unbequemen.
