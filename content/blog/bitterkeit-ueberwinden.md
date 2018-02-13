@@ -1,6 +1,6 @@
 +++
 title = "Bitterkeit überwinden - 3 Schritte"
-date = 2017-02-14T03:01:45Z
+date = 2018-02-14T03:01:45Z
 image = "gemeinde neu ueberdenken.jpg"
 +++
 
@@ -46,3 +46,4 @@ so kannst du immerhin deine Bitterkeit einsehen und bekennen. Denn Bitterkeit is
 Dann mach es im Gebet. Der Herr wird dich hören und dich heilen.
 
 Und du bist frei. So kostbar.
+
