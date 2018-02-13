@@ -11,7 +11,9 @@ Entwicklung wird oft erst möglich, wenn wir die gewohnten Bahnen verlassen.
 
 Wenn es unbequem wird.
 
-Das gilt nicht nur für den Sport, sondern zum Beispiel auch für das geistliche Leben. Die Schrift gibt uns zahlreiche Beispiele dafür, dass der Ruf Gottes selten in ein bequemes Leben führt. Vielmehr erwartet er, dass wir bereit sind, die Geborgenheit der gewohnten Umgebung mit ihren Sicherheiten zu verlassen. Dem kann auch so manche liebgewonnene Gewohnheit oder Leidenschaft zum Opfer fallen.
+Das gilt nicht nur für den Sport, sondern zum Beispiel auch für das geistliche Leben. 
+
+Die Schrift gibt uns zahlreiche Beispiele dafür, dass der Ruf Gottes selten in ein bequemes Leben führt. Vielmehr erwartet er, dass wir bereit sind, die Geborgenheit der gewohnten Umgebung mit ihren Sicherheiten zu verlassen. Dem kann auch so manche liebgewonnene Gewohnheit oder Leidenschaft zum Opfer fallen.
 
 Nie versprach Jesus seinen Jüngern ein bequemes Leben, machte jedoch keinen Hehl daraus, was sie zu erwarten hatten, nämlich Unbequemlichkeiten, Ungewissheit, Hass, Spott und Verfolgung. In alledem, so versprach er, würden sie jedoch „Frucht” bringen.
 
