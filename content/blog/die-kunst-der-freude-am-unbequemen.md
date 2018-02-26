@@ -3,7 +3,7 @@ title = "Die Kunst der Freude am Unbequemen"
 date = 2018-01-31T03:01:45Z
 image = "die kunst der freude am unbequemen.jpg"
 +++
-Entnwicklung und Bequemlichkeit passen nicht zusammen.
+Entwicklung und Bequemlichkeit passen nicht zusammen.
 
 Während nicht alles was unbequem ist, automatisch auch Entwicklung bringt, so geht doch mit Entwicklung in der Regel eine gewisse Unbequemlichkeit einher.
 

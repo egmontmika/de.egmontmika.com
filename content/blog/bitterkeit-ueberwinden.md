@@ -1,15 +1,14 @@
 +++
-title = "Bitterkeit überwinden - 3 Schritte"
+title = "Bitterkeit überwinden"
 date = 2018-02-14T03:01:45Z
-image = "gemeinde neu ueberdenken.jpg"
+image = "overcoming bitterness.jpg"
 +++
 
-Bitterkeit tötet.
+Bitterkeit macht krank.
 
-An Vorwürfen und Anklagen festzuhalten, schadet uns selbst mehr als manches andere. Vielleicht sogar mehr noch, als was andere dir antun können. 
-Bitterkeit stiehlt dir den Frieden und zerbricht dich innerlich, sowohl emotional als auch geistlich, aber auch mit körperlichen Symptomen.
+An Vorwürfen und Anklagen festzuhalten, schadet uns selbst mehr als manches andere. Vielleicht sogar mehr noch, als was andere uns antun können. Bitterkeit stiehlt uns den Frieden und zerbricht uns innerlich, sowohl emotional als auch geistlich, aber auch körperlich.
 
-Wie kann man Bitterkeit überwinden? Hier drei Schritte:
+Wie kann Bitterkeit überwunden werden? Hier drei Schritte:
 
 **Schritt 1**
 
@@ -18,9 +17,7 @@ Schluss machen mit den Anklagen, mit dem Jammern und dem Selbstmitleid. Aufhöre
 
 Sag einfach: Schluss damit!
 
-Überwinden fängt mit dieser Entscheidung an. Jeder kann sie treffen, ganz gleich wer schuldig od
-er unschuldig ist. Ganz gleich, wie gross der Schaden ist und auch ganz gleich, wie du dich im A
-ugenblick fühlst. Wenn die Entscheidung gefallen ist, werden die Gefühle folgen.
+Überwinden fängt mit dieser Entscheidung an. Jeder kann sie treffen, ganz gleich wer schuldig oder unschuldig ist. Ganz gleich, wie gross der Schaden ist und auch ganz gleich, wie du dich im Augenblick fühlst. Wenn die Entscheidung gefallen ist, werden die Gefühle früher oder später folgen.
 
 **Schritt 2**
 
@@ -37,7 +34,7 @@ Ich vergebe dir. Du bist frei.”
 
 **Schritt 3**
 
-Aber da gibt es noch einen dritten Schritt, der nicht übergangen werden sollte.
+Da gibt es noch einen dritten Schritt, der nicht übergangen werden sollte.
 
 Du musst auch deine eigene Schuld zugeben. Denn, ob du es wahrhaben willst oder nicht, 
 so hast auch du Schuld. Falls dir nichts einfällt, was du vor dem anderen zugeben kannst, 
@@ -45,5 +42,5 @@ so kannst du immerhin deine Bitterkeit einsehen und bekennen. Denn Bitterkeit is
 
 Dann mach es im Gebet. Der Herr wird dich hören und dich heilen.
 
-Und du bist frei. So kostbar.
+Dann bist DU frei. So kostbar.
 
