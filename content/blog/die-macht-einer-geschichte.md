@@ -1,7 +1,7 @@
 +++
 title = "Die Macht einer Geschichte"
 date = 2018-02-28T03:01:45Z
-image = "die macht einer geschichte.jpg"
+image = "die Macht einer Geschichte.jpg"
 +++
 Am Anfang schuf Gott…
 
@@ -19,7 +19,7 @@ Da gibt es Werte, Überzeugungen und Erfahrungen, eine ungeschriebene Grundhaltu
 
 Es gibt da die geistliche Dimension.
 
-Deshalb übertrifft keine Darstellung die mündliche, wenn sie mit Überzeugung und Glaube vorgetragen wird. Von jemandem, der die Geschichte nicht nur in- und auswendig kennt, sondern auch liebt und in seine eigene Glaubenswelt aufgenommen hat. Von jemandem, der inspiriert ist vom Geist der Geschichte.
+Deshalb übertrifft keine Darstellung die mündliche, wenn sie mit Überzeugung und Glaube vorgetragen wird. Von jemandem, der die Geschichte nicht nur in- und auswendig kennt, sondern auch liebt und in seine eigene Glaubenswelt aufgenommen hat. Von jemandem, der inspiriert ist vom Geist dieser Geschichte.
 
 So wird die Geschichte wahrhaft lebendig.
 
