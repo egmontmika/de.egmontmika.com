@@ -23,6 +23,7 @@ Deshalb übertrifft keine Darstellung die mündliche, wenn sie mit Überzeugung 
 
 So wird die Geschichte wahrhaft lebendig.
 
-So werden wir auf einen gemeinsamen, wesentlicheren Grund gestellt, der uns befähigt, selbstauferlegte menschliche Grenzen zu überschreiten, Beziehungen zu stärken, gegenseitiges Vertrauen aufzubauen und für eine gemeinsame Zukunft zu arbeiten.
+So werden wir auf einen gemeinsamen, wesentlicheren Grund gestellt, der uns befähigt, selbstauferlegte menschliche Grenzen zu überschreiten, Beziehungen zu stärken und gegenseitiges Vertrauen aufzubauen.
 
-Darin liegt die Macht der Geschichte.
+Und für eine gemeinsame Zukunft zu wirken.
+
