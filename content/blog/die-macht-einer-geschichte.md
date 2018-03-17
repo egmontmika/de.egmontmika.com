@@ -1,6 +1,6 @@
 +++
 title = "Die Macht einer Geschichte"
-date = 2018-02-28T03:01:45Z
+date = 2018-02-26T03:01:45Z
 image = "die Macht einer Geschichte.jpg"
 +++
 Am Anfang schuf Gott…
@@ -13,7 +13,7 @@ Hier erfahren wir über das Woher und Wozu allen Lebens, insbesondere unseres ei
 
 Hier erfahren wir, wer wir sind.
 
-Die Schönheit und Macht dieser Geschichte erlebt man am besten, wenn sie mündlich erzählt wird. Eine ungefähre Kenntis ihres Inhalts reicht dazu nicht. Diese Geschichte selbst niederzuschreiben oder Wort um Wort aufmerksam zu lesen, ist schon weit besser, vermittelt jedoch noch nicht das Erlebnis, wie es nur einem mündlichen Erzähler gelingen kann.
+Die Schönheit und Macht dieser Geschichte erlebt man am besten, wenn sie mündlich erzählt wird. Eine ungefähre Kenntis ihres Inhalts reicht nicht aus. Diese Geschichte selbst niederzuschreiben oder Wort um Wort aufmerksam zu lesen, ist schon weit besser, vermittelt jedoch noch nicht das Erlebnis, wie es nur einem mündlichen Erzähler gelingen kann.
 
 Da gibt es Werte, Überzeugungen und Erfahrungen, eine ungeschriebene Grundhaltung, die am eindrücklichsten und überzeugendsten von Person zu Person weitergegeben wird.
 
