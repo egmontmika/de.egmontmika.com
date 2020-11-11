@@ -1,19 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://de.egmontmika.com/blog/anfrage/</loc>
-    <lastmod>2018-04-22T03:01:45+00:00</lastmod>
+    <loc>http://de.egmontmika.com/blog/</loc>
+    <lastmod>2018-03-28T03:01:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/blog/wer-entscheidet-uber-dein-inneres/</loc>
-    <lastmod>2018-04-19T03:01:45+00:00</lastmod>
+    <loc>http://de.egmontmika.com/</loc>
+    <lastmod>2018-03-28T03:01:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/blog/leben-und-tod-in-deiner-hand/</loc>
-    <lastmod>2018-04-03T03:01:45+00:00</lastmod>
+    <loc>http://de.egmontmika.com/blog/leben-oder-tod/</loc>
+    <lastmod>2018-03-28T03:01:45+00:00</lastmod>
   </url>
   
   <url>
@@ -172,17 +173,17 @@
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/blog/worauf-es-wirklich-ankommt-teil-III/</loc>
+    <loc>http://de.egmontmika.com/blog/worauf-es-wirklich-ankommt-teil-iii/</loc>
     <lastmod>2016-09-28T03:01:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/blog/worauf-es-wirklich-ankommt-teil-II/</loc>
+    <loc>http://de.egmontmika.com/blog/worauf-es-wirklich-ankommt-teil-ii/</loc>
     <lastmod>2016-09-14T03:01:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/blog/worauf-es-wirklich-ankommt-teil-I/</loc>
+    <loc>http://de.egmontmika.com/blog/worauf-es-wirklich-ankommt-teil-i/</loc>
     <lastmod>2016-08-31T03:01:45+00:00</lastmod>
   </url>
   
@@ -202,7 +203,7 @@
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/blog/wie-viel-stabilit%C3%A4t-wollen-wir/</loc>
+    <loc>http://de.egmontmika.com/blog/wie-viel-stabilita%CC%88t-wollen-wir/</loc>
     <lastmod>2016-05-11T03:01:45+00:00</lastmod>
   </url>
   
@@ -317,7 +318,7 @@
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/blog/%C3%BCberwindlung-der-angst/</loc>
+    <loc>http://de.egmontmika.com/blog/u%CC%88berwindlung-der-angst/</loc>
     <lastmod>2015-05-06T03:01:45+00:00</lastmod>
   </url>
   
@@ -332,7 +333,7 @@
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/blog/arbeite-nicht-f%C3%BCr-gott/</loc>
+    <loc>http://de.egmontmika.com/blog/arbeite-nicht-fu%CC%88r-gott/</loc>
     <lastmod>2015-03-04T03:01:45+00:00</lastmod>
   </url>
   
@@ -377,7 +378,7 @@
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/blog/gehirnw%C3%A4sche/</loc>
+    <loc>http://de.egmontmika.com/blog/gehirnwa%CC%88sche/</loc>
     <lastmod>2014-10-23T03:01:45+00:00</lastmod>
   </url>
   
@@ -422,19 +423,15 @@
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/blog/glaube%20ist%20nicht%20religion/</loc>
+    <loc>http://de.egmontmika.com/blog/glaube-ist-nicht-religion/</loc>
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/blog/</loc>
-    <lastmod>2018-04-22T03:01:45+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://de.egmontmika.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/</loc>
-    <lastmod>2018-04-22T03:01:45+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://de.egmontmika.com/tags/</loc>
   </url>
   
 </urlset>
