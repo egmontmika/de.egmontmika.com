@@ -36,7 +36,7 @@
     <h1>Bisherige Artikel</h1>
     <nav>
       <ul>
-        {{ range .Site.Sections.blog.Pages.ByDate.Reverse }}
+        {{ range (where .Site.Pages "Section" "blog").ByDate.Reverse }}
         <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
         {{ end }}
       </ul>

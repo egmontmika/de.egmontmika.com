@@ -55,7 +55,7 @@
   </section>
   <section>
     <header><h1>Die beiden letzten Artikel</h1></header>
-    {{ range first 2 .Site.Sections.blog.Pages.ByDate.Reverse }}
+    {{ range first 2 (where .Site.Pages "Section" "blog").ByDate.Reverse }}
       <article>
         <header>
           <h1><a href='{{ .Permalink }}'>{{ .Title }}</a></h1>
